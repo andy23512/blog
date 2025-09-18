@@ -1,7 +1,7 @@
 ---
 title: Tangent's Latest Chord List
 date: 2024-03-14 10:39:04
-updated: 2025-01-16 01:09:49
+updated: 2025-09-18 16:55:20
 categories: [Article,Chord]
 ---
 {% blockquote %}
@@ -38,6 +38,7 @@ P.S. 2: The latest backup file of my chords is at [this url](https://raw.githubu
 |s+v+/|Service|Capitalized service.|
 |s+t|string|[`string`](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#the-primitives-string-number-and-boolean) is a frequently used type in TypeScript|
 |s+u+b|subscribe|[subscribe](https://rxjs.dev/api/index/class/Observable#subscribe) is a frequently used method of Observable in RxJS.|
+|u+p|update|"update" is a frequently used word when I write the git commit message.|
 
 ### Japanese chords
 
