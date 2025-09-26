@@ -18,8 +18,8 @@ async function callHackMdApi<T>(url: string): Promise<T> {
       },
     }).then((res) => res.json());
   } catch {
-    console.log("api error, retry in 10s.");
-    await sleep(10000);
+    console.log("api error, retry in 5 min.");
+    await sleep(5 * 60 * 1000);
     return await callHackMdApi(url);
   }
 }

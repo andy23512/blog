@@ -1,7 +1,7 @@
 ---
 title: Tangent's Bundle Comparison Note of Master Forge
 date: 2024-10-10 18:59:04
-updated: 2025-05-24 06:52:12
+updated: 2025-09-26 12:20:26
 categories: [Note,Comparison]
 ---
 ## Comparison Table
@@ -18,8 +18,8 @@ Notice:
 |Right Digtitizer|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |Electrical Bridge Connector|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |[Mechanical Bridge Bolt-On](https://forgekeyboard.com/collections/bolt-ons%E2%84%A2/products/mechanical-bridge)|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
-|USB-A to USB-C Power Cable|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
-|USB-C to USB-C Cable|<div class="check"></div>||<div class="check"></div>||<div class="check"></div>|
+|USB-A to USB-C Power Cable [^cable]|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
+|USB-C to USB-C Cable [^cable]|<div class="check"></div>||<div class="check"></div>||<div class="check"></div>|
 |[Ergo Bolt-On](https://forgekeyboard.com/collections/bolt-ons%E2%84%A2/products/ergo-bolt-on%E2%84%A2) (4)|<div class="check"></div>||<div class="check"></div>||<div class="check"></div>|
 |Forge Trackball Bolt-On|<div class="check"></div> (2)||<div class="check"></div> (1)||<div class="check"></div>(1)|
 |Tactical Carrying Case|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
@@ -46,3 +46,5 @@ Notice:
 - [Master Forge Kickstarter reward page](https://www.kickstarter.com/projects/charachorder/the-master-forge-a-keyboard-built-for-you/rewards)
 - [Discord message](https://discord.com/channels/861730583092658206/1282698538144497755/1282699704416735272)
 - [Master Forge Official Documentation](https://docs.charachorder.com/Master%20Forge.html#master-forge-configurations)
+
+[^cable]: According to [the video "How It's Made: The Master Forge,"](https://youtu.be/7wb-JlZ2qP0?feature=shared&t=1988) there has been a slight change in the cables. Instead of using braided or coiled cables, insulated cables are now used, which are much more expensive and higher in quality.
