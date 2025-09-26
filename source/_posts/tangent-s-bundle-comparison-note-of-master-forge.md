@@ -1,7 +1,7 @@
 ---
 title: Tangent's Bundle Comparison Note of Master Forge
 date: 2024-10-10 18:59:04
-updated: 2025-09-26 12:20:26
+updated: 2025-09-26 22:11:02
 categories: [Note,Comparison]
 ---
 ## Comparison Table
@@ -21,7 +21,7 @@ Notice:
 |USB-A to USB-C Power Cable [^cable]|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |USB-C to USB-C Cable [^cable]|<div class="check"></div>||<div class="check"></div>||<div class="check"></div>|
 |[Ergo Bolt-On](https://forgekeyboard.com/collections/bolt-ons%E2%84%A2/products/ergo-bolt-on%E2%84%A2) (4)|<div class="check"></div>||<div class="check"></div>||<div class="check"></div>|
-|Forge Trackball Bolt-On|<div class="check"></div> (2)||<div class="check"></div> (1)||<div class="check"></div>(1)|
+|Forge Trackball Bolt-On[^trackball]|<div class="check"></div> (2)||<div class="check"></div> (1)||<div class="check"></div>(1)|
 |Tactical Carrying Case|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |[Forge Cleat](https://forgekeyboard.com/collections/add-ons/products/forge-cleat)|<div class="check"></div>||<div class="check"></div>||<div class="check"></div>|
 |M3 Allen Wrench|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
@@ -48,3 +48,4 @@ Notice:
 - [Master Forge Official Documentation](https://docs.charachorder.com/Master%20Forge.html#master-forge-configurations)
 
 [^cable]: According to [the video "How It's Made: The Master Forge,"](https://youtu.be/7wb-JlZ2qP0?feature=shared&t=1988) there has been a slight change in the cables. Instead of using braided or coiled cables, insulated cables are now used, which are much more expensive and higher in quality.
+[^trackball]: According to [the official documentation](https://docs.charachorder.com/Master%20Forge.html#forge-website-pre-orders), as of March of 2025, the Forge Trackball Bolt-On has not finished development. As such, some pre-orders and Kickstarter backers may not receive their trackball bolt-ons with their Master Forge. These will be shipped at a later time.
