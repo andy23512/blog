@@ -1,7 +1,7 @@
 ---
 title: Alnitak - a practice tool of CharaChorder 3D input devices developed by Tangent
 date: 2024-05-01 19:10:38
-updated: 2025-05-30 09:58:44
+updated: 2025-09-27 13:31:29
 categories: [Article,Creation]
 ---
 {% blockquote %}
@@ -34,7 +34,7 @@ categories: [Article,Creation]
   - only show the labels of keys from the input of the selected chords
   - highlight the keys of current chord
 - Layout Viewer
-  - can view the final layout (actual output under the seleced OS keyboard layout) by layers and with/without shift
+  - can view the final layout (actual output under the seleced OS keyboard layout) by layers and modifier keys (Shift and Alt Graph)
   - search for a key in the layout
   - print the final layout (or generate a pdf file of it)
 
