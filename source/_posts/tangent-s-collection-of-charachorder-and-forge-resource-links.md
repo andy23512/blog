@@ -1,7 +1,7 @@
 ---
 title: Tangent's Collection of CharaChorder and Forge Resource Links
 date: 2023-03-29 21:16:09
-updated: 2025-08-03 10:24:59
+updated: 2025-09-30 09:19:33
 categories: [Note,Resource]
 ---
 {% blockquote %}
@@ -33,6 +33,8 @@ categories: [Note,Resource]
 
 #### Kickstarter
 
+##### [CharaChorder X - Type at the Speed of Thought.® by CharaChorder — Kickstarter](https://www.kickstarter.com/projects/charachorder/charachorder-x-type-at-the-speed-of-thought)
+
 ##### [The Master Forge: A Keyboard Built for You by CharaChorder — Kickstarter](https://www.kickstarter.com/projects/charachorder/the-master-forge-a-keyboard-built-for-you/rewards#reward-UmV3YXJkLVVtVjNZWEprTFRFd01ETTVNell3)
 
 #### Documentation
@@ -52,6 +54,10 @@ categories: [Note,Resource]
 
 {% collapsecard "Show Detail" %}In CharaChorder Essentials, there are in-depth tutorial videos provided by CharaChorder. These videos can help you unlock the full potential of your CharaChorder device.
 {% endcollapsecard %}
+
+- ChorderCon
+  - [2023](https://youtu.be/fux9gU3M25E?feature=shared)
+  - [ 2024](https://youtu.be/yh5c10bW7z0?feature=shared)
 
 #### Others
 
