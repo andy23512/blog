@@ -1,7 +1,7 @@
 ---
 title: Tangent's Latest Chord List
 date: 2024-03-14 10:39:04
-updated: 2025-10-01 12:19:45
+updated: 2025-10-02 18:07:21
 categories: [Article,Chord]
 ---
 {% blockquote %}
@@ -33,6 +33,7 @@ P.S. 2: The latest backup file of my chords is at [this url](https://raw.githubu
 |i+m|import|`import` is a frequently used declaration in both [JavaScript/TypeScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) and [Python](https://docs.python.org/3/tutorial/modules.html) to import other modules.|
 |i+n|interface|[`interface`](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#interfaces) is a frequently used declaration in TypeScript.|
 |o+b+s|Observable|[Observable](https://rxjs.dev/api/index/class/Observable) is a frequently used class or type in Angular.|
+|p+n|preference|"preference" is a frequently used word in my work.|
 |r+m|remove|"remove" is a frequently used word when I write the git commit message.|
 |r+o|readonly|[`readonly`](https://www.typescriptlang.org/docs/handbook/2/classes.html#readonly) is a frequently used modifier in TypeScript.|
 |s+v|service|[Service](https://angular.dev/guide/di/creating-injectable-service) is a frequently used word in Angular.|
