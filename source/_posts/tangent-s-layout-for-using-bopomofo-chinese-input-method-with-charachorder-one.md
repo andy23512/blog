@@ -1,7 +1,7 @@
 ---
 title: Tangent's layout for using Bopomofo Chinese input method with CharaChorder One
 date: 2023-05-08 00:27:01
-updated: 2025-03-26 23:46:45
+updated: 2025-10-05 22:08:38
 categories: [Article,Layout]
 ---
 {% blockquote %}
@@ -19,7 +19,7 @@ In this section, I will explain some existing Bopomofo layouts and their problem
 
 Standard Bopomofo is the layout I've used since I started to learn Chinese typing.
 
-On a normal keyboard, symbols are placed in the same way as the Bopomofo table, so it is easy to find the location of each symbol if one has already been familiar with Bopomofo. Also, one can input the consonant, rhyme, and medial of a Chinese character at the same time[^bpmf_chord] (I call it "Bopomofo chord"). Furthermore, the frequently used symbols (`ㄐㄑㄒㄓㄔㄕ一ㄨㄩ`) are placed near the center of the keyboard (for index fingers). 
+On a normal keyboard, symbols are placed in the same way as the Bopomofo table, so it is easy to find the location of each symbol if one has already been familiar with Bopomofo. Also, one can input the consonant, rhyme, and medial of a Chinese character at the same time (I call it "Bopomofo chord"). Furthermore, the frequently used symbols (`ㄐㄑㄒㄓㄔㄕ一ㄨㄩ`) are placed near the center of the keyboard (for index fingers). 
 
 However, since CC1's layout is completely different from a normal keyboard, the Bopomofo symbols are not easy to find and learn. And since some Bopomofo symbols are on the number or symbol keys on a normal keyboard (such as `1` for `ㄅ`, `/` for `ㄥ`), one needs to switch the layer to get those Bopomofo symbols when typing on CC1. So it is impossible to do "Bopomofo chord" for every combination of Bopomofo with this layout on CC1.
 
