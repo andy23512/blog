@@ -1,11 +1,9 @@
 ---
 title: Tangent's suggestions for learning English character entry on CharaChorder 3D input devices
 date: 2025-06-30 19:38:13
-updated: 2025-09-27 07:37:19
+updated: 2025-10-18 20:46:24
 categories: [Article,Language]
 ---
-
-
 
 ## Practice device layout
 
@@ -15,17 +13,22 @@ categories: [Article,Language]
   - Letters tier at [dot i/o](https://www.iq-eq.io/#/)
   - Alphabetic tier at [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/)
   - Number, letter, and symbol lessons at [Alnitak](https://andy23512.github.io/alnitak/)
+  - Guided Lessons at [Keybr](https://www.keybr.com/) with [Keybr CC Extension](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg)
+    - P.S. It's recommended to set the target speed to 15 here.
 - Recommended goal:
   - Reach 13 WPM at Letters tier at [dot i/o](https://www.iq-eq.io/#/) or Alphabetic tier at [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/)
   - Reach 100 Combos and 100 CPM at non-review lessons at [Alnitak](https://andy23512.github.io/alnitak/)
+  - All the letters become green at [Keybr](https://www.keybr.com/)
 
-{% collapsecard "Explanations" %}Unlike standard keyboards, CharaChorder 3D input devices, including CharaChorder One, CharaChorder Two, and Master Forge, don't have key labels on them, so learning touch typing is crucial for better using them. Therefore, the first thing we need to get familiar with is the positions of each key.
+{% collapsecard "Explanations" %}Unlike standard keyboards, CharaChorder 3D input devices, including CharaChorder One, CharaChorder Two, and Master Forge, don't have key labels on them, so learning touch typing is crucial for practical use. Therefore, the first thing we need to get familiar with is the positions of each key.
 
 The official training applications ([dot i/o](https://www.iq-eq.io/#/) and [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/)) have corresponding tiers for this. You can follow the visual guide and practice all the letters there.
 
 Dot i/o and CharaChorder LaunchPad can not display the default layout of M4G. However, most of the keys they support are positioned the same as in the default layouts for CC1/2 and M4G. As a result, you can still use them with M4G.
 
-Besides, [Alnitak](https://andy23512.github.io/alnitak/) is a tool specially designed for practicing device layout on CharaChorder 3D input devices. Character keys, including numbers, letters, and symbols, are split into small lessons so that users can focus on a small set of keys at a time. Moreover, the visual guide fades out when users reach 20 combos, and it reappears when there is a mistake. It helps users memorize the location and prevents them from simply following the guide.
+Besides, [Alnitak](https://andy23512.github.io/alnitak/) is a tool specially designed for practicing device layout on CharaChorder 3D input devices. Character keys, including numbers, letters, and symbols, are divided into small lessons, allowing users to focus on a small set of keys at a time. Moreover, the visual guide fades out when users reach 20 combos, and it reappears when there is a mistake. It helps users memorize the location and prevents them from simply following the guide.
+
+[Keybr](https://www.keybr.com/) doesn't have built-in visual guides for CharaChorder 3D input devices, but [Keybr CC Extension](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg), a browser extension I developed, can add them to Keybr.
 {% endcollapsecard %}
 
 ## Practice letters in-depth
@@ -34,7 +37,7 @@ Besides, [Alnitak](https://andy23512.github.io/alnitak/) is a tool specially des
 - Recommended WPM: 13~30
 - Recommended tool:
   - Constitution Training/Test Module at [CCIO](https://adventure.charachorder.io/)
-  - Guided Lessons at [Keybr](https://www.keybr.com/) 
+  - Guided Lessons at [Keybr](https://www.keybr.com/) (without visual guide)
     - P.S. It's recommended to set the target speed to 30. You can also start with a lower speed and gradually increase it to 30 according to your learning pace and progress.
 - Recommended goal:
   - Get S or S+ rank under Novice class of Constitution Test Module at [CCIO](https://adventure.charachorder.io/)
@@ -42,7 +45,7 @@ Besides, [Alnitak](https://andy23512.github.io/alnitak/) is a tool specially des
 
 {% collapsecard "Explanations" %}[CCIO](https://adventure.charachorder.io/) is an official revolutionary typing game and integrated platform. Its constitution module allows you to train and test your familiarity with the device layout. Since the layout reference does not indicate the current key position, I suggest using this after you have learned the device layout above.
 
-Besides, [Keybr](https://www.keybr.com/) helps users learn touch typing. If you've learned the device layout above, you can use Keybr to strengthen the muscle memory of the letters further. Its default target speed is 35 WPM, but it might take users weeks to unlock the 7th letters and months to complete all the letters, so 30 is recommended here. If it's still too hard for you, start with a lower target speed and gradually increase it as you pace yourself.
+Besides, [Keybr](https://www.keybr.com/) helps users learn touch typing. If you've learned the device layout above, you can use Keybr to strengthen your muscle memory of the letters further. Its default target speed is 35 WPM, but it might take users weeks to unlock the 7th letters and months to complete all the letters, so 30 is recommended here. If it's still too hard for you, start with a lower target speed and gradually increase it as you pace yourself.
 {% endcollapsecard %}
 
 ## Practice trigrams
