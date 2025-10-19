@@ -1,7 +1,7 @@
 ---
 title: Tangent's Review to CharaChorder Two
 date: 2024-12-30 23:33:42
-updated: 2025-03-04 22:02:03
+updated: 2025-10-19 17:45:58
 categories: [Article,Experience]
 ---
 
@@ -15,11 +15,15 @@ I had written <a href="{% post_path tangent-s-review-to-charachorder-one %}">a r
 
 After I took out the CC2 from the travel case and saw the CC2 for the first time, the first thing that amazed me was the exposed USB-C port. On CC1, the USB-C port is deep inside the device, so I need to use an additional small USB-C extender to make it easier to be re-plugged. However, the USB-C port of CC2 is already extended so I don't need the additional extender anymore! It's a great improvement.
 
-### Keycaps
+### Key Caps
 
-I found that the metal keycaps of CC1, especially the gray ones, are a bit cold in cold weather, though they get warmer after using them for a while. However, the ones on CC2 don't have this problem. It's good for me because I often have cold hands in winter times.
+I found that the metal key caps of CC1, especially the gray ones, are a bit cold in cold weather, though they get warmer after using them for a while. However, the ones on CC2 don't have this problem. It's good for me because I often have cold hands in winter times.
 
-Moreover, the rubber rings add friction between the keycaps and fingers. They make the keycaps more controllable.
+Moreover, the rubber rings add friction between the key caps and fingers. They make the key caps more controllable.
+
+{% blockquote %}
+:information_source: I have <a href="{% post_path tangent-s-review-to-key-caps-of-charachorder-one-and-charachorder-two %}">another article about my review to key caps of CC1 and CC2</a>.
+{% endblockquote %}
 
 ### Quietness
 
