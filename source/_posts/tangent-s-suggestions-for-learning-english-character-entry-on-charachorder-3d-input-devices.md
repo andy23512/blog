@@ -1,7 +1,7 @@
 ---
 title: Tangent's suggestions for learning English character entry on CharaChorder 3D input devices
 date: 2025-06-30 19:38:13
-updated: 2025-10-18 20:46:24
+updated: 2025-10-20 12:39:03
 categories: [Article,Language]
 ---
 
@@ -13,7 +13,7 @@ categories: [Article,Language]
   - Letters tier at [dot i/o](https://www.iq-eq.io/#/)
   - Alphabetic tier at [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/)
   - Number, letter, and symbol lessons at [Alnitak](https://andy23512.github.io/alnitak/)
-  - Guided Lessons at [Keybr](https://www.keybr.com/) with [Keybr CC Extension](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg)
+  - Guided, source code and numbers lessons at [Keybr](https://www.keybr.com/) with [Keybr CC Extension](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg)
     - P.S. It's recommended to set the target speed to 15 here.
 - Recommended goal:
   - Reach 13 WPM at Letters tier at [dot i/o](https://www.iq-eq.io/#/) or Alphabetic tier at [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/)
