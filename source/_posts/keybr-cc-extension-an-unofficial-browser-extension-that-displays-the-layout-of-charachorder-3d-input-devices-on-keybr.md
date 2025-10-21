@@ -1,7 +1,7 @@
 ---
 title: Keybr CC Extension - an unofficial browser extension that displays the layout of CharaChorder 3D input devices on keybr
 date: 2025-10-19 18:02:03
-updated: 2025-10-19 21:58:31
+updated: 2025-10-21 19:29:02
 
 ---
 {% blockquote %}
@@ -13,9 +13,10 @@ updated: 2025-10-19 21:58:31
 
 ## Link
 
-- [Chrome web store](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg)
+- [Chrome Web Store](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg)
+- [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/)
 - [GitHub](https://github.com/andy23512/keybr-cc-extension)
-- [Demonstration video](https://youtu.be/IQWf4IuekFQ?si=q_DkxyKOvMsdcqV3)
+- [Demonstration Video](https://youtu.be/IQWf4IuekFQ?si=q_DkxyKOvMsdcqV3)
 
 ## Feature (in latest development version)
 

@@ -1,7 +1,7 @@
 ---
 title: Tangent's suggestions for learning English character entry on CharaChorder 3D input devices
 date: 2025-06-30 19:38:13
-updated: 2025-10-20 12:39:03
+updated: 2025-10-21 19:34:23
 categories: [Article,Language]
 ---
 
@@ -13,7 +13,7 @@ categories: [Article,Language]
   - Letters tier at [dot i/o](https://www.iq-eq.io/#/)
   - Alphabetic tier at [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/)
   - Number, letter, and symbol lessons at [Alnitak](https://andy23512.github.io/alnitak/)
-  - Guided, source code and numbers lessons at [Keybr](https://www.keybr.com/) with [Keybr CC Extension](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg)
+  - Guided, source code and numbers lessons at [Keybr](https://www.keybr.com/) with Keybr CC Extension ([Chrome Web Store](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg) / [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/))
     - P.S. It's recommended to set the target speed to 15 here.
 - Recommended goal:
   - Reach 13 WPM at Letters tier at [dot i/o](https://www.iq-eq.io/#/) or Alphabetic tier at [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/)
@@ -28,7 +28,7 @@ Dot i/o and CharaChorder LaunchPad can not display the default layout of M4G. Ho
 
 Besides, [Alnitak](https://andy23512.github.io/alnitak/) is a tool specially designed for practicing device layout on CharaChorder 3D input devices. Character keys, including numbers, letters, and symbols, are divided into small lessons, allowing users to focus on a small set of keys at a time. Moreover, the visual guide fades out when users reach 20 combos, and it reappears when there is a mistake. It helps users memorize the location and prevents them from simply following the guide.
 
-[Keybr](https://www.keybr.com/) doesn't have built-in visual guides for CharaChorder 3D input devices, but [Keybr CC Extension](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg), a browser extension I developed, can add them to Keybr.
+[Keybr](https://www.keybr.com/) doesn't have built-in visual guides for CharaChorder 3D input devices, but Keybr CC Extension ([Chrome Web Store](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg) / [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/)), a browser extension I developed, can add them to Keybr.
 {% endcollapsecard %}
 
 ## Practice letters in-depth
