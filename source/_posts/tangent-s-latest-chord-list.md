@@ -1,7 +1,7 @@
 ---
 title: Tangent's Latest Chord List
 date: 2024-03-14 10:39:04
-updated: 2025-10-02 18:07:21
+updated: 2025-10-26 11:46:32
 categories: [Article,Chord]
 ---
 {% blockquote %}
@@ -11,7 +11,7 @@ categories: [Article,Chord]
 P.S. 1: The :no_entry_sign: in the chord output is the [KSC_00] action, which is used to eliminate the auto space.
 P.S. 2: The latest backup file of my chords is at [this url](https://raw.githubusercontent.com/andy23512/setting-files/master/CharaChorder/chords.json).
 
-### English (Programming) chords
+### Current chords
 
 |Input|Output|Description|
 |-|-|-|
@@ -43,15 +43,7 @@ P.S. 2: The latest backup file of my chords is at [this url](https://raw.githubu
 |u+p|update|"update" is a frequently used word when I write the git commit message.|
 |v+i|viewer|"viewer" is a frequently used word in my work.|
 
-### Japanese chords
-
-|Input|Output|Description|
-|-|-|-|
-|s+h|寿司:no_entry_sign:|The first Japanese chord I made. [Sushi](https://en.wikipedia.org/wiki/Sushi).|
-
 ### Abandoned chords
-
-(They are abandoned due to confliction with Bopomofo chords on my latest Bopomofo layout.)
 
 |Input|Output|Description|
 |-|-|-|
@@ -62,3 +54,4 @@ P.S. 2: The latest backup file of my chords is at [this url](https://raw.githubu
 |r+t|return|`return` is a frequently used keyword in both [`JavaScript/TypeScript`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return) and [`Python`](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)|
 |ㄎ+ㄧ|可以:no_entry_sign:|A frequenctly used word in Chinese. It means "can".|
 |ㄑ+ㄜ|企鵝:no_entry_sign:|The first Chinese chord I made. It means "penguin". [It doesn't mean businese goose.](https://www.chineseboost.com/blog/chinese-penguin-business-goose-tip-toe-goose/)|
+|s+h|寿司:no_entry_sign:|The first Japanese chord I made. [Sushi](https://en.wikipedia.org/wiki/Sushi).|
