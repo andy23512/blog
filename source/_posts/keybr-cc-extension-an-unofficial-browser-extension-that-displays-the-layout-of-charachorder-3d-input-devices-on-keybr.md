@@ -1,7 +1,7 @@
 ---
 title: Keybr CC Extension - an unofficial browser extension that displays the layout of CharaChorder 3D input devices on keybr
 date: 2025-10-19 18:02:03
-updated: 2025-10-21 19:29:02
+updated: 2025-10-26 09:18:52
 categories: [Article,Creation]
 ---
 {% blockquote %}
@@ -18,13 +18,20 @@ categories: [Article,Creation]
 - [GitHub](https://github.com/andy23512/keybr-cc-extension)
 - [Demonstration Video](https://youtu.be/IQWf4IuekFQ?si=q_DkxyKOvMsdcqV3)
 
-## Feature (in latest development version)
+## Feature
 
 - Display the device layout of CharaChorder 3D input device on [Keybr](https://www.keybr.com/)
 - Allow uploading a custom device layout
 - Draggable device layout
 
 ## Side topic
+
+### Reason for making this extension
+
+There are already a few practice tools that can show the visual guide of CharaChorder 3D input devices, such as [dot i/o](https://www.iq-eq.io/#/) and [Alnitak](https://andy23512.github.io/alnitak/). They provide different learning strategies for users to learn the device layout. However, Keybr’s unique learning strategy is truly outstanding, which is why many CharaChorder users prefer it.
+
+As a result, to better meet the needs of CharaChorder users, I decided to make Keybr support displaying the layout of CharaChorder 3D input devices.
+
  
 ### Reason for choosing to make a browser extension
 
@@ -45,12 +52,12 @@ The last one, making a browser extension, is the way I chose. On the developer's
 
 ### Tech stack
 
-- Chrome Extension starter project: [chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter)
+- Chrome extension starter project: [chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter)
 - Programming language: [TypeScript](https://www.typescriptlang.org/)
 - Module bundler: [webpack](https://webpack.js.org/)
 - Icon: [Material Icon](https://fonts.google.com/icons)
 - Web UI library: [React](https://react.dev/)
-- CSS Framework: [Tailwind CSS](https://tailwindcss.com/)
-- Browser API Polyfill: [webextension-polyfill](https://github.com/mozilla/webextension-polyfill)
+- CSS framework: [Tailwind CSS](https://tailwindcss.com/)
+- Browser extension API polyfill: [webextension-polyfill](https://github.com/mozilla/webextension-polyfill)
 - Draggable library: [react-draggable](https://github.com/react-grid-layout/react-draggable)
 - Class name utility: [classnames](https://www.npmjs.com/package/classnames)
