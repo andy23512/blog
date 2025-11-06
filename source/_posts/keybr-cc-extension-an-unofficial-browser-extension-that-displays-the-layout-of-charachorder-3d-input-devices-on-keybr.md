@@ -1,7 +1,7 @@
 ---
 title: Keybr CC Extension - an unofficial browser extension that displays the layout of CharaChorder 3D input devices on keybr
 date: 2025-10-19 18:02:03
-updated: 2025-10-26 09:18:52
+updated: 2025-11-02 20:28:24
 categories: [Article,Creation]
 ---
 {% blockquote %}
@@ -57,6 +57,7 @@ The last one, making a browser extension, is the way I chose. On the developer's
 - Module bundler: [webpack](https://webpack.js.org/)
 - Icon: [Material Icon](https://fonts.google.com/icons)
 - Web UI library: [React](https://react.dev/)
+- Component library: [MUI](https://mui.com/)
 - CSS framework: [Tailwind CSS](https://tailwindcss.com/)
 - Browser extension API polyfill: [webextension-polyfill](https://github.com/mozilla/webextension-polyfill)
 - Draggable library: [react-draggable](https://github.com/react-grid-layout/react-draggable)

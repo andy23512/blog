@@ -1,7 +1,7 @@
 ---
 title: Tangent's Collection of CharaChorder and Forge Resource Links
 date: 2023-03-29 21:16:09
-updated: 2025-10-21 19:31:12
+updated: 2025-11-06 08:35:46
 categories: [Note,Resource]
 ---
 {% blockquote %}
@@ -57,7 +57,15 @@ categories: [Note,Resource]
 
 - ChorderCon
   - [2023](https://youtu.be/fux9gU3M25E?feature=shared)
-  - [ 2024](https://youtu.be/yh5c10bW7z0?feature=shared)
+  - [2024](https://youtu.be/yh5c10bW7z0?feature=shared)
+  
+#### Development References
+
+##### [Serial API — CharaChorder Docs v0.1](https://docs.charachorder.com/SerialAPI.html) 
+
+##### [Firmware Meta API](https://github.com/CharaChorder/CCOS-firmware?tab=readme-ov-file#firmware-meta-api)
+
+##### [CCOS Key Remapping Reference Guide - Google Spreadsheet](https://docs.google.com/spreadsheets/d/1--T9bXshCIC-OVly-CY3rK87fgb7AHgJl3IySh7cmHc/edit?gid=0#gid=0)
 
 #### Others
 
