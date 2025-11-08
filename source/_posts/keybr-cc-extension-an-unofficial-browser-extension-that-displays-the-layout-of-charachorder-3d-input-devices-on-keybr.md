@@ -1,7 +1,7 @@
 ---
 title: Keybr CC Extension - an unofficial browser extension that displays the layout of CharaChorder 3D input devices on keybr
 date: 2025-10-19 18:02:03
-updated: 2025-11-08 16:44:30
+updated: 2025-11-08 21:50:43
 categories: [Article,Creation]
 ---
 {% blockquote %}
@@ -75,6 +75,16 @@ As shown, the layout style did not match Keybr's aesthetic. After researching Ke
 ![screenshot-dark-cc1](https://hackmd.io/_uploads/H1p6TO2yZx.png)
 
 ![screenshot-m4g-light](https://hackmd.io/_uploads/Bkj0a_2JZe.png)
+
+### Reason for choosing React
+
+If you look at the tech stack I use in my other projects, you'll see that I primarily use Angular as my frontend framework. Angular is the framework I'm most familiar with, and I use it in my full stack engineer role. However, I am still able to work with other options like React and Vue.
+
+For this extension, I chose to use React instead and rewrote the layout component from Alnitak for two main reasons.
+
+First, Keybr itself is built with React, so using the same library helps avoid unexpected issues that could arise from introducing a different frontend framework or UI library.
+
+The second reason is performance. While Angular is well-suited for building complex websites like Alnitak, it is too heavy for simply displaying a device layout component. Therefore, I prefer a lightweight option like React for this extension.
 
 ### Tech stack
 
