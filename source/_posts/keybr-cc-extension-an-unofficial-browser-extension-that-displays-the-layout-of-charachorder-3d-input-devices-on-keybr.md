@@ -1,7 +1,7 @@
 ---
 title: Keybr CC Extension - an unofficial browser extension that displays the layout of CharaChorder 3D input devices on keybr
 date: 2025-10-19 18:02:03
-updated: 2025-11-02 20:28:24
+updated: 2025-11-08 15:22:31
 categories: [Article,Creation]
 ---
 {% blockquote %}
@@ -49,6 +49,21 @@ About the second way, besides the efforts to modify the source code, hosting and
 About the third way, the amount of code to show a dynamic device layout is not small. Also, we need to have a way to teach users from installing Tampermonkey to running the script. It's not a good choice for both the developer side and the user side.
 
 The last one, making a browser extension, is the way I chose. On the developer's side, this prevents me from studying tons of the source code of Keybr. I just need to figure out how to get the current character, hide the original layout, and show my component on Keybr, and I can write other things in this extension. Also, I can freely decide the tech stack and work individually. On the users' side, users only need to go to the web store page, add this extension to their browser, and everything gets done. It is a win-win solution.
+
+### Logo and icon design
+
+Unlike a website, a browser extension requires additional images, such as an icon for the extension section in the browser and a logo for the extension market.
+
+Since this extension is for Keybr, I was inspired by the simple design of Keybr's own logo, which features a section of tilted keyboard layout. The first logo I created for this extension was simply a screenshot of the tilted device layout as shown by this extenion.
+
+![image](https://hackmd.io/_uploads/S1J5rvnkbe.png)
+
+However, when displayed on the browser toolbar, this logo becomes quite small and difficult to recognize, especially using the browser's dark theme.
+
+To address this, I designed a second logo (and now current). This new logo features just a switch, with the north, west and south keys highlighted. The design forms a "C" shape, representing the CharaChorder, and it is recognizable at small sizes.
+
+![icon-128](https://hackmd.io/_uploads/r1QCPP31Zx.png)
+
 
 ### Tech stack
 
