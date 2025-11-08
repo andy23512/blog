@@ -185,6 +185,7 @@ social:
   #Instagram: https://instagram.com/yourname || fab fa-instagram
   #Skype: skype:yourname?call|chat || fab fa-skype
   HackMD: https://hackmd.io/@andy23512 || fas fa-link
+  Trello: https://trello.com/b/vU9RCh5P/tangents-board-of-his-charachorder-side-projects || fas fa-link
 
 social_icons:
   enable: true
