@@ -1,7 +1,7 @@
 ---
 title: Tangent's Collection of CharaChorder and Forge Resource Links
 date: 2023-03-29 21:16:09
-updated: 2025-11-08 08:09:18
+updated: 2025-11-09 18:23:46
 categories: [Note,Resource]
 ---
 {% blockquote %}
@@ -190,13 +190,18 @@ GitHub Repo: https://github.com/typing-tech/monkeytype
 - [My CharaChorder and Forge Note List at HackMD](https://hackmd.io/@andy23512/B1e97aNl0)
 - [My Blog](https://andy23512.github.io/blog/) (A mirror site of my HackMD notes)
 
-#### Web Application and Browser Extension
+#### Web Application
 
 - [Alnitak - An unoffical CharaChorder 3D input device practice tool](https://andy23512.github.io/alnitak/)
 - [Device Comparator - An unofficial website for comparing the specs of CharaChorder devices, Master Forge and Svalboard](https://andy23512.github.io/device-comparator/)
+
+#### Browser Extension
+
 - Keybr CC Extension - An unofficial browser extension for showing layout of CharaChorder 3D input devices at keybr.com
   - [Chrome Web Store](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg)
   - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/)
+- Monkeytype CC Extension - An unofficial browser extension that displays the layout of CharaChorder 3D input devices on Monkeytype
+  - [Chrome Web Store](https://chromewebstore.google.com/detail/monkeytype-cc-extension/mhfjhmegecimjbohhdbflkhdfnaadple)
 
 #### Statistics
 
