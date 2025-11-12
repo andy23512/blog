@@ -1,7 +1,7 @@
 ---
 title: Tangent's suggestions for learning English character entry on CharaChorder 3D input devices
 date: 2025-06-30 19:38:13
-updated: 2025-11-11 06:41:43
+updated: 2025-11-12 21:51:14
 categories: [Article,Language]
 ---
 
@@ -15,7 +15,7 @@ categories: [Article,Language]
   - Number, letter, and symbol lessons at [Alnitak](https://andy23512.github.io/alnitak/)
   - Guided, source code and numbers lessons at [Keybr](https://www.keybr.com/) with Keybr CC Extension ([Chrome Web Store](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg) / [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/))
     - P.S. It's recommended to set the target speed to 15 here.
-  - English set at [Monkeytype](https://monkeytype.com/) with Monkeytype CC Extension ([Chrome Web Store](https://chromewebstore.google.com/detail/mhfjhmegecimjbohhdbflkhdfnaadple))
+  - English set at [Monkeytype](https://monkeytype.com/) with Monkeytype CC Extension ([Chrome Web Store](https://chromewebstore.google.com/detail/mhfjhmegecimjbohhdbflkhdfnaadple) / [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/monkeytype-cc-extension/))
 - Recommended goal:
   - Reach 13 WPM at Letters tier at [dot i/o](https://www.iq-eq.io/#/) or Alphabetic tier at [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/)
   - Reach 100 Combos and 100 CPM at non-review lessons at [Alnitak](https://andy23512.github.io/alnitak/)
@@ -32,7 +32,7 @@ Besides, [Alnitak](https://andy23512.github.io/alnitak/) is a tool specially des
 
 [Keybr](https://www.keybr.com/) doesn't have built-in visual guides for CharaChorder 3D input devices, but Keybr CC Extension ([Chrome Web Store](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg) / [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/)), a browser extension I developed, can add them to Keybr.
 
-If you prefer to get familiar with the layout by typing real words, you can practice at [Monkeytype](https://monkeytype.com/) with Monkeytype CC Extension ([Chrome Web Store](https://chromewebstore.google.com/detail/monkeytype-cc-extension/mhfjhmegecimjbohhdbflkhdfnaadple)). It's another browser extension I developed, similar to the Keybr CC Extension. Note that the default English set on Monkeytype only contains one word with 'j' and does not include words with 'q', 'x' or 'z'. You need to select a different set or use custom words to practice those letters.
+If you prefer to get familiar with the layout by typing real words, you can practice at [Monkeytype](https://monkeytype.com/) with Monkeytype CC Extension ([Chrome Web Store](https://chromewebstore.google.com/detail/monkeytype-cc-extension/mhfjhmegecimjbohhdbflkhdfnaadple) / [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/monkeytype-cc-extension/)). It's another browser extension I developed, similar to the Keybr CC Extension. Note that the default English set on Monkeytype only contains one word with 'j' and does not include words with 'q', 'x' or 'z'. You need to select a different set or use custom words to practice those letters.
 {% endcollapsecard %}
 
 ## Practice letters in-depth

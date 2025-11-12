@@ -1,7 +1,7 @@
 ---
 title: CC Extensions - unofficial extensions that display the layout of CharaChorder 3D input devices on typing websites
 date: 2025-10-19 18:02:03
-updated: 2025-11-09 19:46:13
+updated: 2025-11-12 21:48:04
 categories: [Article,Creation]
 ---
 {% blockquote %}
@@ -21,6 +21,7 @@ categories: [Article,Creation]
 ### Monkeytype CC Extension
 
 - [Chrome Web Store](https://chromewebstore.google.com/detail/monkeytype-cc-extension/mhfjhmegecimjbohhdbflkhdfnaadple)
+- [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/monkeytype-cc-extension/)
 - [GitHub](https://github.com/andy23512/monkeytype-cc-extension)
 - [Demonstration Video](https://youtu.be/nwbKUjUmwD4)
 
