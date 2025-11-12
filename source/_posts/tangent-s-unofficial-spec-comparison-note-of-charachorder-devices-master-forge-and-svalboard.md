@@ -1,7 +1,7 @@
 ---
 title: Tangent's Unofficial Spec Comparison Note of CharaChorder Devices, Master Forge and Svalboard
 date: 2024-10-20 20:48:20
-updated: 2025-09-11 16:22:25
+updated: 2025-11-12 20:37:15
 categories: [Note,Comparison]
 ---
 ## Comparison Table
@@ -41,6 +41,7 @@ Notice:
 |**Number of 3D Switches**|16[^m4g_number_of_3d_switches]|18|18|N/A|N/A|10 (Key Clusters)|N/A|
 |**Number of Keys on each 3D Switch**|4[^m4g_keys_per_switch]|5|5|N/A|N/A|5|N/A|
 |**Switch**|[Omron Electronics D2LS-21(20M)](https://eu.mouser.com/ProductDetail/Omron-Electronics/D2LS-2120M?qs=OcgtsXO%2B3gskSBgTf6V7tw%3D%3D)|[Alps Alpine SKRHADE010](https://tech.alpsalpine.com/e/products/detail/SKRHADE010/)|[Alps Alpine SKRHABE010](https://tech.alpsalpine.com/e/products/detail/SKRHABE010/)|Gateron Clear/White|N/A|???|???|
+|**Key Travel (4-direction / press-down for 3-D switch)**|0.33 mm (derived) / N/A[^m4g_key_travel]|0.73 mm (derived) / 0.15 mm[^cc2_key_travel]|0.45 mm (derived) / 0.15 mm[^cc1_key_travel]|2 mm actuation, 4 mm total|N/A|2 mm / 1.7 mm|???|
 |==**Material**==|==**------M4G------**==|==**------CC2------**==|==**------CC1------**==|==**------CCL------**==|==**------CCX------**==|==**------Sval------**==|==**--------------**==|
 |**Shell**|5052 Aluminium Alloy[^m4g_shell_material]|Injection Molded ABS Plastic[^cc2_half_material]|Injection Molded ABS Plastic[^cc1_half_material]|ABS Plastic[^ccl_shell_material]|Injection Molded Plastic[^ccx_shell_material]|ABS Plastic|???|
 |**Baseplate**|3D-printed Plastic[^m4g_base_material]|3D-printed Plastic[^cc2_half_material]|Injection Molded ABS Plastic[^cc1_half_material]|ABS Plastic[^ccl_base_material]|N/A|N/A|???|
@@ -122,3 +123,9 @@ Notice:
 [^m4g_keys_per_switch]: Unlike CC1 and CC2, M4G doesn't have 3D press keys. When you do a 3D press on M4G, you hit all four keys on that switch.
 
 [^m4g_number_of_3d_switches]: M4G has two thumb switches fewer than CC1 and CC2. Multiple types of mouse control bolt-ons are planned to be offered on the Forge ecosystem instead of the digital mouse switches on CC1 and CC2. On M4G, the third thumb switch keys have moved to where the digital mouse control keys are.
+
+[^m4g_key_travel]: The 4-direction key travel is derived from the conservation of energy. According to the datasheet, the switch component's actuation force is 61 gf, and it's travel distance is 0.3 mm. Therefore, if we use the measured actuation force on the keycap, which is 55 gf, the finger travel to generate the same amount of energy to actuate the switch is calculated as $\frac{61\times0.3}{55}=0.33\ mm$.
+
+[^cc2_key_travel]: The 4-direction key travel is derived from the conservation of energy. According to the datasheet, the switch component's actuation force (4-direction) is 122 gf (1.2 N), and it's travel distance is 0.25 mm. Therefore, if we use the measured actuation force on the keycap, which is 42 gf, the finger travel to generate the same amount of energy to actuate the switch is calculated as $\frac{122\times0.25}{42}=0.73\ mm$. The press-down key travel is the travel of center push on the datasheet.
+
+[^cc1_key_travel]: The 4-direction key travel is derived from the conservation of energy. According to the datasheet, the switch component's actuation force (4-direction) is 125 gf (1.23 N), and it's travel distance is 0.25 mm. Therefore, if we use the measured actuation force on the keycap, which is 70 gf, the finger travel to generate the same amount of energy to actuate the switch is calculated as $\frac{125\times0.25}{70}=0.45\ mm$. The press-down key travel is the travel of center push on the datasheet.
