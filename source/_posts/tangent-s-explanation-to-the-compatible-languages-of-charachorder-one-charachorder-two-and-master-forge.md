@@ -1,7 +1,7 @@
 ---
 title: Tangent's explanation to the compatible languages of CharaChorder One, CharaChorder Two and Master Forge
 date: 2024-10-01 00:20:07
-updated: 2025-07-30 19:21:18
+updated: 2025-11-21 19:30:12
 categories: [Article,Language]
 ---
 
@@ -180,6 +180,7 @@ It's recommended to use "QWERTY - US Intl" if it supports your language.
 - [Keyboard layout - Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout)
 - [Layout - CharaChorder Docs](https://docs.charachorder.com/Layout.html)
 - "10 Keyboard/Keypad Page" section (page 83~89) on [HID Usage Tables FOR Universal Serial Bus (USB)](https://usb.org/sites/default/files/hut1_21.pdf)
+- [CCOS language support](https://docs.google.com/document/d/1bY4uaSF9fzd1VlMMZvBnDtDs0fZ-OLdaL-Bo4djQgAs/edit?tab=t.0)
 
 [^scancode]: There are [many sets of scancodes](https://en.wikipedia.org/wiki/Scancode#Scancode_sets). In this article, USB HID keyboard scancodes are used as examples. You can check them in the "10 Keyboard/Keypad Page" section (page 83 to page 89) in [HID Usage Tables FOR Universal Serial Bus (USB)](https://usb.org/sites/default/files/hut1_21.pdf).
 [^os_layout]: About the OS layout, the Wikipedia page of keyboard layout uses the name ["Functional layout"](https://en.wikipedia.org/wiki/Keyboard_layout#:~:text=on%20those%20keys.-,Functional%20layout,-is%20the%20arrangement). At different places, it is called with many other names, such as keyboard layout, input method, input source, etc. In this article, to clearly distinguish the layout of the input device and the keyboard layout setting on the OS, they are called "Device layout" and "OS layout" respectively.

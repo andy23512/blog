@@ -1,7 +1,7 @@
 ---
 title: Tangent's Collection of CharaChorder and Forge Resource Links
 date: 2023-03-29 21:16:09
-updated: 2025-11-12 21:40:59
+updated: 2025-11-21 19:29:21
 categories: [Note,Resource]
 ---
 {% blockquote %}
@@ -40,6 +40,8 @@ categories: [Note,Resource]
 #### Documentation
 
 ##### [CharaChorder Documentation](https://docs.charachorder.com/)
+
+##### [CCOS language support](https://docs.google.com/document/d/1bY4uaSF9fzd1VlMMZvBnDtDs0fZ-OLdaL-Bo4djQgAs/edit?tab=t.0)
 
 #### Practice Tool
 
