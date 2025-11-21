@@ -1,7 +1,7 @@
 ---
 title: Tangent's Collection of CharaChorder and Forge FAQ
 date: 2024-10-10 18:18:17
-updated: 2025-01-18 11:31:54
+updated: 2025-11-21 19:39:32
 categories: [Note,Resource]
 ---
 Note: You could also check [the FAQ on the official CharaChorder document](https://docs.charachorder.com/FAQs.html).
@@ -15,7 +15,7 @@ You could check the [Fulfillment Bulletin](https://discord.com/channels/86173058
 
 #### Design of default layout
 
-https://docs.charachorder.com/CharaChorder%20One.html#:~:text=Design%20of%20the%20default%20layout
+https://docs.charachorder.com/Layout.html#design-of-the-layout
 
 #### More layers
 
