@@ -1,7 +1,7 @@
 ---
 title: CC Extensions - unofficial extensions that display the layout of CharaChorder 3D input devices on typing websites
 date: 2025-10-19 18:02:03
-updated: 2025-11-23 17:49:36
+updated: 2025-11-23 19:56:08
 categories: [Article,Creation]
 ---
 {% blockquote %}
@@ -30,6 +30,7 @@ categories: [Article,Creation]
 - Display the device layout of CharaChorder 3D input device on [Keybr](https://www.keybr.com/) or [Monkeytype](https://monkeytype.com/)
 - Allow uploading a custom device layout
 - Draggable device layout
+- Support setting for difference OS keyboard layout
 
 ## Side topic
 
