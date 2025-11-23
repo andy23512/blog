@@ -6,7 +6,7 @@ function slugify(input: string): string {
   return input
     .toLowerCase()
     .trim()
-    .replace(/[ '\-,]+/g, "-");
+    .replace(/[ '\-,()]+/g, "-");
 }
 
 function replaceNoteUrl(
@@ -29,7 +29,7 @@ function replaceNoteUrl(
   );
   const notes = rawNotes.filter(
     (n) =>
-      n.title.match(/^[\w\-,' ]+$/) &&
+      n.title.match(/^[\w\-,' ()]+$/) &&
       n.title !== "Tangent's CharaChorder and Forge Notebook" &&
       n.title !== "Tangent's CharaChorder and Forge Note List"
   );
