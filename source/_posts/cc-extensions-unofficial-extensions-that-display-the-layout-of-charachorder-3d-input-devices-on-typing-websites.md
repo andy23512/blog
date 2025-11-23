@@ -1,11 +1,11 @@
 ---
 title: CC Extensions - unofficial extensions that display the layout of CharaChorder 3D input devices on typing websites
 date: 2025-10-19 18:02:03
-updated: 2025-11-12 21:48:04
+updated: 2025-11-23 17:49:36
 categories: [Article,Creation]
 ---
 {% blockquote %}
-:information_source: Disclaimer: These extensions is not affiliated, associated, authorized, endorsed by, or in any way officially connected with CharaChorder, Keybr or Monkeytype.
+:information_source: Disclaimer: These extensions are not affiliated, associated, authorized, endorsed by, or in any way officially connected with CharaChorder, Keybr or Monkeytype.
 {% endblockquote %}
 
 
