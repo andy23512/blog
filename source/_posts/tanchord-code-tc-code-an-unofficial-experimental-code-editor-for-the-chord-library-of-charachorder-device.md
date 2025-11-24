@@ -1,7 +1,7 @@
 ---
 title: TanChord Code (TC Code) - an unofficial, experimental code editor for the chord library of CharaChorder device
 date: 2025-11-23 14:46:22
-updated: 2025-11-23 15:57:07
+updated: 2025-11-24 22:06:10
 categories: [Article,Creation]
 ---
 {% blockquote %}
@@ -15,6 +15,7 @@ categories: [Article,Creation]
 
 - [TanChord Code](https://andy23512.github.io/tccode/)
 - [GitHub](https://github.com/andy23512/tccode)
+- <a href="{% post_path tanchord-code-library-tccl-language-reference %}">TanChord Code Library (TCCL) language reference</a> 
 
 ## TCCL language
 
