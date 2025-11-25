@@ -1,7 +1,7 @@
 ---
 title: TanChord Code Library (TCCL) language reference
 date: 2025-11-23 14:46:11
-updated: 2025-11-24 21:14:26
+updated: 2025-11-25 18:03:24
 categories: [Article,Creation]
 ---
 
@@ -19,7 +19,7 @@ For English letters (upper and lowercase), numbers, and a few supported symbols,
 
 In the chord output, the space character is the right space key, but you cannot use this character at chord input.
 
-For other keys or actions, you can use the [CCOS action code](https://charachorder.io/firmware/two_s3/2.1.1/actions.json) number enclosed in angle brackets to specify any of them. For example, `<558>` is the action that activates a dynamic library, and `<559>` is the action that returns to the base library.
+For other keys or actions, you can use the [CCOS action code](https://andy23512.github.io/ccos-meta-viewer/#/?device=two_s3&version=2.1.1&meta=actions.json) number enclosed in angle brackets to specify any of them. For example, `<558>` is the action that activates a dynamic library, and `<559>` is the action that returns to the base library.
 
 Below is a table of these keys for reference.
 
