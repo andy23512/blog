@@ -1,7 +1,7 @@
 ---
 title: CC Extensions - unofficial extensions that display the layout of CharaChorder 3D input devices on typing websites
 date: 2025-10-19 18:02:03
-updated: 2025-11-23 19:56:08
+updated: 2025-11-26 19:38:54
 categories: [Article,Creation]
 ---
 {% blockquote %}
@@ -29,7 +29,7 @@ categories: [Article,Creation]
 
 - Display the device layout of CharaChorder 3D input device on [Keybr](https://www.keybr.com/) or [Monkeytype](https://monkeytype.com/)
 - Allow uploading a custom device layout
-- Draggable device layout
+- Support changing the position, size and transparency of the device layout
 - Support setting for difference OS keyboard layout
 
 ## Side topic
@@ -114,6 +114,8 @@ The second reason is performance. While Angular is well-suited for building comp
 - Web UI library: [React](https://react.dev/)
 - Component library: [MUI](https://mui.com/)
 - CSS framework: [Tailwind CSS](https://tailwindcss.com/)
-- Browser extension API polyfill: [webextension-polyfill](https://github.com/mozilla/webextension-polyfill)
-- Draggable library: [react-draggable](https://github.com/react-grid-layout/react-draggable)
+- Web extension API polyfill: [webextension-polyfill](https://github.com/mozilla/webextension-polyfill)
+- Draggable, resizable and snappable library: [react-moveable](https://www.npmjs.com/package/react-moveable)
 - Class name utility: [classnames](https://www.npmjs.com/package/classnames)
+- State Management: [Zustand](https://zustand-demo.pmnd.rs/)
+- Web extension development CLI tool: [web-ext](https://www.npmjs.com/package/web-ext)
