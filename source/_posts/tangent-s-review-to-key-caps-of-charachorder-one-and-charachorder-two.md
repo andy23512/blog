@@ -1,7 +1,7 @@
 ---
 title: Tangent's Review to Key Caps of CharaChorder One and CharaChorder Two
 date: 2025-07-12 17:55:35
-updated: 2025-10-18 22:06:49
+updated: 2025-11-26 19:17:30
 categories: [Article,Experience]
 ---
 
@@ -26,6 +26,8 @@ About durability, the metal caps are undoubtedly better than the hybrid caps.
 On my CC2, there were two caps dropped and a rubber band broken. (I used small pieces of tissue paper and the rubber band on a replacement cap to fix them, respectively.) And there are some cracks on the rubber bands.
 
 Update on 2025/10/18: My second CC2 (purchased on 2025/08/12) does not have the dropped cap problem, and I feel like the new key cap is pretty much the same with or without the rubber bands. 
+
+Update on 2025/11/26: CC2.1 features molded, textured rubber keycaps, eliminating previous issues with the rubber band.
 
 ## Slip resistance
 
