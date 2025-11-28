@@ -1,7 +1,7 @@
 ---
 title: Tangent's UNOFFICIAL Playlist of CharaChorder and Forge Update Videos
 date: 2024-07-30 15:30:32
-updated: 2025-08-02 08:23:35
+updated: 2025-11-28 19:56:35
 categories: [Note,Resource]
 ---
 ## YouTube Playlists
@@ -184,6 +184,7 @@ All videos are collected from the sources listed above. NONE of my accounts, my 
 |W73*|[CCIO Teaser](https://youtu.be/JTaL_3QoEGc?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-05-30 12:00:06||
 |W74*|[The Game Where You Level Up IRL --- CCIO 1st Look!](https://youtu.be/ONBJlWfzzaQ?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-06-07 19:15:41||
 |W77*|[Type 1 Word = Donate 1 Day of Clean Water](https://youtu.be/PvhKvJeRadA?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-08-01 16:39:57||
+|W94*|[Introducing CC2.1](https://youtu.be/geRvMmrd5n0?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-11-28 05:04:16||
 
 [^serial]: If "Day XX" or "Week XX" is mentioned in the title or the content of the video, that serial number would be used. Otherwise, it would be decided from the uploaded time and the serial number of adjacent video, and it would be postfixed with a `*`. `D` means day and `W` means week.
 [^timezone]: North American Central Time Zone (CST/CDT) is used.
