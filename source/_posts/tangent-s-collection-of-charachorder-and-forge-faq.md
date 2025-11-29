@@ -1,17 +1,13 @@
 ---
 title: Tangent's Collection of CharaChorder and Forge FAQ
 date: 2024-10-10 18:18:17
-updated: 2025-11-21 19:39:32
+updated: 2025-11-29 13:31:20
 categories: [Note,Resource]
 ---
 Note: You could also check [the FAQ on the official CharaChorder document](https://docs.charachorder.com/FAQs.html).
 
 
 ### All (Master Forge and CharaChorder One/Two)
-
-#### Shipment Date / Fulfillment
-
-You could check the [Fulfillment Bulletin](https://discord.com/channels/861730583092658206/1300502365702586521) on the CharaChorder Discord server.
 
 #### Design of default layout
 
@@ -103,3 +99,7 @@ It's not easy to perform and many users avoid it. You can just use an easier cho
 CC2 is only supported on https://charachorder.io/ .
 
 ==Source:== [Discord message](https://discord.com/channels/861730583092658206/1300831235928621098/1303559373250887720)
+
+#### Wireless Solution
+
+CC1/2 is not wireless, but there is a compatible, third-party Bluetooth adapter https://sterlinghawk.com/shop/products/electronics/sterlingkey/.
