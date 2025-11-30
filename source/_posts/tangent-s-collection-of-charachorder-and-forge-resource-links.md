@@ -1,7 +1,7 @@
 ---
 title: Tangent's Collection of CharaChorder and Forge Resource Links
 date: 2023-03-29 21:16:09
-updated: 2025-11-21 19:29:21
+updated: 2025-11-30 09:17:14
 categories: [Note,Resource]
 ---
 {% blockquote %}
@@ -194,12 +194,14 @@ GitHub Repo: https://github.com/typing-tech/monkeytype
 
 #### Web Application
 
-- [Alnitak - An unoffical CharaChorder 3D input device practice tool](https://andy23512.github.io/alnitak/)
-- [Device Comparator - An unofficial website for comparing the specs of CharaChorder devices, Master Forge and Svalboard](https://andy23512.github.io/device-comparator/)
+- [Alnitak](https://andy23512.github.io/alnitak/) - an unoffical CharaChorder 3D input device practice tool
+- [Device Comparator](https://andy23512.github.io/device-comparator/) - an unofficial website for comparing the specs of CharaChorder devices, Master Forge and Svalboard
+- [TanChord Cone (TC Code)](https://andy23512.github.io/tccode/) - an unofficial, experimental code editor for the chord library of CharaChorder device
+- [CCOS Meta Viewer](https://andy23512.github.io/ccos-meta-viewer/) - an unofficial data viewer for the official CharaChorder Firmware Meta API
 
 #### Browser Extension
 
-- Keybr CC Extension - An unofficial browser extension for showing layout of CharaChorder 3D input devices at keybr.com
+- Keybr CC Extension - An unofficial browser extension for showing layout of CharaChorder 3D input devices at Keybr
   - [Chrome Web Store](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg)
   - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/)
 - Monkeytype CC Extension - An unofficial browser extension that displays the layout of CharaChorder 3D input devices on Monkeytype
