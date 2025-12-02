@@ -1,7 +1,7 @@
 ---
 title: Tangent's Review to Master Forge
 date: 2025-07-13 12:14:28
-updated: 2025-07-19 19:32:37
+updated: 2025-12-02 20:40:38
 categories: [Article,Experience]
 ---
 
@@ -44,9 +44,12 @@ On CC1 and CC2, the orientation of the switches almost matches the direction of 
 
 ![20250717_085103 (1)](https://hackmd.io/_uploads/ByPinadUxg.jpg)
 
-But on M4G, the orientation of non-thumb switches[^m4g_switch_orientation] and the direction of my corresponding fingers on them have a big difference. Therefore, it is less intuitive to use than CC1 and CC2, and I would make many mistakes if I applied the muscle memory from CC1 and CC2 to the M4G. For example, I might accidentally press the west key when I intend to press the south key with my left index finger.
+But on M4G, the orientation of non-thumb switches and the direction of my corresponding fingers on them have a big difference. Therefore, it is less intuitive to use than CC1 and CC2, and I would make many mistakes if I applied the muscle memory from CC1 and CC2 to the M4G. For example, I might accidentally press the west key when I intend to press the south key with my left index finger.
+
+([Refer to Appendix A for a more detailed explanation of this problem.](#A-More-details-about-the-switch-orientation))
 
 Due to this, I still choose CC2 as my daily device. There is still room for improvement here for M4G.
+
 
 ## Removal of the third thumb switches
 
@@ -66,4 +69,16 @@ The snap-action switch provides a great typing experience. It offers better tact
 
 CharaChorder attempted some changes and improvements on M4G based on CC1 and CC2. Some of them are great to me, such as the unboxing experience, the snap-action switch, and the removal of third thumb switches. However, the problem of switch orientation affects my typing experience. Although M4G won't be my daily device, it's still an interesting one to try.
 
-[^m4g_switch_orientation]: According to some videos that show the circuit board of M4G, like [this video](https://youtu.be/gu8rpQNdFg4?feature=shared), the orientation of the non-thumb switches aligns with the digitizer (half device).
+## Appendix
+
+### A. More details about the switch orientation
+
+According to some videos showing the M4G circuit board, like [this one](https://youtu.be/gu8rpQNdFg4?feature=shared), the orientation of the non-thumb switches aligns with the digitizer (half device). If I draw the four directions as a red cross mark on the previous photo, it would look like this.
+
+![image (1)](https://hackmd.io/_uploads/r1T6-Uhb-x.png)
+
+You can see there is about a 45-degree angle between my non-thumb finger and the switch direction, so I need to move my finger diagonally to hit the keys correctly, such as moving my left index finger to NE for the `r` key and to SE for the `e` key. It is not really intuitive to me. Moreover, you can imagine how non-intuitive it is for me to use the arrow or mouse movement.
+
+![image (2)](https://hackmd.io/_uploads/ByKBz83bZl.png)
+
+The layout preview above is from the [layout viewer](https://andy23512.github.io/alnitak/layout-viewer) I developed. You can adjust the rotation angle to make the layout preview match the direction of your finger movement. You can access it at the left-side menu > `Settings` page > `Misc` > `Rotation Angle for Non-Thumb Switches`.
