@@ -1,13 +1,13 @@
 ---
 title: Tangent's suggestions for learning English character entry on CharaChorder 3D input devices
 date: 2025-06-30 19:38:13
-updated: 2025-11-12 21:51:14
+updated: 2025-12-02 22:20:22
 categories: [Article,Language]
 ---
 
 ## Practice device layout
 
-- Propose: Get familiar with the locations of each key until you don't need the visual guides
+- Purpose: Get familiar with the locations of each key until you don't need the visual guides
 - Recommended WPM: 0~13
 - Recommended tool:
   - Letters tier at [dot i/o](https://www.iq-eq.io/#/)
@@ -37,7 +37,7 @@ If you prefer to get familiar with the layout by typing real words, you can prac
 
 ## Practice letters in-depth
 
-- Propose: Strengthen your muscle memory with the letters
+- Purpose: Strengthen your muscle memory with the letters
 - Recommended WPM: 13~30
 - Recommended tool:
   - Constitution Training/Test Module at [CCIO](https://adventure.charachorder.io/)
@@ -54,7 +54,7 @@ Besides, [Keybr](https://www.keybr.com/) helps users learn touch typing. If you'
 
 ## Practice trigrams
 
-- Propose: Practice common letter groupings
+- Purpose: Practice common letter groupings
 - Recommended WPM: 13~27
 - Recommended tool:
   - Trigram tier at [dot i/o](https://www.iq-eq.io/#/)
@@ -67,7 +67,7 @@ Besides, [Keybr](https://www.keybr.com/) helps users learn touch typing. If you'
 
 ## Practice words
 
-- Propose: Practice common words
+- Purpose: Practice common words
 - Recommended WPM: 20~40
 - Recommended tool:
   - Dexterity Training/Test Module at [CCIO](https://adventure.charachorder.io/)
@@ -86,7 +86,7 @@ Besides, [Keybr](https://www.keybr.com/) helps users learn touch typing. If you'
 
 ## Use in real life
 
-- Propose:
+- Purpose:
   - Get familiar with using the device in your use cases
   - Fine-tune the layout and settings of your device to fit your use cases
 - Recommended WPM: 20~
