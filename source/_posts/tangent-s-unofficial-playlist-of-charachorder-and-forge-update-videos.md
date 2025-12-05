@@ -1,7 +1,7 @@
 ---
 title: Tangent's UNOFFICIAL Playlist of CharaChorder and Forge Update Videos
 date: 2024-07-30 15:30:32
-updated: 2025-11-30 10:23:50
+updated: 2025-12-06 06:55:26
 categories: [Note,Resource]
 ---
 ## YouTube Playlists
@@ -186,6 +186,7 @@ All videos are collected from the sources listed above. NONE of my accounts, my 
 |W77*|[Type 1 Word = Donate 1 Day of Clean Water](https://youtu.be/PvhKvJeRadA?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-08-01 16:39:57||
 |W94*|[Introducing CC2.1](https://youtu.be/geRvMmrd5n0?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-11-28 05:04:16||
 |W94*|[How It's Made: CC2.1](https://youtu.be/VPhJi8vLAX0?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-11-29 20:00:06||
+|W95*|[Joe Rogan Reacts to CharaChorder](https://youtu.be/xKtHFAkxX5Q?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-12-05 12:01:17||
 
 [^serial]: If "Day XX" or "Week XX" is mentioned in the title or the content of the video, that serial number would be used. Otherwise, it would be decided from the uploaded time and the serial number of adjacent video, and it would be postfixed with a `*`. `D` means day and `W` means week.
 [^timezone]: North American Central Time Zone (CST/CDT) is used.

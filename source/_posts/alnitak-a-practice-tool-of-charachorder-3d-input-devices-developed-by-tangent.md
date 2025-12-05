@@ -1,7 +1,7 @@
 ---
 title: Alnitak - a practice tool of CharaChorder 3D input devices developed by Tangent
 date: 2024-05-01 19:10:38
-updated: 2025-09-27 13:31:29
+updated: 2025-12-05 22:51:29
 categories: [Article,Creation]
 ---
 {% blockquote %}
@@ -37,6 +37,8 @@ categories: [Article,Creation]
   - can view the final layout (actual output under the seleced OS keyboard layout) by layers and modifier keys (Shift and Alt Graph)
   - search for a key in the layout
   - print the final layout (or generate a pdf file of it)
+- Layout Song
+  - an AI generated song that can help you that can help you memorize the letter keys on the default layout 
 
 ## Side Topics
 
@@ -84,6 +86,12 @@ The color of the meter chunk and the speed number are also changed in the same w
 - User Agent Parser: [UAParser.js](https://uaparser.dev/)
 - Operating System Logo Icon: [font-logos](https://github.com/lukas-w/font-logos)
 - Tooltip Library: [@webed/angular-tooltip](https://www.npmjs.com/package/@webed/angular-tooltip)
+
+#### Layout Song
+
+- LLM (used for lyric generation): [Kimi K2 Thinking](https://www.kimi.com/)
+- AI-powered music creation: [Suno](https://suno.com/)
+- Lyric Timestamp Data Generation: [Stabilizing Timestamps for Whisper](https://github.com/jianfch/stable-ts)
 
 ## Other References
 

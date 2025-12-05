@@ -1,7 +1,7 @@
 ---
 title: Tangent's suggestions for learning English character entry on CharaChorder 3D input devices
 date: 2025-06-30 19:38:13
-updated: 2025-12-02 22:20:22
+updated: 2025-12-02 22:26:28
 categories: [Article,Language]
 ---
 
@@ -91,7 +91,7 @@ Besides, [Keybr](https://www.keybr.com/) helps users learn touch typing. If you'
   - Fine-tune the layout and settings of your device to fit your use cases
 - Recommended WPM: 20~
 
-{% collapsecard "Show Detail" %}Integrating the CC 3D input devices into your real-world use case is essential. Try to do small things with them.
+{% collapsecard "Explanations" %}Integrating the CC 3D input devices into your real-world use case is essential. Try to do small things with them.
 
 For example, you can write short articles, code small programs, or do anything else that involves keyboards. You might find some key locations or settings you want to change.
 {% endcollapsecard %}
