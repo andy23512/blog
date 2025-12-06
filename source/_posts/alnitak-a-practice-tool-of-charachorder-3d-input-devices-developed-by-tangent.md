@@ -1,7 +1,7 @@
 ---
 title: Alnitak - a practice tool of CharaChorder 3D input devices developed by Tangent
 date: 2024-05-01 19:10:38
-updated: 2025-12-05 22:51:29
+updated: 2025-12-06 09:02:33
 categories: [Article,Creation]
 ---
 {% blockquote %}
@@ -65,6 +65,16 @@ As the number of combo increases, the color of the counter will change in the sa
 A speedometer is a great way to visualize the current speed. The current design of speedometer is the result after collecting some dashboard or speedometer designs relating to a classic racing car anime, [Future GPX Cyber Formula](https://en.wikipedia.org/wiki/Future_GPX_Cyber_Formula), and simplifying it to make it less distractive. Also, the donut sector shape really matches with the shape of the key on CC1's layout.
 
 The color of the meter chunk and the speed number are also changed in the same way as the color temperature or the stellar color mentioned above.
+
+### Layout song
+
+Four days ago (2025-12-02), I watched a video. It was an AI-generated anime meme song in Taiwanese Hokkien (i.e., Taiwanese dialect). I was amazed by how well AI can generate music now. Later, I had an idea. How about using AI to make a song to help users memorize the default layout? It would definitely make learning more fun, since we've learnt many things with songs in our childhood, like The Alphabet Song, "Do-Re-Mi", etc.
+
+First, I started with the lyrics. I made a layout image with only letter keys and sent the prompt "Generate a song that helps me memorize this device layout of a 3D input device" with the image attached to several LLMs. I chose the result of Kimi K2 Thinking because it was the only one that used words to link the keys together, such as "A Tall Ninja Jumps, Yes Sir!" for the "A-T-L-N-J-Y-S" keys at the top right of the default layout.
+
+Then I fed the lyrics above into Suno to generate a full song for them. Suno generated several songs at once, and I chose the most energetic one.
+
+Finally, I added the song and lyrics to the layout song page on Alnitak. Additionally, there is a layout display on that page that shows and highlights the corresponding keys when the song mentions them.
 
 ### Tech Stack
 
