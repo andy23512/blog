@@ -1,7 +1,7 @@
 ---
 title: Tangent's Collection of CharaChorder Tips
 date: 2025-11-26 20:42:54
-updated: 2025-11-30 21:03:53
+updated: 2025-12-06 11:44:05
 categories: [Note,Resource]
 ---
 
@@ -13,13 +13,7 @@ This notes collect many CharaChorder tips. Most of them are from the CharaChorde
 
 ### Things to do when waiting for the device
 
-You can memorize the default layout using Anki or by air typing.
-
-Anki offers a feature called [Image Occlusion](https://docs.ankiweb.net/editing.html?highlight=image#image-occlusion). Download the default layout image ([CC1/2](https://docs.charachorder.com/_images/CCEnglish2.png) or [Master Forge](https://docs.charachorder.com/_images/M4-Layout.png)) and create cards that hide specific parts of the layout to help you memorize it.
-
-Air typing involves mimicking typing gestures with your fingers, either in the air, on a table, or even on your hand or leg.
-
-The practice tool I developed, [Alnitak](https://andy23512.github.io/alnitak), also features an air mode setting. It automatically advances lessons at the speed you set, allowing you to follow along and move your fingers as if typing on a real device.
+You can check out <a href="{% post_path tangent-s-suggestions-for-learning-english-character-entry-on-charachorder-3d-input-devices %}#Memorize-device-layout-without-device">the "Memorize device layout without device" section in my article on suggestions for learning character entry</a>.
 
 ### Hand placement on CC1/2
 
