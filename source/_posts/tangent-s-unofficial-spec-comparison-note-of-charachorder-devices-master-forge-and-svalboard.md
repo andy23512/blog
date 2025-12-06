@@ -1,7 +1,7 @@
 ---
 title: Tangent's Unofficial Spec Comparison Note of CharaChorder Devices, Master Forge and Svalboard
 date: 2024-10-20 20:48:20
-updated: 2025-11-29 12:52:46
+updated: 2025-12-06 09:35:40
 categories: [Note,Comparison]
 ---
 ## Comparison Table
@@ -50,6 +50,7 @@ Notice:
 | **Other**                                                     | ==**------M4G------**==                                                                                                              | ==**------CCU------**==                                                             | ==**------CC2.1------**==    | ==**------CC2------**==                                                             | ==**------CC1------**==                                                             | ==**------CCL------**==                                                            | ==**------CCX------**==                                                      | ==**------Sval------**==                      | ==**--------------**==               |
 | **Pointing Device**[^pointing_device]                         | Trackball / None[^m4g_pointing_device]                                                                                               | Cursor Movement Key                                                                 | Cursor Movement Key    | Cursor Movement Key                                                                 | Cursor Movement Key                                                                 | None                                                                               | None                                                                         | Trackball / Touchpad / Trackpoint / None      | ???                                  |
 | **Quietness Ranking**                                         | 4th                                                                                                                                  | ???                                                                                 | 1st    | 2nd                                                                                 | 3rd                                                                                 | ???                                                                                | ???                                                                          | ???                                           | ???                                  |
+|**LED**|<div class="check"></div>|:x:|:x:|:x:|:x:|<div class="check"></div>|:x:|:x:|???|
 
 ### References
 
