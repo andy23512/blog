@@ -1,13 +1,13 @@
 ---
 title: Tangent's Collection of CharaChorder Tips
 date: 2025-11-26 20:42:54
-updated: 2025-12-06 11:44:05
+updated: 2025-12-09 19:56:33
 categories: [Note,Resource]
 ---
 
 ## Preface
 
-This notes collect many CharaChorder tips. Most of them are from the CharaChorder Discord server.
+This note collects many CharaChorder tips. Most of them are from the CharaChorder Discord server.
 
 ## Preparation
 
