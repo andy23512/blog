@@ -1,7 +1,7 @@
 ---
 title: Tangent's Latest Layout on CharaChorder One, CharaChorder Two and Master Forge
 date: 2024-11-03 09:08:44
-updated: 2025-04-26 21:40:42
+updated: 2025-12-12 20:47:07
 categories: [Article,Layout]
 ---
 
@@ -43,13 +43,13 @@ Since the mouse switches on the primary layer are occupied by some non-character
 
 #### Placing Function Keys to Left Half
 
-![localhost_4200_layouts (1)](https://hackmd.io/_uploads/B1xuOQ8bkx.png)
+![localhost_4200_layouts (3)](https://hackmd.io/_uploads/B1wp0YtMWg.png)
 
 To make the function keys more accessible, I remap them to the left half of the numeric layer.
 
 #### Placing Mouse Actions
 
-![localhost_4200_layouts (2)](https://hackmd.io/_uploads/rJw_uXI-yg.png)
+![localhost_4200_layouts (4)](https://hackmd.io/_uploads/HyMARFtf-g.png)
 
 - M(arrow): mouse move
 - S(arrow): mouse scroll

@@ -1,7 +1,7 @@
 ---
 title: Tangent's progress for finding a Bopomofo solution on Master Forge 
 date: 2024-03-28 23:10:24
-updated: 2025-03-08 21:20:34
+updated: 2025-12-12 21:19:18
 categories: [Article,Layout]
 ---
 
@@ -122,6 +122,14 @@ The following is the numeric layer after changes.
 
 (Numeric layer)
 ![localhost_4200_layouts](https://hackmd.io/_uploads/HyGW_X8-1e.png)
+
+##### V2.4
+
+I swapped the mouse scroll switches and mouse movement switches. I felt that using middle fingers to control the mouse movement is better that using my ring fingers.
+
+(Numeric layer)
+
+![localhost_4200_layouts (5)](https://hackmd.io/_uploads/SJhn45Yf-x.png)
 
 ## (Not used) Approach 3: Try the 3D presses on M4G
 
