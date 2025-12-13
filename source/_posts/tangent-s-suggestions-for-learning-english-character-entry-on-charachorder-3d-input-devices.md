@@ -1,7 +1,7 @@
 ---
 title: Tangent's suggestions for learning English character entry on CharaChorder 3D input devices
 date: 2025-06-30 19:38:13
-updated: 2025-12-06 11:46:09
+updated: 2025-12-13 20:40:52
 categories: [Article,Language]
 ---
 
@@ -10,7 +10,7 @@ categories: [Article,Language]
 
 - Purpose: Memorize the locations of each key when the device is not at your fingertips, such as when you are waiting for the shipment.
 - Recommended tool:
-  - [Anki Image Occulation](https://docs.ankiweb.net/editing.html?highlight=image#image-occlusion) with the default layout image ([CC1/2](https://docs.charachorder.com/_images/CCEnglish2.png) / [Master Forge](https://docs.charachorder.com/_images/M4-Layout.png))
+  - [Anki Image Occlusion](https://docs.ankiweb.net/editing.html?highlight=image#image-occlusion) with the default layout image ([CC1/2](https://docs.charachorder.com/_images/CCEnglish2.png) / [Master Forge](https://docs.charachorder.com/_images/M4-Layout.png))
   - Air typing with Number, letter, and symbol lessons at [Alnitak](https://andy23512.github.io/alnitak/) with its air mode setting on
   - [Layout song at Alnitak](https://andy23512.github.io/alnitak/layout-song)
 - Recommended goal:
