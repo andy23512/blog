@@ -1,7 +1,7 @@
 ---
 title: Tangent's suggestions for learning English character entry on CharaChorder 3D input devices
 date: 2025-06-30 19:38:13
-updated: 2025-12-13 20:40:52
+updated: 2025-12-14 07:54:12
 categories: [Article,Language]
 ---
 
@@ -10,14 +10,14 @@ categories: [Article,Language]
 
 - Purpose: Memorize the locations of each key when the device is not at your fingertips, such as when you are waiting for the shipment.
 - Recommended tool:
-  - [Anki Image Occlusion](https://docs.ankiweb.net/editing.html?highlight=image#image-occlusion) with the default layout image ([CC1/2](https://docs.charachorder.com/_images/CCEnglish2.png) / [Master Forge](https://docs.charachorder.com/_images/M4-Layout.png))
+  - My [Anki](https://apps.ankiweb.net/) deck for letter keys on the default device layout ([Download the apkg file here](https://github.com/andy23512/setting-files/raw/refs/heads/master/CharaChorder/Anki/CharaChorder%203D%20Input%20Device%20-%20Default%20Layout%20-%20Letter%20Keys.apkg))
   - Air typing with Number, letter, and symbol lessons at [Alnitak](https://andy23512.github.io/alnitak/) with its air mode setting on
   - [Layout song at Alnitak](https://andy23512.github.io/alnitak/layout-song)
 - Recommended goal:
   - You can recall where any key is without any visual guide.
   
 {% collapsecard "Explanations" %}
-Anki offers a feature called [Image Occlusion](https://docs.ankiweb.net/editing.html?highlight=image#image-occlusion). Download the default layout image ([CC1/2](https://docs.charachorder.com/_images/CCEnglish2.png) or [Master Forge](https://docs.charachorder.com/_images/M4-Layout.png)) and create cards that hide specific parts of the layout to help you memorize it.
+[Anki](https://apps.ankiweb.net/) offers a feature called [Image Occlusion](https://docs.ankiweb.net/editing.html?highlight=image#image-occlusion). Download the default layout image ([CC1/2](https://docs.charachorder.com/_images/CCEnglish2.png) or [Master Forge](https://docs.charachorder.com/_images/M4-Layout.png)) and create cards that hide specific parts of the layout to help you memorize it. I also made a deck for the letter keys on the default layout, and you can [download it here](https://github.com/andy23512/setting-files/raw/refs/heads/master/CharaChorder/Anki/CharaChorder%203D%20Input%20Device%20-%20Default%20Layout%20-%20Letter%20Keys.apkg).
 
 Air typing involves mimicking typing gestures with your fingers, either in the air, on a table, or even on your hand or leg. The practice tool I developed, [Alnitak](https://andy23512.github.io/alnitak), also features an air mode setting. It automatically advances lessons at the speed you set, allowing you to follow along and move your fingers as if typing on a real device.
 
