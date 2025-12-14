@@ -1,7 +1,7 @@
 ---
 title: Tangent's Collection of CharaChorder Tips
 date: 2025-11-26 20:42:54
-updated: 2025-12-09 19:56:33
+updated: 2025-12-14 16:52:22
 categories: [Note,Resource]
 ---
 
@@ -87,7 +87,7 @@ When you find a chord that is complex for you, here are things you can try:
 
 1. Use [the chord timing diagnostic tool](https://typing-tech.github.io/CharaChorder-utilities/#/chord-tools?tab=3) to check on which key(s) you miss the timing, and adjust your movement until you can constantly trigger the chord successfully.
 2. Use the [spurring](https://docs.charachorder.com/Device%20Manager.html#spurring) mode.
-3. When you think the key combination of a chord is too complex for your hands, you can [make an easier chord](https://docs.charachorder.com/Chords.html#how-do-i-make-chords) for the same output instead.
+3. When you think the key combination of a chord is too complex for your hands, you can [make an easier chord](https://docs.charachorder.com/Chords.html#how-do-i-make-chords) for the same output instead. For example, you can swap a key in the chord input with its mirrored key, such as swap the c key with the d key.
 4. When you have difficulty with many chords, you can try increasing the [press and release tolerance](https://docs.charachorder.com/Device%20Manager.html#chording).
 
 ### Avoid some previous characters being removed when doing a chord
