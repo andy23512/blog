@@ -1,7 +1,7 @@
 ---
 title: Alnitak - a practice tool of CharaChorder 3D input devices developed by Tangent
 date: 2024-05-01 19:10:38
-updated: 2025-12-06 09:02:33
+updated: 2025-12-14 16:03:48
 categories: [Article,Creation]
 ---
 {% blockquote %}
@@ -96,6 +96,7 @@ Finally, I added the song and lyrics to the layout song page on Alnitak. Additio
 - User Agent Parser: [UAParser.js](https://uaparser.dev/)
 - Operating System Logo Icon: [font-logos](https://github.com/lukas-w/font-logos)
 - Tooltip Library: [@webed/angular-tooltip](https://www.npmjs.com/package/@webed/angular-tooltip)
+- Internationalization (i18n) Library: [ngx-translate](https://ngx-translate.org/)
 
 #### Layout Song
 
