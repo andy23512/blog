@@ -1,7 +1,7 @@
 ---
 title: Tangent's Collection of CharaChorder and Forge Resource Links
 date: 2023-03-29 21:16:09
-updated: 2025-11-30 09:28:28
+updated: 2025-12-14 08:04:42
 categories: [Note,Resource]
 ---
 {% blockquote %}
@@ -192,6 +192,11 @@ GitHub Repo: https://github.com/typing-tech/monkeytype
 - [My CharaChorder and Forge Note List at HackMD](https://hackmd.io/@andy23512/B1e97aNl0)
 - [My Blog](https://andy23512.github.io/blog/) (A mirror site of my HackMD notes)
 
+#### Anki Deck
+
+- CharaChorder 3D Input Device - Default Layout - Letter Keys
+  - [apkg file](https://github.com/andy23512/setting-files/raw/refs/heads/master/CharaChorder/Anki/CharaChorder%203D%20Input%20Device%20-%20Default%20Layout%20-%20Letter%20Keys.apkg)
+
 #### Web Application
 
 - [Alnitak](https://andy23512.github.io/alnitak/) - an unoffical CharaChorder 3D input device practice tool
@@ -216,3 +221,4 @@ GitHub Repo: https://github.com/typing-tech/monkeytype
 #### Project Tracker
 
 - [My Trello Board of My CharaChorder Side Projects](https://trello.com/b/vU9RCh5P/tangents-board-of-his-charachorder-side-projects)
+
