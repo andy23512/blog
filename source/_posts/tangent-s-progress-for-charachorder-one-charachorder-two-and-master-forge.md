@@ -2,7 +2,10 @@
 title: Tangent's Progress for CharaChorder One, CharaChorder Two and Master Forge
 date: 2023-06-03 10:06:21
 updated: 2025-07-19 19:50:38
-categories: [Article,Experience]
+categories: [Article, Experience]
+otherLanguages:
+  - text: 繁體中文版
+    path: https://andy23512.github.io/blog-zh-tw/2024/03/27/tangent-的-charachorder-one、charachorder-two-和-master-forge-使用歷程/
 ---
 
 ## 1. How I Meet CharaChorder One (CC1)

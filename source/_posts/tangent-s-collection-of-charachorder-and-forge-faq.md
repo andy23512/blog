@@ -2,7 +2,10 @@
 title: Tangent's Collection of CharaChorder and Forge FAQ
 date: 2024-10-10 18:18:17
 updated: 2025-11-29 13:31:20
-categories: [Note,Resource]
+categories: [Note, Resource]
+otherLanguages:
+  - text: 繁體中文版
+    path: https://andy23512.github.io/blog-zh-tw/2024/10/27/tangent-的-charachorder-和-forge-常見問答收集/
 ---
 Note: You could also check [the FAQ on the official CharaChorder document](https://docs.charachorder.com/FAQs.html).
 

@@ -1,6 +1,6 @@
 import { readFileSync, writeFileSync } from "fs";
 import fetch from "node-fetch";
-import { Note } from "./hackmd.model";
+import { Note } from "../model/hackmd.model";
 
 const token: { hackmd: string } = JSON.parse(
   readFileSync("./token.json", { encoding: "utf8" })
@@ -16,7 +16,7 @@ async function callHackMdApi<T>(url: string): Promise<T> {
       headers: {
         Authorization: "Bearer " + token.hackmd,
       },
-    }).then((res) => res.json());
+    }).then((res) => res.json() as T);
   } catch {
     console.log("api error, retry in 5 min.");
     await sleep(5 * 60 * 1000);

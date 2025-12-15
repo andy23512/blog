@@ -7,4 +7,6 @@ public/
 .deploy*/
 _multiconfig.yml
 token.json
+config.json
 res/hackmd-note-data.json
+res/note-table-data.json

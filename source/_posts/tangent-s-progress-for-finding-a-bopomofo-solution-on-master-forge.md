@@ -2,7 +2,10 @@
 title: Tangent's progress for finding a Bopomofo solution on Master Forge 
 date: 2024-03-28 23:10:24
 updated: 2025-12-12 21:19:18
-categories: [Article,Layout]
+categories: [Article, Layout]
+otherLanguages:
+  - text: 繁體中文版
+    path: https://andy23512.github.io/blog-zh-tw/2024/03/28/tangent-尋找在-master-forge-上的注音輸入方式的歷程/
 ---
 
 ## (Not used) Approach 1: Adaption from TanChord 41 Bopomofo

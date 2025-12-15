@@ -2,7 +2,10 @@
 title: Tangent's Accessories and Software Applications used with input devices
 date: 2024-12-25 00:25:20
 updated: 2025-03-04 10:51:52
-categories: [Article,Other]
+categories: [Article, Other]
+otherLanguages:
+  - text: 繁體中文版
+    path: https://andy23512.github.io/blog-zh-tw/2025/01/05/tangent-的輸入裝置周邊配件和軟體應用程式/
 ---
 
 ### Accessories

@@ -2,7 +2,10 @@
 title: Tangent's Latest Chord List
 date: 2024-03-14 10:39:04
 updated: 2025-12-11 10:57:20
-categories: [Article,Chord]
+categories: [Article, Chord]
+otherLanguages:
+  - text: 繁體中文版
+    path: https://andy23512.github.io/blog-zh-tw/2024/03/27/tangent-的最新和弦列表/
 ---
 {% blockquote %}
 :information_source: This chord list is based on my chording ways mentioned in <a href="{% post_path tangent-s-usages-of-chording %}">this article</a>.

@@ -2,7 +2,10 @@
 title: Tangent's Usages of Chording
 date: 2024-11-13 23:47:44
 updated: 2025-03-23 16:44:47
-categories: [Article,Chord]
+categories: [Article, Chord]
+otherLanguages:
+  - text: 繁體中文版
+    path: https://andy23512.github.io/blog-zh-tw/2024/11/14/tangent-的和弦用法/
 ---
 
 ### Preface

@@ -96,6 +96,21 @@
             </span>
           {%- endif %}
 
+          {%- if post.otherLanguages and post.otherLanguages.length %}
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-language"></i>
+              </span>
+              {%- for lang in post.otherLanguages %}
+                <a href="{{ lang.path }}">{{ lang.text }}</a>
+                {%- set lang_length = post.otherLanguages.length %}
+                {%- if lang_length > 1 and loop.index !== lang_length %}
+                  {{ __('symbol.comma') }}
+                {%- endif %}
+              {%- endfor %}
+            </span>
+          {%- endif %}
+
           {# LeanCloud PageView #}
           {%- if theme.leancloud_visitors.enable or (theme.valine.enable and theme.valine.appid and theme.valine.appkey and theme.valine.visitor) %}
             <span id="{{ url_for(post.path) }}" class="post-meta-item leancloud_visitors" data-flag-title="{{ post.title }}" title="{{ __('post.views') }}">

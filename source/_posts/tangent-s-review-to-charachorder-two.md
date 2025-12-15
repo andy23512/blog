@@ -2,7 +2,10 @@
 title: Tangent's Review to CharaChorder Two
 date: 2024-12-30 23:33:42
 updated: 2025-10-19 17:45:58
-categories: [Article,Experience]
+categories: [Article, Experience]
+otherLanguages:
+  - text: 繁體中文版
+    path: https://andy23512.github.io/blog-zh-tw/2025/01/03/tangent-對-charachorder-two-的評價/
 ---
 
 ### Preface

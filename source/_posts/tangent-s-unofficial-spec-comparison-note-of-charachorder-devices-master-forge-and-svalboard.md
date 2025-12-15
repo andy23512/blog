@@ -2,7 +2,10 @@
 title: Tangent's Unofficial Spec Comparison Note of CharaChorder Devices, Master Forge and Svalboard
 date: 2024-10-20 20:48:20
 updated: 2025-12-06 09:35:40
-categories: [Note,Comparison]
+categories: [Note, Comparison]
+otherLanguages:
+  - text: 繁體中文版
+    path: https://andy23512.github.io/blog-zh-tw/2024/10/27/tangent-的-charachorder-裝置、master-forge-和-svalboard-非官方規格比較筆記/
 ---
 ## Comparison Table
 

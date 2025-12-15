@@ -2,7 +2,10 @@
 title: Tangent's Bundle Comparison Note of Master Forge
 date: 2024-10-10 18:59:04
 updated: 2025-09-26 22:11:02
-categories: [Note,Comparison]
+categories: [Note, Comparison]
+otherLanguages:
+  - text: 繁體中文版
+    path: https://andy23512.github.io/blog-zh-tw/2024/10/27/tangent-的-master-forge-套組比較筆記/
 ---
 ## Comparison Table
 
