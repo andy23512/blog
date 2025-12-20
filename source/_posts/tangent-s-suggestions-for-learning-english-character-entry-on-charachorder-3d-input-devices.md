@@ -1,13 +1,24 @@
 ---
 title: Tangent's suggestions for learning English character entry on CharaChorder 3D input devices
 date: 2025-06-30 19:38:13
-updated: 2025-12-14 21:04:24
+updated: 2025-12-20 14:46:52
 categories: [Article, Language]
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.github.io/blog-zh-tw/2025/07/12/tangent-對學習使用-charachorder-3d-輸入裝置英打（逐字輸入）的建議/
 ---
 
+{% mermaid gantt %}
+    title Learning stages and their recommended WPM ranges
+    dateFormat X
+    axisFormat %s
+    Memorize device layout without device: milestone, 0, 0
+    Practice device layout   : 0, 13
+    Practice letters in-depth: 13, 30
+    Practice trigram: 13, 23
+    Practice words: 20, 40
+    Use in real life: milestone, 20, 20
+{% endmermaid %}
 
 ## Memorize device layout without device
 
