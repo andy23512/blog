@@ -1,7 +1,7 @@
 ---
 title: Tangent's Collection of CharaChorder Tips
 date: 2025-11-26 20:42:54
-updated: 2025-12-14 16:52:22
+updated: 2025-12-20 18:39:21
 categories: [Note, Resource]
 otherLanguages:
   - text: 繁體中文版
@@ -35,6 +35,78 @@ By default, the layout viewer shows the CC1/CC2 default layout. If your device i
 Some symbols may be complex to type because you need to hold down both Num-Shift and Shift. You can remap these keys to locations that are easier for you to reach. For example, you could swap the number keys on one side of the numeric layer with their corresponding symbol keys.
 
 ![image](https://hackmd.io/_uploads/B11CXHd--e.png)
+
+### Layer shift and lock
+
+There are layer actions for each layer, and you can assign them to any key to switch between layers. They are usually represented by circled numbers, such as ①, ②, ③.
+
+Depending on the action you put on the same location of the target layer, the key will behave differently.
+
+The following examples assume the target layer is A2.
+
+#### Layer shift
+
+{% mermaid gantt %}
+    dateFormat X
+    axisFormat %s
+        title Layer shift ( A1: ② | A2: ② )
+    section ㅤ
+    Press: milestone, done, 1, 1
+    Release: milestone, done, 2, 2
+    Press: milestone, done, 3, 3
+    Release: milestone, done, 4, 4
+    section ㅤㅤ
+    A1: 0, 1s
+    A2: active, 1, 1s
+    A1: 2, 1s
+    A2: active, 3, 1s
+    A1: 4, 1s
+{% endmermaid %}
+
+The first type is the layer shift. For example, the key has A2 layer action, ②, on both A1 and A2 layers.
+
+The ones on the default layout are in this type. They act like the Shift keys on standard keyboards. The device switches to the target layer when you press it, and switches to the primary layer when you release it.
+
+#### One-way layer lock
+
+{% mermaid gantt %}
+    dateFormat X
+    axisFormat %s
+    title One-way layer lock ( A1: ② | A2: any actions except layer actions )
+    section ㅤ
+    Press: milestone, done, 1, 1
+    Release: milestone, done, 2, 2
+    Press: milestone, done, 3, 3
+    Release: milestone, done, 4, 4
+        section ㅤㅤ
+    A1: 0, 1
+    A2: active, 1, 5
+{% endmermaid %}
+
+The second kind is the one-way layer lock key. For example, the key has ② on A1, but any actions other than layer actions on A2.
+
+This kind of key acts like the Caps Lock key on standard keyboards, but only one-way. The device switches to the target layer when you press it, but doesn’t switch layers when you release or press it again.
+
+#### Two-way layer lock
+
+{% mermaid gantt %}
+    dateFormat X
+    axisFormat %s
+    title Two-way layer lock ( A1: ② | A2: ① )
+    section ㅤ
+    Press: milestone, done, 1, 1
+    Release: milestone, done, 2, 2
+    Press: milestone, done, 3, 3
+    Release: milestone, done, 4, 4
+        section ㅤㅤ
+    A1: 0, 1s
+    A2: active, 1, 2s
+    A1: 3, 2s
+{% endmermaid %}
+
+The last kind is the two-way layer lock. For example, the key has ② on A1, and ① on A2.
+
+This kind of key acts like the Caps Lock key on standard keyboards. The device switches to the target layer when you press it, and switches to the primary when you press it again.
 
 ### Helpful hot keys
 

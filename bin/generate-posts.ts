@@ -94,8 +94,8 @@ ${replaceNoteUrl(
     .replace(/:::/g, "{% endblockquote %}")
     .replace(/\[^\w+\]/g, " $0")
     .replace(
-      /```mermaid\n([\S]+)([^`]+)```/g,
-      "{% mermaid $1 %}$2{% endmermaid %}"
+      /```mermaid\n(---[\S\s]*?---\n)?([\S]+)([^`]+)```/g,
+      mermaidReplacer
     )
     .replace(/:heavy_check_mark:/g, '<div class="check"></div>'),
   urlToFileName
@@ -104,3 +104,8 @@ ${replaceNoteUrl(
     writeFileSync(`source/_posts/${fileName}.md`, markdownFileContent);
   }
 })();
+
+function mermaidReplacer(_: string, p1: string, p2: string, p3: string) {
+  p3 = p3.replace(/tickInterval 1day\n/g, "");
+  return `{% mermaid ${p2} %}${p3}{% endmermaid %}`;
+}
