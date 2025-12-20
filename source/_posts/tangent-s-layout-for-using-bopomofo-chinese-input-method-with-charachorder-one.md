@@ -1,7 +1,7 @@
 ---
 title: Tangent's layout for using Bopomofo Chinese input method with CharaChorder One
 date: 2023-05-08 00:27:01
-updated: 2025-10-05 22:08:38
+updated: 2025-12-20 15:23:19
 categories: [Article, Layout]
 otherLanguages:
   - text: 繁體中文版
@@ -199,9 +199,9 @@ Standard BPMF->>Output: ㄅㄆㄇㄈ...
 So we just need a Bopomofo password layout to map the output from CC1 `7890...` to corresponding output `1qaz...`, so on this layout, `7890` keys would output `1qaz` respectively.
 
 {% mermaid sequenceDiagram %}
-CC1->TC41.V5: 7890...
-TC41.V5->Reversed Standard BPMF: ㄅㄆㄇㄈ...
-Reversed Standard BPMF->Output: 1qaz... (BPMF password)
+CC1->>TC41.V5: 7890...
+TC41.V5->>Reversed Standard BPMF: ㄅㄆㄇㄈ...
+Reversed Standard BPMF->>Output: 1qaz... (BPMF password)
 {% endmermaid %}
 
 So the output of `7890` keys should be `1qaz` on the OS layout respectively, which is the result after doing TC41.V5 mapping and Reversed Standard Bopomofo mapping.
