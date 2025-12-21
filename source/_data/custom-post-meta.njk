@@ -1,0 +1,14 @@
+{%- if post.otherLanguages and post.otherLanguages.length %}
+  <span class="post-meta-item">
+    <span class="post-meta-item-icon">
+      <i class="fa fa-language"></i>
+    </span>
+    {%- for lang in post.otherLanguages %}
+      <a href="{{ lang.path }}">{{ lang.text }}</a>
+      {%- set lang_length = post.otherLanguages.length %}
+      {%- if lang_length > 1 and loop.index !== lang_length %}
+        {{ __('symbol.comma') }}
+      {%- endif %}
+    {%- endfor %}
+  </span>
+{%- endif %}

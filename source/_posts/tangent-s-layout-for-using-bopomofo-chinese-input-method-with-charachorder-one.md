@@ -184,25 +184,28 @@ It looks like someone shuffle the positions of all keys on your keyboard, but it
 
 For example, when typing `ㄅㄆㄇㄈ...` at TC41.V5, the CC1 actually send out the `7890...` sequence.
 
-{% mermaid sequenceDiagram %}
+```mermaid
+sequenceDiagram
 CC1->>TC41.V5: 7890...
 TC41.V5->>Output: ㄅㄆㄇㄈ...
-{% endmermaid %}
+```
 
 But at Standard Bopomofo, the keyboard actually send out the `1qaz...` sequence. (This is the Bopomofo password of ㄅㄆㄇㄈ...)
 
-{% mermaid sequenceDiagram %}
+```mermaid
+sequenceDiagram
 Keyboard->>Standard BPMF: 1qaz...
 Standard BPMF->>Output: ㄅㄆㄇㄈ...
-{% endmermaid %}
+```
 
 So we just need a Bopomofo password layout to map the output from CC1 `7890...` to corresponding output `1qaz...`, so on this layout, `7890` keys would output `1qaz` respectively.
 
-{% mermaid sequenceDiagram %}
+```mermaid
+sequenceDiagram
 CC1->>TC41.V5: 7890...
 TC41.V5->>Reversed Standard BPMF: ㄅㄆㄇㄈ...
 Reversed Standard BPMF->>Output: 1qaz... (BPMF password)
-{% endmermaid %}
+```
 
 So the output of `7890` keys should be `1qaz` on the OS layout respectively, which is the result after doing TC41.V5 mapping and Reversed Standard Bopomofo mapping.
 

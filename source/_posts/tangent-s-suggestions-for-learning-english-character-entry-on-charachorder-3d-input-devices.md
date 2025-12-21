@@ -8,7 +8,8 @@ otherLanguages:
     path: https://andy23512.github.io/blog-zh-tw/2025/07/12/tangent-對學習使用-charachorder-3d-輸入裝置英打（逐字輸入）的建議/
 ---
 
-{% mermaid gantt %}
+```mermaid
+gantt
     title Learning stages and their recommended WPM ranges
     dateFormat X
     axisFormat %s
@@ -18,7 +19,7 @@ otherLanguages:
     Practice trigram: 13, 23
     Practice words: 20, 40
     Use in real life: milestone, 20, 20
-{% endmermaid %}
+```
 
 ## Memorize device layout without device
 

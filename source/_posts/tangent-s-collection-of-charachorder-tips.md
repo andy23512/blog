@@ -46,10 +46,15 @@ The following examples assume the target layer is A2.
 
 #### Layer shift
 
-{% mermaid gantt %}
+```mermaid
+---
+displayMode: compact
+---
+gantt
     dateFormat X
     axisFormat %s
-        title Layer shift ( A1: ② | A2: ② )
+    tickInterval 1day
+    title Layer shift ( A1: ② | A2: ② )
     section ㅤ
     Press: milestone, done, 1, 1
     Release: milestone, done, 2, 2
@@ -61,7 +66,7 @@ The following examples assume the target layer is A2.
     A1: 2, 1s
     A2: active, 3, 1s
     A1: 4, 1s
-{% endmermaid %}
+```
 
 The first type is the layer shift. For example, the key has A2 layer action, ②, on both A1 and A2 layers.
 
@@ -69,7 +74,11 @@ The ones on the default layout are in this type. They act like the Shift keys on
 
 #### One-way layer lock
 
-{% mermaid gantt %}
+```mermaid
+---
+displayMode: compact
+---
+gantt
     dateFormat X
     axisFormat %s
     title One-way layer lock ( A1: ② | A2: any actions except layer actions )
@@ -78,10 +87,11 @@ The ones on the default layout are in this type. They act like the Shift keys on
     Release: milestone, done, 2, 2
     Press: milestone, done, 3, 3
     Release: milestone, done, 4, 4
-        section ㅤㅤ
+    tickInterval 1day
+    section ㅤㅤ
     A1: 0, 1
     A2: active, 1, 5
-{% endmermaid %}
+```
 
 The second kind is the one-way layer lock key. For example, the key has ② on A1, but any actions other than layer actions on A2.
 
@@ -89,7 +99,11 @@ This kind of key acts like the Caps Lock key on standard keyboards, but only one
 
 #### Two-way layer lock
 
-{% mermaid gantt %}
+```mermaid
+---
+displayMode: compact
+---
+gantt
     dateFormat X
     axisFormat %s
     title Two-way layer lock ( A1: ② | A2: ① )
@@ -98,11 +112,12 @@ This kind of key acts like the Caps Lock key on standard keyboards, but only one
     Release: milestone, done, 2, 2
     Press: milestone, done, 3, 3
     Release: milestone, done, 4, 4
-        section ㅤㅤ
+    tickInterval 1day
+    section ㅤㅤ
     A1: 0, 1s
     A2: active, 1, 2s
     A1: 3, 2s
-{% endmermaid %}
+```
 
 The last kind is the two-way layer lock. For example, the key has ② on A1, and ① on A2.
 

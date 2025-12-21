@@ -93,10 +93,12 @@ ${replaceNoteUrl(
     .replace(/:::warning/g, "{% blockquote %}")
     .replace(/:::/g, "{% endblockquote %}")
     .replace(/\[^\w+\]/g, " $0")
+    /*
     .replace(
       /```mermaid\n(---[\S\s]*?---\n)?([\S]+)([^`]+)```/g,
       mermaidReplacer
     )
+    */
     .replace(/:heavy_check_mark:/g, '<div class="check"></div>'),
   urlToFileName
 )}
