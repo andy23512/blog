@@ -1,7 +1,7 @@
 ---
 title: TanChord Code Library (TCCL) language reference
-date: 2025-11-23 14:46:11
-updated: 2025-11-25 18:03:24
+date: 2025-11-23T06:46:11.677Z
+updated: 2025-11-25T10:03:24.560Z
 categories: [Article, Creation]
 otherLanguages:
   - text: 繁體中文版

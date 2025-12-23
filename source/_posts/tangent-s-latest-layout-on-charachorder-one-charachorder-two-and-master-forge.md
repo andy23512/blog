@@ -1,7 +1,7 @@
 ---
 title: Tangent's Latest Layout on CharaChorder One, CharaChorder Two and Master Forge
-date: 2024-11-03 09:08:44
-updated: 2025-12-12 20:47:07
+date: 2024-11-03T01:08:44.871Z
+updated: 2025-12-12T12:47:07.484Z
 categories: [Article, Layout]
 otherLanguages:
   - text: 繁體中文版

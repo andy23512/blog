@@ -1,7 +1,7 @@
 ---
 title: Tangent's Unofficial CharaChorder and Forge Learning Progress Statistic
-date: 2025-01-19 23:23:56
-updated: 2025-11-29 11:34:40
+date: 2025-01-19T15:23:56.553Z
+updated: 2025-11-29T03:34:40.725Z
 categories: [Note, Statistic]
 otherLanguages:
   - text: 繁體中文版

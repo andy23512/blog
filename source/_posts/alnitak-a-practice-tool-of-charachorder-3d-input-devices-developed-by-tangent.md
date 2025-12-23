@@ -1,7 +1,7 @@
 ---
 title: Alnitak - a practice tool of CharaChorder 3D input devices developed by Tangent
-date: 2024-05-01 19:10:38
-updated: 2025-12-14 16:03:48
+date: 2024-05-01T11:10:38.698Z
+updated: 2025-12-14T08:03:48.569Z
 categories: [Article, Creation]
 otherLanguages:
   - text: 繁體中文版

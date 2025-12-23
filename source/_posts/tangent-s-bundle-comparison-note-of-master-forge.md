@@ -1,7 +1,7 @@
 ---
 title: Tangent's Bundle Comparison Note of Master Forge
-date: 2024-10-10 18:59:04
-updated: 2025-09-26 22:11:02
+date: 2024-10-10T10:59:04.561Z
+updated: 2025-09-26T14:11:02.176Z
 categories: [Note, Comparison]
 otherLanguages:
   - text: 繁體中文版

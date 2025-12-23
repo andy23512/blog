@@ -62,8 +62,8 @@ function replaceNoteUrl(
     const fileName = urlToFileName[url];
     const markdownFileContent = `---
 title: ${note.title}
-date: ${moment(note.createdAt).format("YYYY-MM-DD HH:mm:ss")}
-updated: ${moment(note.lastChangedAt).format("YYYY-MM-DD HH:mm:ss")}
+date: ${moment(note.createdAt).toISOString()}
+updated: ${moment(note.lastChangedAt).toISOString()}
 categories: [${noteTableEntry.category}, ${noteTableEntry.subCategory}]
 otherLanguages:
   - text: 繁體中文版

@@ -1,7 +1,7 @@
 ---
 title: Tangent's Master Forge Set-up Record
-date: 2025-03-13 21:24:18
-updated: 2025-04-15 21:21:09
+date: 2025-03-13T13:24:18.461Z
+updated: 2025-04-15T13:21:09.675Z
 categories: [Article, Experience]
 otherLanguages:
   - text: 繁體中文版

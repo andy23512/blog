@@ -1,7 +1,7 @@
 ---
 title: Tangent's Collection of CharaChorder and Forge FAQ
-date: 2024-10-10 18:18:17
-updated: 2025-11-29 13:31:20
+date: 2024-10-10T10:18:17.622Z
+updated: 2025-11-29T05:31:20.340Z
 categories: [Note, Resource]
 otherLanguages:
   - text: 繁體中文版

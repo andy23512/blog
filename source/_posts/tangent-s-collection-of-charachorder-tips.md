@@ -1,7 +1,7 @@
 ---
 title: Tangent's Collection of CharaChorder Tips
-date: 2025-11-26 20:42:54
-updated: 2025-12-20 18:39:21
+date: 2025-11-26T12:42:54.546Z
+updated: 2025-12-20T10:39:21.360Z
 categories: [Note, Resource]
 otherLanguages:
   - text: 繁體中文版

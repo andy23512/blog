@@ -1,7 +1,7 @@
 ---
 title: Tangent's Progress for CharaChorder One, CharaChorder Two and Master Forge
-date: 2023-06-03 10:06:21
-updated: 2025-07-19 19:50:38
+date: 2023-06-03T02:06:21.916Z
+updated: 2025-07-19T11:50:38.377Z
 categories: [Article, Experience]
 otherLanguages:
   - text: 繁體中文版

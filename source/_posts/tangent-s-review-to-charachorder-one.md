@@ -1,7 +1,7 @@
 ---
 title: Tangent's Review to CharaChorder One
-date: 2024-08-05 23:13:26
-updated: 2025-07-13 12:35:36
+date: 2024-08-05T15:13:26.626Z
+updated: 2025-07-13T04:35:36.092Z
 categories: [Article, Experience]
 otherLanguages:
   - text: 繁體中文版

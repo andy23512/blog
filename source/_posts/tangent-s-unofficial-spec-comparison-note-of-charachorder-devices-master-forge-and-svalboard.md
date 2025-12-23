@@ -1,7 +1,7 @@
 ---
 title: Tangent's Unofficial Spec Comparison Note of CharaChorder Devices, Master Forge and Svalboard
-date: 2024-10-20 20:48:20
-updated: 2025-12-22 19:33:36
+date: 2024-10-20T12:48:20.585Z
+updated: 2025-12-22T11:33:36.095Z
 categories: [Note, Comparison]
 otherLanguages:
   - text: 繁體中文版

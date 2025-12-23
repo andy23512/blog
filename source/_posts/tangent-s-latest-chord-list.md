@@ -1,7 +1,7 @@
 ---
 title: Tangent's Latest Chord List
-date: 2024-03-14 10:39:04
-updated: 2025-12-11 10:57:20
+date: 2024-03-14T02:39:04.889Z
+updated: 2025-12-11T02:57:20.099Z
 categories: [Article, Chord]
 otherLanguages:
   - text: 繁體中文版

@@ -1,7 +1,7 @@
 ---
 title: CC Extensions - unofficial extensions that display the layout of CharaChorder 3D input devices on typing websites
-date: 2025-10-19 18:02:03
-updated: 2025-11-26 19:38:54
+date: 2025-10-19T10:02:03.861Z
+updated: 2025-11-26T11:38:54.048Z
 categories: [Article, Creation]
 otherLanguages:
   - text: 繁體中文版

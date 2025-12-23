@@ -1,7 +1,7 @@
 ---
 title: Tangent's UNOFFICIAL Playlist of CharaChorder and Forge Update Videos
-date: 2024-07-30 15:30:32
-updated: 2025-12-06 06:55:26
+date: 2024-07-30T07:30:32.769Z
+updated: 2025-12-05T22:55:26.278Z
 categories: [Note, Resource]
 otherLanguages:
   - text: 繁體中文版

@@ -1,7 +1,7 @@
 ---
 title: Tangent's Unofficial Master Forge Fulfillment Statistic
-date: 2025-01-07 00:34:12
-updated: 2025-02-17 20:50:22
+date: 2025-01-06T16:34:12.587Z
+updated: 2025-02-17T12:50:22.655Z
 categories: [Note, Statistic]
 otherLanguages:
   - text: 繁體中文版

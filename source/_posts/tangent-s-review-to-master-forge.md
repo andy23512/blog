@@ -1,7 +1,7 @@
 ---
 title: Tangent's Review to Master Forge
-date: 2025-07-13 12:14:28
-updated: 2025-12-02 20:40:38
+date: 2025-07-13T04:14:28.593Z
+updated: 2025-12-02T12:40:38.006Z
 categories: [Article, Experience]
 otherLanguages:
   - text: 繁體中文版

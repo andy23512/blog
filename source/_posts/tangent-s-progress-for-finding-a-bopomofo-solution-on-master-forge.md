@@ -1,7 +1,7 @@
 ---
 title: Tangent's progress for finding a Bopomofo solution on Master Forge 
-date: 2024-03-28 23:10:24
-updated: 2025-12-18 06:54:17
+date: 2024-03-28T15:10:24.828Z
+updated: 2025-12-17T22:54:17.859Z
 categories: [Article, Layout]
 otherLanguages:
   - text: 繁體中文版

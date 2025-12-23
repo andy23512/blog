@@ -1,7 +1,7 @@
 ---
 title: Tangent's layout for using Bopomofo Chinese input method with CharaChorder One
-date: 2023-05-08 00:27:01
-updated: 2025-12-20 15:23:19
+date: 2023-05-07T16:27:01.862Z
+updated: 2025-12-20T07:23:19.820Z
 categories: [Article, Layout]
 otherLanguages:
   - text: 繁體中文版
