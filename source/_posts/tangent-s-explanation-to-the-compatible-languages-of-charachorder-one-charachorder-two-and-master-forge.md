@@ -5,7 +5,7 @@ updated: 2025-11-21T11:30:12.212Z
 categories: [Article, Language]
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/2024/10/10/tangent-對-charachorder-one、charachorder-two-和-master-forge-的相容語言的說明/
+    path: https://andy23512.github.io/blog-zh-tw/2024/10/09/tangent-對-charachorder-one、charachorder-two-和-master-forge-的相容語言的說明/
 ---
 
 ### TL;DR

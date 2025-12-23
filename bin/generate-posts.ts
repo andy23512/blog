@@ -1,4 +1,5 @@
 import { readFileSync, writeFileSync } from "fs";
+import { parse as hfm } from "hexo-front-matter";
 import moment from "moment";
 import { Note } from "../model/hackmd.model";
 import { NoteTableEntry } from "../model/note-table-entry.model";
@@ -60,6 +61,9 @@ function replaceNoteUrl(
       continue;
     }
     const fileName = urlToFileName[url];
+    const zhTwPostSchema = hfm(`---
+date: ${moment(zhTwNote.createdAt).toISOString()}
+---`);
     const markdownFileContent = `---
 title: ${note.title}
 date: ${moment(note.createdAt).toISOString()}
@@ -68,7 +72,7 @@ categories: [${noteTableEntry.category}, ${noteTableEntry.subCategory}]
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.github.io/blog-zh-tw/${moment(
-      zhTwNote.createdAt
+      zhTwPostSchema.date
     ).format("YYYY/MM/DD")}/${
       urlToFileName[noteTableEntry.zhTwNoteUrl.replace("https://hackmd.io", "")]
     }/

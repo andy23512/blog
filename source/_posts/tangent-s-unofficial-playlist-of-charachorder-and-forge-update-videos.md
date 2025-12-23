@@ -5,7 +5,7 @@ updated: 2025-12-05T22:55:26.278Z
 categories: [Note, Resource]
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/2024/10/27/tangent-的-charachorder-和-forge-更新影片非官方播放清單/
+    path: https://andy23512.github.io/blog-zh-tw/2024/10/26/tangent-的-charachorder-和-forge-更新影片非官方播放清單/
 ---
 ## YouTube Playlists
 
