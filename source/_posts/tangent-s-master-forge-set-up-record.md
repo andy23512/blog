@@ -6,7 +6,7 @@ categories: [Article, Experience]
 alias: /tangent-s-master-forge-set-up-record/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/2025/03/13/tangent-的-master-forge-設置紀錄/
+    path: https://andy23512.github.io/blog-zh-tw/tangent-的-master-forge-設置紀錄/
 ---
 
 ## Out of the Box (==Pre-Kickstarter Pre-Order==)

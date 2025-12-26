@@ -6,7 +6,7 @@ categories: [Article, Creation]
 alias: /cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-3d-input-devices-on-typing-websites/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/2025/10/19/cc-extensions-能使打字網站顯示-charachorder-3d-輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們/
+    path: https://andy23512.github.io/blog-zh-tw/cc-extensions-能使打字網站顯示-charachorder-3d-輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們/
 ---
 {% blockquote %}
 :information_source: Disclaimer: These extensions are not affiliated, associated, authorized, endorsed by, or in any way officially connected with CharaChorder, Keybr or Monkeytype.

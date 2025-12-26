@@ -6,7 +6,7 @@ categories: [Note, Comparison]
 alias: /tangent-s-bundle-comparison-note-of-master-forge/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/2024/10/27/tangent-的-master-forge-套組比較筆記/
+    path: https://andy23512.github.io/blog-zh-tw/tangent-的-master-forge-套組比較筆記/
 ---
 ## Comparison Table
 

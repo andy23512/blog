@@ -6,7 +6,7 @@ categories: [Article, Experience]
 alias: /tangent-s-review-to-key-caps-of-charachorder-one-and-charachorder-two/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/2025/07/12/tangent-對-charachorder-one-和-charachorder-two-的鍵帽的評價/
+    path: https://andy23512.github.io/blog-zh-tw/tangent-對-charachorder-one-和-charachorder-two-的鍵帽的評價/
 ---
 
 ## Preface

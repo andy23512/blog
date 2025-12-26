@@ -6,7 +6,7 @@ categories: [Note, Comparison]
 alias: /tangent-s-unofficial-spec-comparison-note-of-charachorder-devices-master-forge-and-svalboard/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/2024/10/27/tangent-的-charachorder-裝置、master-forge-和-svalboard-非官方規格比較筆記/
+    path: https://andy23512.github.io/blog-zh-tw/tangent-的-charachorder-裝置、master-forge-和-svalboard-非官方規格比較筆記/
 ---
 ## Comparison Table
 

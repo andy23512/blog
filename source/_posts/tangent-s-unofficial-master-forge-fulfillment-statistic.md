@@ -6,7 +6,7 @@ categories: [Note, Statistic]
 alias: /tangent-s-unofficial-master-forge-fulfillment-statistic/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/2025/01/15/tangent-的非官方-master-forge-訂單履行統計/
+    path: https://andy23512.github.io/blog-zh-tw/tangent-的非官方-master-forge-訂單履行統計/
 ---
 {% blockquote %}
   :information_source: [Official M4G Tracker is here]( https://docs.google.com/spreadsheets/d/1Uy-42ZnZtAp04t60u5HdqckIBhLyHd3evKrT8vPyewI/edit?gid=0#gid=0), and [official M4G Estimator is here](https://wheresmyforge.charachorder.com/).

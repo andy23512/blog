@@ -6,7 +6,7 @@ categories: [Article, Language]
 alias: /tangent-s-suggestions-for-learning-english-character-entry-on-charachorder-3d-input-devices/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/2025/07/12/tangent-對學習使用-charachorder-3d-輸入裝置英打（逐字輸入）的建議/
+    path: https://andy23512.github.io/blog-zh-tw/tangent-對學習使用-charachorder-3d-輸入裝置英打（逐字輸入）的建議/
 ---
 
 ```mermaid

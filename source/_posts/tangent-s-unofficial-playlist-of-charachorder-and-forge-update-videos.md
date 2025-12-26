@@ -6,7 +6,7 @@ categories: [Note, Resource]
 alias: /tangent-s-unofficial-playlist-of-charachorder-and-forge-update-videos/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/2024/10/26/tangent-的-charachorder-和-forge-更新影片非官方播放清單/
+    path: https://andy23512.github.io/blog-zh-tw/tangent-的-charachorder-和-forge-更新影片非官方播放清單/
 ---
 ## YouTube Playlists
 

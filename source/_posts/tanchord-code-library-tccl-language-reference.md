@@ -6,7 +6,7 @@ categories: [Article, Creation]
 alias: /tanchord-code-library-tccl-language-reference/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/2025/11/24/tanchord-code-library-tccl-語言參考文件/
+    path: https://andy23512.github.io/blog-zh-tw/tanchord-code-library-tccl-語言參考文件/
 ---
 
 ## Introduction

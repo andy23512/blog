@@ -6,7 +6,7 @@ categories: [Article, Layout]
 alias: /tangent-s-progress-for-finding-a-bopomofo-solution-on-master-forge/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/2024/03/28/tangent-尋找在-master-forge-上的注音輸入方式的歷程/
+    path: https://andy23512.github.io/blog-zh-tw/tangent-尋找在-master-forge-上的注音輸入方式的歷程/
 ---
 
 ## (Not used) Approach 1: Adaptation from TanChord 41 Bopomofo

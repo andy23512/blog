@@ -6,7 +6,7 @@ categories: [Article, Experience]
 alias: /tangent-s-review-to-charachorder-one/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/2024/08/14/tangent-對-charachorder-one-的評價/
+    path: https://andy23512.github.io/blog-zh-tw/tangent-對-charachorder-one-的評價/
 ---
 
 ### Preface

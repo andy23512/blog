@@ -6,7 +6,7 @@ categories: [Article, Experience]
 alias: /tangent-s-review-to-master-forge/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/2025/07/19/tangent-對-master-forge-的評價/
+    path: https://andy23512.github.io/blog-zh-tw/tangent-對-master-forge-的評價/
 ---
 
 ## Preface

@@ -6,7 +6,7 @@ categories: [Article, Creation]
 alias: /tanchord-code-tc-code-an-unofficial-experimental-code-editor-for-the-chord-library-of-charachorder-device/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/2025/11/23/tanchord-code-tc-code-非官方的、實驗性的-charachorder-和弦庫代碼編輯器/
+    path: https://andy23512.github.io/blog-zh-tw/tanchord-code-tc-code-非官方的、實驗性的-charachorder-和弦庫代碼編輯器/
 ---
 {% blockquote %}
 :information_source: Disclaimer: This editor is not affiliated, associated, authorized, endorsed by, or in any way officially connected with CharaChorder.
