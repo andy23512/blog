@@ -3,7 +3,12 @@ title: Tangent's Review to Key Caps of CharaChorder One and CharaChorder Two
 date: 2025-07-12T09:55:35.625Z
 updated: 2025-11-26T11:17:30.253Z
 categories: [Article, Experience]
-alias: /tangent-s-review-to-key-caps-of-charachorder-one-and-charachorder-two/
+alias:
+  - /2025/07/10/tangent-s-review-to-key-caps-of-charachorder-one-and-charachorder-two/
+  - /2025/07/11/tangent-s-review-to-key-caps-of-charachorder-one-and-charachorder-two/
+  - /2025/07/12/tangent-s-review-to-key-caps-of-charachorder-one-and-charachorder-two/
+  - /2025/07/13/tangent-s-review-to-key-caps-of-charachorder-one-and-charachorder-two/
+  - /2025/07/14/tangent-s-review-to-key-caps-of-charachorder-one-and-charachorder-two/
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.github.io/blog-zh-tw/tangent-對-charachorder-one-和-charachorder-two-的鍵帽的評價/

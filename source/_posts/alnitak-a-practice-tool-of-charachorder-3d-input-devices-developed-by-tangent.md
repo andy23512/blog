@@ -3,7 +3,12 @@ title: Alnitak - a practice tool of CharaChorder 3D input devices developed by T
 date: 2024-05-01T11:10:38.698Z
 updated: 2025-12-14T08:03:48.569Z
 categories: [Article, Creation]
-alias: /alnitak-a-practice-tool-of-charachorder-3d-input-devices-developed-by-tangent/
+alias:
+  - /2024/04/29/alnitak-a-practice-tool-of-charachorder-3d-input-devices-developed-by-tangent/
+  - /2024/04/30/alnitak-a-practice-tool-of-charachorder-3d-input-devices-developed-by-tangent/
+  - /2024/05/01/alnitak-a-practice-tool-of-charachorder-3d-input-devices-developed-by-tangent/
+  - /2024/05/02/alnitak-a-practice-tool-of-charachorder-3d-input-devices-developed-by-tangent/
+  - /2024/05/03/alnitak-a-practice-tool-of-charachorder-3d-input-devices-developed-by-tangent/
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.github.io/blog-zh-tw/alnitak-參宿一-tangent-所開發的-charachorder-3d-輸入裝置練習工具/

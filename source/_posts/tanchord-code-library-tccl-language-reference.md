@@ -3,7 +3,12 @@ title: TanChord Code Library (TCCL) language reference
 date: 2025-11-23T06:46:11.677Z
 updated: 2025-11-25T10:03:24.560Z
 categories: [Article, Creation]
-alias: /tanchord-code-library-tccl-language-reference/
+alias:
+  - /2025/11/21/tanchord-code-library-tccl-language-reference/
+  - /2025/11/22/tanchord-code-library-tccl-language-reference/
+  - /2025/11/23/tanchord-code-library-tccl-language-reference/
+  - /2025/11/24/tanchord-code-library-tccl-language-reference/
+  - /2025/11/25/tanchord-code-library-tccl-language-reference/
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.github.io/blog-zh-tw/tanchord-code-library-tccl-語言參考文件/

@@ -3,7 +3,12 @@ title: CC Extensions - unofficial extensions that display the layout of CharaCho
 date: 2025-10-19T10:02:03.861Z
 updated: 2025-11-26T11:38:54.048Z
 categories: [Article, Creation]
-alias: /cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-3d-input-devices-on-typing-websites/
+alias:
+  - /2025/10/17/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-3d-input-devices-on-typing-websites/
+  - /2025/10/18/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-3d-input-devices-on-typing-websites/
+  - /2025/10/19/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-3d-input-devices-on-typing-websites/
+  - /2025/10/20/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-3d-input-devices-on-typing-websites/
+  - /2025/10/21/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-3d-input-devices-on-typing-websites/
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.github.io/blog-zh-tw/cc-extensions-能使打字網站顯示-charachorder-3d-輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們/

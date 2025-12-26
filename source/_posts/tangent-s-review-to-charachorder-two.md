@@ -3,7 +3,12 @@ title: Tangent's Review to CharaChorder Two
 date: 2024-12-30T15:33:42.539Z
 updated: 2025-10-19T09:45:58.359Z
 categories: [Article, Experience]
-alias: /tangent-s-review-to-charachorder-two/
+alias:
+  - /2024/12/28/tangent-s-review-to-charachorder-two/
+  - /2024/12/29/tangent-s-review-to-charachorder-two/
+  - /2024/12/30/tangent-s-review-to-charachorder-two/
+  - /2024/12/31/tangent-s-review-to-charachorder-two/
+  - /2025/01/01/tangent-s-review-to-charachorder-two/
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.github.io/blog-zh-tw/tangent-對-charachorder-two-的評價/

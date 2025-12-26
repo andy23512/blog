@@ -3,7 +3,12 @@ title: Tangent's Unofficial Spec Comparison Note of CharaChorder Devices, Master
 date: 2024-10-20T12:48:20.585Z
 updated: 2025-12-25T04:55:44.870Z
 categories: [Note, Comparison]
-alias: /tangent-s-unofficial-spec-comparison-note-of-charachorder-devices-master-forge-and-svalboard/
+alias:
+  - /2024/10/18/tangent-s-unofficial-spec-comparison-note-of-charachorder-devices-master-forge-and-svalboard/
+  - /2024/10/19/tangent-s-unofficial-spec-comparison-note-of-charachorder-devices-master-forge-and-svalboard/
+  - /2024/10/20/tangent-s-unofficial-spec-comparison-note-of-charachorder-devices-master-forge-and-svalboard/
+  - /2024/10/21/tangent-s-unofficial-spec-comparison-note-of-charachorder-devices-master-forge-and-svalboard/
+  - /2024/10/22/tangent-s-unofficial-spec-comparison-note-of-charachorder-devices-master-forge-and-svalboard/
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.github.io/blog-zh-tw/tangent-的-charachorder-裝置、master-forge-和-svalboard-非官方規格比較筆記/

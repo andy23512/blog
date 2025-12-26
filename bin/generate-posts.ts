@@ -65,7 +65,15 @@ title: ${note.title}
 date: ${moment(note.createdAt).toISOString()}
 updated: ${moment(note.lastChangedAt).toISOString()}
 categories: [${noteTableEntry.category}, ${noteTableEntry.subCategory}]
-alias: /${fileName}/
+alias:
+${[-2, -1, 0, 1, 2]
+  .map(
+    (offset) =>
+      moment(note.createdAt).add(offset, "days").format("  - /YYYY/MM/DD/") +
+      fileName +
+      "/"
+  )
+  .join("\n")}
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.github.io/blog-zh-tw/${

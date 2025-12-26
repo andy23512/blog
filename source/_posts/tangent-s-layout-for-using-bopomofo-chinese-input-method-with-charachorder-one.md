@@ -3,7 +3,12 @@ title: Tangent's layout for using Bopomofo Chinese input method with CharaChorde
 date: 2023-05-07T16:27:01.862Z
 updated: 2025-12-20T07:23:19.820Z
 categories: [Article, Layout]
-alias: /tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one/
+alias:
+  - /2023/05/06/tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one/
+  - /2023/05/07/tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one/
+  - /2023/05/08/tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one/
+  - /2023/05/09/tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one/
+  - /2023/05/10/tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one/
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.github.io/blog-zh-tw/tangent-在-charachorder-one-上的注音輸入鍵盤佈局/

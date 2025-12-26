@@ -3,7 +3,12 @@ title: Tangent's Accessories and Software Applications used with input devices
 date: 2024-12-24T16:25:20.667Z
 updated: 2025-03-04T02:51:52.563Z
 categories: [Article, Other]
-alias: /tangent-s-accessories-and-software-applications-used-with-input-devices/
+alias:
+  - /2024/12/23/tangent-s-accessories-and-software-applications-used-with-input-devices/
+  - /2024/12/24/tangent-s-accessories-and-software-applications-used-with-input-devices/
+  - /2024/12/25/tangent-s-accessories-and-software-applications-used-with-input-devices/
+  - /2024/12/26/tangent-s-accessories-and-software-applications-used-with-input-devices/
+  - /2024/12/27/tangent-s-accessories-and-software-applications-used-with-input-devices/
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.github.io/blog-zh-tw/tangent-的輸入裝置周邊配件和軟體應用程式/

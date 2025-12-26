@@ -3,7 +3,12 @@ title: Tangent's Latest Chord List
 date: 2024-03-14T02:39:04.889Z
 updated: 2025-12-11T02:57:20.099Z
 categories: [Article, Chord]
-alias: /tangent-s-latest-chord-list/
+alias:
+  - /2024/03/12/tangent-s-latest-chord-list/
+  - /2024/03/13/tangent-s-latest-chord-list/
+  - /2024/03/14/tangent-s-latest-chord-list/
+  - /2024/03/15/tangent-s-latest-chord-list/
+  - /2024/03/16/tangent-s-latest-chord-list/
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.github.io/blog-zh-tw/tangent-的最新和弦列表/
