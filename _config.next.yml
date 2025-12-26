@@ -239,6 +239,8 @@ footer:
     # The icon for gongan beian. Login and See: https://beian.mps.gov.cn/web/business/businessHome/website
     gongan_icon_url:
 
+  message: This blog is not affiliated, associated, authorized, endorsed by, or in any way officially connected with CharaChorder.
+
 # ---------------------------------------------------------------
 # Post Settings
 # See: https://theme-next.js.org/docs/theme-settings/posts
