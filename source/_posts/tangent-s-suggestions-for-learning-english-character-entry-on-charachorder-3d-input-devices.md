@@ -1,7 +1,7 @@
 ---
 title: Tangent's suggestions for learning English character entry on CharaChorder 3D input devices
 date: 2025-06-30T11:38:13.283Z
-updated: 2025-12-20T06:46:52.412Z
+updated: 2025-12-26T12:49:49.581Z
 categories: [Article, Language]
 alias: /tangent-s-suggestions-for-learning-english-character-entry-on-charachorder-3d-input-devices/
 otherLanguages:
@@ -62,7 +62,7 @@ Additionally, there is [an AI-generated layout song at Alnitak](https://andy2351
 
 The official training applications ([dot i/o](https://www.iq-eq.io/#/) and [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/)) have corresponding tiers for this. You can follow the visual guide and practice all the letters there.
 
-Dot i/o and CharaChorder LaunchPad can not display the default layout of M4G. However, most of the keys they support are positioned the same as in the default layouts for CC1/2 and M4G. As a result, you can still use them with M4G.
+Dot i/o and CharaChorder LaunchPad only have device previews for CC1 and CCL. However, the default layout of CC2 is the same as CC1, and most of the keys they support are positioned the same as in the default layouts for CC1/2 and M4G. As a result, you can still use them with CC2 or M4G.
 
 Besides, [Alnitak](https://andy23512.github.io/alnitak/) is a tool specially designed for practicing device layout on CharaChorder 3D input devices. Character keys, including numbers, letters, and symbols, are divided into small lessons, allowing users to focus on a small set of keys at a time. Moreover, the visual guide fades out when users reach 20 combos, and it reappears when there is a mistake. It helps users memorize the location and prevents them from simply following the guide.
 
