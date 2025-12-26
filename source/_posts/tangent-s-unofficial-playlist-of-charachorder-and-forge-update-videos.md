@@ -3,6 +3,7 @@ title: Tangent's UNOFFICIAL Playlist of CharaChorder and Forge Update Videos
 date: 2024-07-30T07:30:32.769Z
 updated: 2025-12-05T22:55:26.278Z
 categories: [Note, Resource]
+alias: /tangent-s-unofficial-playlist-of-charachorder-and-forge-update-videos/
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.github.io/blog-zh-tw/2024/10/26/tangent-的-charachorder-和-forge-更新影片非官方播放清單/

@@ -3,6 +3,7 @@ title: Tangent's explanation to the compatible languages of CharaChorder One, Ch
 date: 2024-09-30T16:20:07.484Z
 updated: 2025-11-21T11:30:12.212Z
 categories: [Article, Language]
+alias: /tangent-s-explanation-to-the-compatible-languages-of-charachorder-one-charachorder-two-and-master-forge/
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.github.io/blog-zh-tw/2024/10/09/tangent-對-charachorder-one、charachorder-two-和-master-forge-的相容語言的說明/

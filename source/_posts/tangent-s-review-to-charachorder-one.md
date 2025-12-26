@@ -3,6 +3,7 @@ title: Tangent's Review to CharaChorder One
 date: 2024-08-05T15:13:26.626Z
 updated: 2025-07-13T04:35:36.092Z
 categories: [Article, Experience]
+alias: /tangent-s-review-to-charachorder-one/
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.github.io/blog-zh-tw/2024/08/14/tangent-對-charachorder-one-的評價/

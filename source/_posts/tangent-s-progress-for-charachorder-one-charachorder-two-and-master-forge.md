@@ -3,6 +3,7 @@ title: Tangent's Progress for CharaChorder One, CharaChorder Two and Master Forg
 date: 2023-06-03T02:06:21.916Z
 updated: 2025-07-19T11:50:38.377Z
 categories: [Article, Experience]
+alias: /tangent-s-progress-for-charachorder-one-charachorder-two-and-master-forge/
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.github.io/blog-zh-tw/2024/03/27/tangent-的-charachorder-one、charachorder-two-和-master-forge-使用歷程/

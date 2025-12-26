@@ -3,6 +3,7 @@ title: Tangent's Introduction to Bopomofo Chord
 date: 2024-09-14T00:50:39.253Z
 updated: 2024-11-28T16:05:59.621Z
 categories: [Article, Language]
+alias: /tangent-s-introduction-to-bopomofo-chord/
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.github.io/blog-zh-tw/2024/09/14/tangent-對注音和弦的介紹/

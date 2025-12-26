@@ -3,6 +3,7 @@ title: Tangent's Collection of CharaChorder and Forge Resource Links
 date: 2023-03-29T13:16:09.346Z
 updated: 2025-12-14T13:07:40.787Z
 categories: [Note, Resource]
+alias: /tangent-s-collection-of-charachorder-and-forge-resource-links/
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.github.io/blog-zh-tw/2024/10/27/tangent-的-charachorder-和-forge-資源連結收集/

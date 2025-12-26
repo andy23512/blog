@@ -3,6 +3,7 @@ title: Tangent's Unofficial Master Forge Fulfillment Statistic
 date: 2025-01-06T16:34:12.587Z
 updated: 2025-02-17T12:50:22.655Z
 categories: [Note, Statistic]
+alias: /tangent-s-unofficial-master-forge-fulfillment-statistic/
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.github.io/blog-zh-tw/2025/01/15/tangent-的非官方-master-forge-訂單履行統計/

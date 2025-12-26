@@ -3,6 +3,7 @@ title: Tangent's Usages of Chording
 date: 2024-11-13T15:47:44.105Z
 updated: 2025-03-23T08:44:47.680Z
 categories: [Article, Chord]
+alias: /tangent-s-usages-of-chording/
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.github.io/blog-zh-tw/2024/11/13/tangent-的和弦用法/

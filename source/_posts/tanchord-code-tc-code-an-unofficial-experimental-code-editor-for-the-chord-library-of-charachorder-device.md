@@ -3,6 +3,7 @@ title: TanChord Code (TC Code) - an unofficial, experimental code editor for the
 date: 2025-11-23T06:46:22.184Z
 updated: 2025-11-24T14:06:10.822Z
 categories: [Article, Creation]
+alias: /tanchord-code-tc-code-an-unofficial-experimental-code-editor-for-the-chord-library-of-charachorder-device/
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.github.io/blog-zh-tw/2025/11/23/tanchord-code-tc-code-非官方的、實驗性的-charachorder-和弦庫代碼編輯器/

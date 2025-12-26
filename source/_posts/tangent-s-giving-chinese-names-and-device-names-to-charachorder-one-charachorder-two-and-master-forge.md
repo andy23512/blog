@@ -3,6 +3,7 @@ title: Tangent's giving Chinese names and device names to CharaChorder One, Char
 date: 2024-07-26T04:33:11.558Z
 updated: 2025-03-01T05:32:12.322Z
 categories: [Article, Creation]
+alias: /tangent-s-giving-chinese-names-and-device-names-to-charachorder-one-charachorder-two-and-master-forge/
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.github.io/blog-zh-tw/2024/07/26/tangent-為-charachorder-one、charachorder-two-和-master-forge-取名字/

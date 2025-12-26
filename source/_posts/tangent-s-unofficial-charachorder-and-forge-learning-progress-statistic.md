@@ -3,6 +3,7 @@ title: Tangent's Unofficial CharaChorder and Forge Learning Progress Statistic
 date: 2025-01-19T15:23:56.553Z
 updated: 2025-11-29T03:34:40.725Z
 categories: [Note, Statistic]
+alias: /tangent-s-unofficial-charachorder-and-forge-learning-progress-statistic/
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.github.io/blog-zh-tw/2025/01/21/tangent-的非官方-charachorder-和-forge-學習進度統計/

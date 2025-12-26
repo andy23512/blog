@@ -3,6 +3,7 @@ title: Tangent's Latest Layout on CharaChorder One, CharaChorder Two and Master 
 date: 2024-11-03T01:08:44.871Z
 updated: 2025-12-12T12:47:07.484Z
 categories: [Article, Layout]
+alias: /tangent-s-latest-layout-on-charachorder-one-charachorder-two-and-master-forge/
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.github.io/blog-zh-tw/2024/11/03/tangent-在-charachorder-one、charachorder-two-和-master-forge-上的最新佈局/
