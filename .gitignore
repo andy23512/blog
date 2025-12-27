@@ -10,3 +10,6 @@ token.json
 config.json
 res/hackmd-note-data.json
 res/note-table-data.json
+res/bing-seo.json
+res/google-seo.txt
+res/google-keys.json

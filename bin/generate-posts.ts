@@ -2,13 +2,7 @@ import { readFileSync, writeFileSync } from "fs";
 import moment from "moment";
 import { Note } from "../model/hackmd.model";
 import { NoteTableEntry } from "../model/note-table-entry.model";
-
-function slugify(input: string): string {
-  return input
-    .toLowerCase()
-    .trim()
-    .replace(/[ '\-,()]+/g, "-");
-}
+import { slugify } from "../util/slugify";
 
 function replaceNoteUrl(
   noteContent: string,
