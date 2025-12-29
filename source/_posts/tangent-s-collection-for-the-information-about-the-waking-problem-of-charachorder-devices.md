@@ -1,7 +1,7 @@
 ---
 title: Tangent's collection for the information about the waking problem of CharaChorder devices
 date: 2025-12-29T05:15:49.933Z
-updated: 2025-12-29T07:19:56.706Z
+updated: 2025-12-29T09:59:45.273Z
 categories: [Note, Resource]
 alias:
   - /2025/12/27/tangent-s-collection-for-the-information-about-the-waking-problem-of-charachorder-devices/
@@ -33,16 +33,20 @@ Still actively collecting the related information of this waking-up issue from t
 * My MacBook Pro with macOS 26 cannot be woken up by my CC2 with CCOS stable version (CCOS 2.1.0), but can be woken up with CCOS gamma version (CCOS 3.0.0-gamma.4)
 * There are still not enough samples to prove that the issue can be fixed by just upgrading the macOS or upgrading the CCOS.
 
-|Computer|MacOS|Input Device|CCOS|Can the computer be woken up by a keystroke from the input device?|
-|-|-|-|-|-|
-|Mac Mini|26|CC2|2.1.0|<div class="check"></div>|
-|Mac Pro|25|CC2|2.1.0|:x:|
-|Mac Pro|25|CC1|2.1.0|:x:|
-|MacBook Pro|26|CC2|2.1.0|:x:|
-|MacBook Pro|26|CC2|3.0.0-gamma.4|<div class="check"></div>|
+|Computer|MacOS|Input Device|CCOS|Hub/Adapter|Can the computer be woken up by a keystroke from the input device?|
+|-|-|-|-|-|-|
+|Mac Mini|26|CC2|2.1.0|usb-c male to usb-a female adapter|<div class="check"></div>|
+|Mac Pro|25|CC2|2.1.0|No|:x:|
+|Mac Pro|25|CC1|2.1.0|No|:x:|
+|MacBook Pro|26|CC2|2.1.0|8-Port USB-C Hub|:x:|
+|MacBook Pro|26|CC2|3.0.0-gamma.4|8-Port USB-C Hub|<div class="check"></div>|
 
 
 ## Related Information
+
+### Windows
+
+* [Enable or Disable Device to Wake Computer in Windows 11](https://www.elevenforum.com/t/enable-or-disable-device-to-wake-computer-in-windows-11.6964/)
 
 ### Mac
 
