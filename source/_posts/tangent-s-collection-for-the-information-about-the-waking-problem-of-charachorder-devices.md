@@ -1,7 +1,7 @@
 ---
 title: Tangent's collection for the information about the waking problem of CharaChorder devices
 date: 2025-12-29T05:15:49.933Z
-updated: 2025-12-29T09:59:45.273Z
+updated: 2025-12-29T10:08:13.460Z
 categories: [Note, Resource]
 alias:
   - /2025/12/27/tangent-s-collection-for-the-information-about-the-waking-problem-of-charachorder-devices/
@@ -35,11 +35,11 @@ Still actively collecting the related information of this waking-up issue from t
 
 |Computer|MacOS|Input Device|CCOS|Hub/Adapter|Can the computer be woken up by a keystroke from the input device?|
 |-|-|-|-|-|-|
-|Mac Mini|26|CC2|2.1.0|usb-c male to usb-a female adapter|<div class="check"></div>|
+|Mac Mini|26|CC2|2.1.0|USB-C male to USB-A female adapter|<div class="check"></div>|
 |Mac Pro|25|CC2|2.1.0|No|:x:|
 |Mac Pro|25|CC1|2.1.0|No|:x:|
-|MacBook Pro|26|CC2|2.1.0|8-Port USB-C Hub|:x:|
-|MacBook Pro|26|CC2|3.0.0-gamma.4|8-Port USB-C Hub|<div class="check"></div>|
+|MacBook Pro|26|CC2|2.1.0|USB-C Hub|:x:|
+|MacBook Pro|26|CC2|3.0.0-gamma.4|USB-C Hub|<div class="check"></div>|
 
 
 ## Related Information
