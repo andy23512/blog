@@ -1,7 +1,7 @@
 ---
 title: Tangent's collection for the information about the waking problem of CharaChorder devices
 date: 2025-12-29T05:15:49.933Z
-updated: 2025-12-29T10:08:13.460Z
+updated: 2025-12-29T22:49:29.326Z
 categories: [Note, Resource]
 alias:
   - /2025/12/27/tangent-s-collection-for-the-information-about-the-waking-problem-of-charachorder-devices/
@@ -15,7 +15,7 @@ otherLanguages:
 ---
 # TL;DR
 
-Although some combinations of OS version and CCOS version might not have this problem, I think the best workaround now is **turning off the sleep setting on your computer** if you don’t want to mess around with the OS or CCOS versions.
+Although some combinations of OS version and CCOS version might not have this problem, I think the best workaround now is **turning off the sleep setting on your computer** if you don’t want to mess around with the OS or CCOS versions and you are not required to have the sleep setting by some information security regulations.
 
 Still actively collecting the related information of this waking-up issue from the Internet. If you have any useful information, especially some working / not working environments with Windows or Linux platforms, please contact me via Discord (Tangent Chang, @andy23512).
 
