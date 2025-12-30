@@ -1,5 +1,6 @@
 ---
 title: Tangent's Unofficial Spec Comparison Note of CharaChorder Devices, Master Forge and Svalboard
+description: Tangent collects the specs of CharaChorder devices, Master Forge, and Svalboard in this unofficial note for comparing them.
 date: 2024-10-20T12:48:20.585Z
 updated: 2025-12-25T04:55:44.870Z
 categories: [Note, Comparison]

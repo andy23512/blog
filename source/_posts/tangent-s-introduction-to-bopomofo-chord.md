@@ -1,5 +1,6 @@
 ---
 title: Tangent's Introduction to Bopomofo Chord
+description: Tangent explains what is Bopomofo Chord in this article.
 date: 2024-09-14T00:50:39.253Z
 updated: 2024-11-28T16:05:59.621Z
 categories: [Article, Language]

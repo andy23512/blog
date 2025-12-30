@@ -1,5 +1,6 @@
 ---
 title: Tangent's Latest Layout on CharaChorder One, CharaChorder Two and Master Forge
+description: Tangent explains his latest layout on CharaChorder One, CharaChorder Two and Master Forge in this article.
 date: 2024-11-03T01:08:44.871Z
 updated: 2025-12-12T12:47:07.484Z
 categories: [Article, Layout]

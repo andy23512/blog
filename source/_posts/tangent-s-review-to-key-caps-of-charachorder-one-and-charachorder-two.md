@@ -1,5 +1,6 @@
 ---
 title: Tangent's Review to Key Caps of CharaChorder One and CharaChorder Two
+description: Tangent shares his review of the key caps of CharaChorder One and CharaChorder Two.
 date: 2025-07-12T09:55:35.625Z
 updated: 2025-11-26T11:17:30.253Z
 categories: [Article, Experience]

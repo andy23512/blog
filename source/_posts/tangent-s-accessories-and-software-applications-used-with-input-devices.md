@@ -1,5 +1,6 @@
 ---
 title: Tangent's Accessories and Software Applications used with input devices
+description: Tangent shares the accessories and the software applications he uses with his input devices, including keyboards and CharaChorder devices.
 date: 2024-12-24T16:25:20.667Z
 updated: 2025-03-04T02:51:52.563Z
 categories: [Article, Other]

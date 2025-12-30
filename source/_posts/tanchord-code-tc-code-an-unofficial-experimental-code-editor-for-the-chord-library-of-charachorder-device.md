@@ -1,5 +1,6 @@
 ---
 title: TanChord Code (TC Code) - an unofficial, experimental code editor for the chord library of CharaChorder device
+description: Tangent introduces TanChord Code (TC Code) in this article. It's an unofficial, experimental editor that allows you to edit the chord library of your CharaChorder device, similar to editing code in a code editor.
 date: 2025-11-23T06:46:22.184Z
 updated: 2025-11-24T14:06:10.822Z
 categories: [Article, Creation]

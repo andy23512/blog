@@ -1,5 +1,6 @@
 ---
 title: Tangent's Master Forge Set-up Record
+description: Tangent records how he set up his Master Forge in this note.
 date: 2025-03-13T13:24:18.461Z
 updated: 2025-04-15T13:21:09.675Z
 categories: [Article, Experience]

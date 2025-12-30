@@ -1,5 +1,6 @@
 ---
 title: Tangent's suggestions for learning English character entry on CharaChorder 3D input devices
+description: Tangent shares his suggestions for learning English character entry on CharaChorder 3D input devices (CharaChorder One, CharaChorder Two, and Master Forge).
 date: 2025-06-30T11:38:13.283Z
 updated: 2025-12-26T12:49:49.581Z
 categories: [Article, Language]

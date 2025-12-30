@@ -1,5 +1,6 @@
 ---
 title: Tangent's Collection of CharaChorder Tips
+description: Tangent collect some tips from himself, CharaChorder Discord server and other related website in this note.
 date: 2025-11-26T12:42:54.546Z
 updated: 2025-12-20T10:39:21.360Z
 categories: [Note, Resource]

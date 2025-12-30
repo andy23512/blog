@@ -1,5 +1,6 @@
 ---
 title: Tangent's collection for the information about the waking problem of CharaChorder devices
+description: Tangent collection the information about the waking problem of CharaChorder devices in this note.
 date: 2025-12-29T05:15:49.933Z
 updated: 2025-12-29T22:49:29.326Z
 categories: [Note, Resource]

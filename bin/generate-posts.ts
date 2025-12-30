@@ -1,8 +1,9 @@
+import * as cheerio from "cheerio";
 import moment from "moment";
 import { readFileSync, writeFileSync } from "node:fs";
-import { Note } from "../model/hackmd.model";
-import { NoteTableEntry } from "../model/note-table-entry.model";
-import { slugify } from "../util/slugify";
+import { Note } from "../model/hackmd.model.js";
+import { NoteTableEntry } from "../model/note-table-entry.model.js";
+import { slugify } from "../util/slugify.js";
 
 function replaceNoteUrl(
   noteContent: string,
@@ -38,6 +39,10 @@ for (const note of rawNotes) {
 }
 for (const note of notes) {
   const url = note.publishLink.replace("https://hackmd.io", "");
+  const response = await fetch(note.publishLink);
+  const html = await response.text();
+  const $ = cheerio.load(html);
+  const description = $('meta[name="description"]').attr("content") || "";
   const noteTableEntry = noteTableData.find((entry) =>
     entry.enNoteUrl.endsWith(url)
   );
@@ -55,6 +60,7 @@ for (const note of notes) {
   const fileName = urlToFileName[url];
   const markdownFileContent = `---
 title: ${note.title}
+description: ${description}
 date: ${moment(note.createdAt).toISOString()}
 updated: ${moment(note.lastChangedAt).toISOString()}
 categories: [${noteTableEntry.category}, ${noteTableEntry.subCategory}]

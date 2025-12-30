@@ -1,5 +1,6 @@
 ---
 title: Tangent's explanation to the compatible languages of CharaChorder One, CharaChorder Two and Master Forge
+description: Tangent shares about his explanation why CharaChorder One, CharaChorder Two and Master Forge can support all languages like a normal keyboard. How the same keyboard can support multiple languages upon the OS layout or language setting and how to configure CharaChorder One, CharaChorder Two and Master Forge to work with other layout than QWERTY - US will be explained. 
 date: 2024-09-30T16:20:07.484Z
 updated: 2025-11-21T11:30:12.212Z
 categories: [Article, Language]

@@ -1,5 +1,6 @@
 ---
 title: Tangent's Progress for CharaChorder One, CharaChorder Two and Master Forge
+description: Tangent shares about his progress and story about using CharaChorder One, CharaChorder Two and Master Forge in this article.
 date: 2023-06-03T02:06:21.916Z
 updated: 2025-07-19T11:50:38.377Z
 categories: [Article, Experience]

@@ -1,6 +1,6 @@
 import { readFileSync, writeFileSync } from "node:fs";
-import { Note } from "../model/hackmd.model";
-import { slugify } from "../util/slugify";
+import { Note } from "../model/hackmd.model.js";
+import { slugify } from "../util/slugify.js";
 const urls: string[] = [];
 const rawNotes: Note[] = JSON.parse(
   readFileSync("./res/hackmd-note-data.json", { encoding: "utf8" })

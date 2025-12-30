@@ -1,5 +1,6 @@
 ---
 title: Tangent's Unofficial CharaChorder and Forge Learning Progress Statistic
+description: This note is about the learning progress (typing speed over time) statistic that Tangent collects from the share-your-progress channel at CharaChorder Discord server. 
 date: 2025-01-19T15:23:56.553Z
 updated: 2025-11-29T03:34:40.725Z
 categories: [Note, Statistic]

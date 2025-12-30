@@ -1,5 +1,6 @@
 ---
 title: Tangent's Collection of CharaChorder and Forge FAQ
+description: Tangent collect some FAQs and their answers from CharaChorder Discord server in this note, so that is easier for management and copy-paste.
 date: 2024-10-10T10:18:17.622Z
 updated: 2025-11-29T05:31:20.340Z
 categories: [Note, Resource]

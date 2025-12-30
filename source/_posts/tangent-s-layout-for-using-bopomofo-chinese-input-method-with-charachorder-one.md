@@ -1,5 +1,6 @@
 ---
 title: Tangent's layout for using Bopomofo Chinese input method with CharaChorder One
+description: Tangent shares the layout he designed for using Bopomofo Chinese input method on CharaChorder One in this article.
 date: 2023-05-07T16:27:01.862Z
 updated: 2025-12-20T07:23:19.820Z
 categories: [Article, Layout]

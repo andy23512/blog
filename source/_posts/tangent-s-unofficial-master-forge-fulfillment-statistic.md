@@ -1,5 +1,6 @@
 ---
 title: Tangent's Unofficial Master Forge Fulfillment Statistic
+description: Tangent collects the fulfillment statistic of Master Forge in this note.
 date: 2025-01-06T16:34:12.587Z
 updated: 2025-02-17T12:50:22.655Z
 categories: [Note, Statistic]

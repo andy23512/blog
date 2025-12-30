@@ -1,5 +1,6 @@
 ---
 title: Tangent's progress for finding a Bopomofo solution on Master Forge 
+description: Tangent shares his progress for finding ways to use Bopomofo input method on Master Forge in this article.
 date: 2024-03-28T15:10:24.828Z
 updated: 2025-12-17T22:54:17.859Z
 categories: [Article, Layout]

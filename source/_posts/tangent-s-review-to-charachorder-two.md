@@ -1,5 +1,6 @@
 ---
 title: Tangent's Review to CharaChorder Two
+description: Tangent shared his review to CharaChorder Two after he switched from CharaChorder One to CharaChorder Two.
 date: 2024-12-30T15:33:42.539Z
 updated: 2025-10-19T09:45:58.359Z
 categories: [Article, Experience]

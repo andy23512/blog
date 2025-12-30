@@ -1,5 +1,6 @@
 ---
 title: Tangent's giving Chinese names and device names to CharaChorder One, CharaChorder Two, and Master Forge
+description: Tangent talks about the English and Chinese names he gives to CharaChorder One, CharaChorder Two and Master Forge.
 date: 2024-07-26T04:33:11.558Z
 updated: 2025-03-01T05:32:12.322Z
 categories: [Article, Creation]

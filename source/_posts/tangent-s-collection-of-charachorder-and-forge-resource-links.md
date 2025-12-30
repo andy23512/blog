@@ -1,5 +1,6 @@
 ---
 title: Tangent's Collection of CharaChorder and Forge Resource Links
+description: Tangent collects some links to useful resources related to CharaChorder / Forge in this note.
 date: 2023-03-29T13:16:09.346Z
 updated: 2025-12-14T13:07:40.787Z
 categories: [Note, Resource]

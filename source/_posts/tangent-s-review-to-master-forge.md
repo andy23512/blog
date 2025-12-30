@@ -1,5 +1,6 @@
 ---
 title: Tangent's Review to Master Forge
+description: Tangent shares his review to Master Forge in this article.
 date: 2025-07-13T04:14:28.593Z
 updated: 2025-12-02T12:40:38.006Z
 categories: [Article, Experience]

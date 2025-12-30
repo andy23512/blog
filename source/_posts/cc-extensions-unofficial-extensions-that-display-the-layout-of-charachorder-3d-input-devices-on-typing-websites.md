@@ -1,5 +1,6 @@
 ---
 title: CC Extensions - unofficial extensions that display the layout of CharaChorder 3D input devices on typing websites
+description: Tangent introduces CC Extensions, a set of unofficial browser extensions he developed. They can display the layout of CharaChorder 3D input devices (CharaChorder One, CharaChorder Two, and Master Forge) on Keybr and Monkeytype.
 date: 2025-10-19T10:02:03.861Z
 updated: 2025-11-26T11:38:54.048Z
 categories: [Article, Creation]

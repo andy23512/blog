@@ -1,5 +1,6 @@
 ---
 title: Tangent's UNOFFICIAL Playlist of CharaChorder and Forge Update Videos
+description: Tangent made a video playlist for the CharaChorder and Forge update videos. This is the note for the video playlist.
 date: 2024-07-30T07:30:32.769Z
 updated: 2025-12-05T22:55:26.278Z
 categories: [Note, Resource]

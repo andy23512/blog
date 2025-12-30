@@ -1,5 +1,6 @@
 ---
 title: Tangent's Latest Chord List
+description: Tangent shares his latest chord list in this article.
 date: 2024-03-14T02:39:04.889Z
 updated: 2025-12-11T02:57:20.099Z
 categories: [Article, Chord]

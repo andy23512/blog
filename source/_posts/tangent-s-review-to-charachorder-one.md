@@ -1,5 +1,6 @@
 ---
 title: Tangent's Review to CharaChorder One
+description: Tangent reviews the benefits or drawbacks of CC1 under his near-two-year experiences with CC1.
 date: 2024-08-05T15:13:26.626Z
 updated: 2025-07-13T04:35:36.092Z
 categories: [Article, Experience]

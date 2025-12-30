@@ -1,5 +1,6 @@
 ---
 title: Tangent's Bundle Comparison Note of Master Forge
+description: Tangent collect and compare the content of the Master Forge bundles across different phases.
 date: 2024-10-10T10:59:04.561Z
 updated: 2025-09-26T14:11:02.176Z
 categories: [Note, Comparison]
