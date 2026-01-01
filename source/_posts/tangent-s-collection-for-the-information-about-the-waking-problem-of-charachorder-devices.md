@@ -2,7 +2,7 @@
 title: Tangent's collection for the information about the waking problem of CharaChorder devices
 description: Tangent collection the information about the waking problem of CharaChorder devices in this note.
 date: 2025-12-29T05:15:49.933Z
-updated: 2025-12-29T22:49:29.326Z
+updated: 2026-01-01T11:45:50.318Z
 categories: [Note, Resource]
 alias:
   - /2025/12/27/tangent-s-collection-for-the-information-about-the-waking-problem-of-charachorder-devices/
@@ -20,14 +20,40 @@ Although some combinations of OS version and CCOS version might not have this pr
 
 Still actively collecting the related information of this waking-up issue from the Internet. If you have any useful information, especially some working / not working environments with Windows or Linux platforms, please contact me via Discord (Tangent Chang, @andy23512).
 
-## Besides preventing the computer from sleeping, other things to try for troubleshooting
+## Other things to try for troubleshooting
 
-* Upgrade OS version
-* Upgrade CCOS version (also try beta)
-* Try a different USB port or hub.
-* (Mac) Reset SMC
+### Check if related wake-up or power settings in your computer are correctly configured
 
-## My tries on Mac
+#### Windows
+
+##### OS setting - Allow this device to wake the computer
+
+- **Open Device Manager**: Right-click the Start button (Windows icon) and select "Device Manager".
+- **Locate Your Device**: Expand the "Keyboards" category.
+- **Open Device Properties**: Double-click the specific device.
+- **Check Power Management**: Go to the "Power Management" tab.
+- **Enable Wake Feature**: Check the box next to "Allow this device to wake the computer".
+- **Confirm**: Click OK to save the changes. 
+
+##### BIOS setting - "Wake on USB," "USB Power Delivery," or "PCIe Devices Power On"
+
+### Upgrade OS version
+
+### Upgrade CCOS version (also try beta)
+
+### Try a different USB port or hub.
+
+### (Mac) Reset SMC
+
+## My tries
+
+### Windows
+
+* Windows PC (Windows 10 22H2) with my CC2 (CCOS 3.0.0-gamma.4)
+  * Any keystrokes on my CC2 cannot wake up the PC when the PC is sleeping.
+  * My CC2 is not waked up after the PC is waked up, and works again after unpluging and repluging
+
+### Mac
 
 * On my Mac Mini with the latest MacOS (26 Tahoe), when the computer is sleeping, a keystroke on my CC2 (CCOS 2.1.0) can wake it up without problem.
 * Previously, on my Mac Pro with previous MacOS versions (<=25), the computer could not wake up with any keystrokes on my CC1 or CC2.
