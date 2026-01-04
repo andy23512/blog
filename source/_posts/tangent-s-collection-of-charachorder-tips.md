@@ -2,7 +2,7 @@
 title: Tangent's Collection of CharaChorder Tips
 description: Tangent collect some tips from himself, CharaChorder Discord server and other related website in this note.
 date: 2025-11-26T12:42:54.546Z
-updated: 2025-12-20T10:39:21.360Z
+updated: 2026-01-04T12:15:10.571Z
 categories: [Note, Resource]
 alias:
   - /2025/11/24/tangent-s-collection-of-charachorder-tips/
@@ -195,7 +195,7 @@ Especially, it would happen if you chord right after entering insert mode in Vim
 
 There are some ways to avoid this issue:
 
-- Hit Ctrl before the chord.
+- ~~Hit Ctrl before the chord.~~ (Note: This workaround no longer works around 3.0.0-gamma.4)
 - Change the max attempt of [auto correct setting](https://docs.charachorder.com/Device%20Manager.html#autocorrect) to 0.
 
 ### Diagonal presses (Chords with multiple input keys on the same stick)

@@ -2,7 +2,7 @@
 title: Tangent's collection for the information about the waking problem of CharaChorder devices
 description: Tangent collection the information about the waking problem of CharaChorder devices in this note.
 date: 2025-12-29T05:15:49.933Z
-updated: 2026-01-01T11:45:50.318Z
+updated: 2026-01-01T11:49:44.047Z
 categories: [Note, Resource]
 alias:
   - /2025/12/27/tangent-s-collection-for-the-information-about-the-waking-problem-of-charachorder-devices/
@@ -67,7 +67,6 @@ Still actively collecting the related information of this waking-up issue from t
 |Mac Pro|25|CC1|2.1.0|No|:x:|
 |MacBook Pro|26|CC2|2.1.0|USB-C Hub|:x:|
 |MacBook Pro|26|CC2|3.0.0-gamma.4|USB-C Hub|<div class="check"></div>|
-
 
 ## Related Information
 
