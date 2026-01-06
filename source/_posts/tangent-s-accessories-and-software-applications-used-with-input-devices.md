@@ -2,7 +2,7 @@
 title: Tangent's Accessories and Software Applications used with input devices
 description: Tangent shares the accessories and the software applications he uses with his input devices, including keyboards and CharaChorder devices.
 date: 2024-12-24T16:25:20.667Z
-updated: 2025-03-04T02:51:52.563Z
+updated: 2026-01-06T12:07:12.019Z
 categories: [Article, Other]
 alias:
   - /2024/12/23/tangent-s-accessories-and-software-applications-used-with-input-devices/
@@ -26,6 +26,15 @@ As mentioned in <a href="{% post_path tangent-s-progress-for-charachorder-one-ch
 The desk I use my computers on doesn't have a built-in keyboard tray, and the keyboard placed on it is too high for my hands. I found that this might be another cause of my hand problems, so I bought a keyboard tray that can be installed under my desk.
 
 [This keyboard tray](https://www.ergomap.com.tw/product/kt_mcb33/) is the one I bought. However, it can only be shipped to the mainland and outlying islands of Taiwan. You can probably find similar ones that can ship to your country from other companies.
+
+#### Standing Desk
+
+I have high cholesterol, and it is probably caused by sitting at the computer most of the day. Regarding health, I choose to use a standing desk for my CC2 and switch between sitting and standing when using the computer.
+
+I bought [this standing desk](https://store.raymii.com.tw/products/raymii-vn3-sit-stand-desk) and replaced the two stoppers with the armrest from the keyboard tray mentioned above.
+
+However, it can only be shipped to places in Taiwan. You can probably find similar ones that can ship to your country from other companies.
+
 
 ### Software Applications (on MacOS)
 
