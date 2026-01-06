@@ -2,7 +2,7 @@
 title: CC Extensions - unofficial extensions that display the layout of CharaChorder 3D input devices on typing websites
 description: Tangent introduces CC Extensions, a set of unofficial browser extensions he developed. They can display the layout of CharaChorder 3D input devices (CharaChorder One, CharaChorder Two, and Master Forge) on Keybr and Monkeytype.
 date: 2025-10-19T10:02:03.861Z
-updated: 2025-11-26T11:38:54.048Z
+updated: 2026-01-06T00:43:58.614Z
 categories: [Article, Creation]
 alias:
   - /2025/10/17/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-3d-input-devices-on-typing-websites/
@@ -107,13 +107,13 @@ For Monkeytype, since it also uses CSS variables for theme colors and fonts, I a
 
 ### Reason for choosing React
 
-If you look at the tech stack I use in my other projects, you'll see that I primarily use Angular as my frontend framework. Angular is the framework I'm most familiar with, and I use it in my full stack engineer role. However, I am still able to work with other options like React and Vue.
+If you look at the tech stack I use in my other projects, you'll see that I primarily use [Angular](https://angular.dev/) as my frontend framework. Angular is the framework I'm most familiar with, and I use it in my full stack engineer role. However, I am still able to work with other options like [React](https://react.dev/) and [Vue](https://vuejs.org/).
 
 For this extension, I chose to use React instead and rewrote the layout component from Alnitak for two main reasons.
 
 First, Keybr itself is built with React, so using the same library helps avoid unexpected issues that could arise from introducing a different frontend framework or UI library. (Monkeytype is built without any frontend frameworks or UI libraries.)
 
-The second reason is performance. While Angular is well-suited for building complex websites like Alnitak, it is too heavy for simply displaying a device layout component. Therefore, I prefer a lightweight option like React for this extension.
+The second reason is performance. While Angular is well-suited for building complex websites like Alnitak, it is too heavy for simply displaying a device layout component. Therefore, I prefer a lightweight option like React for CC extensions.
 
 ### Tech stack
 
