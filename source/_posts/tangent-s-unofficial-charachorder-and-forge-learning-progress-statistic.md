@@ -2,7 +2,7 @@
 title: Tangent's Unofficial CharaChorder and Forge Learning Progress Statistic
 description: This note is about the learning progress (typing speed over time) statistic that Tangent collects from the share-your-progress channel at CharaChorder Discord server. 
 date: 2025-01-19T15:23:56.553Z
-updated: 2025-11-29T03:34:40.725Z
+updated: 2026-01-14T14:44:50.220Z
 categories: [Note, Statistic]
 alias:
   - /2025/01/17/tangent-s-unofficial-charachorder-and-forge-learning-progress-statistic/
@@ -65,6 +65,7 @@ Notable typing speeds:
    e. the maximum "average typing speed" in a day on [keybr.com](https://www.keybr.com/)
 4. All speed numbers are rounded to the nearest whole number.[^speed_rounded]
 5. Chinese typing statistics are excluded due to their unique characteristics, so it's not collected. It's hard to decide how to convert Chinese CPM to English WPM.
+6. Records on CC2.1 are included in CC2.
 
 ## By Practice Time
 
@@ -82,5 +83,6 @@ Notable typing speeds:
 1. A data point is recorded whenever a user’s typing speed and total practice time are mentioned directly or can be inferred from a message or an entry in the CharaChorder Tracker.
 2. All speed values are rounded to the nearest whole number.[^speed_rounded]
 3. Chinese typing statistics are excluded, as previously discussed.
+4. Records on CC2.1 are included in CC2.
 
 [^speed_rounded]: Monkeytype (and CCType) has a setting called "always show decimal places". If it's set to off, the rounded-to-whole-number speed value would get shown. As a result, the speed in some screenshots has decimal places, and some don't. So in this statistic, all speed numbers are rounded to a whole number before being collected.
