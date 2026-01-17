@@ -2,7 +2,7 @@
 title: Tangent's Collection of CharaChorder and Forge Resource Links
 description: Tangent collects some links to useful resources related to CharaChorder / Forge in this note.
 date: 2023-03-29T13:16:09.346Z
-updated: 2025-12-14T13:07:40.787Z
+updated: 2026-01-17T08:59:30.637Z
 categories: [Note, Resource]
 alias:
   - /2023/03/27/tangent-s-collection-of-charachorder-and-forge-resource-links/
@@ -77,7 +77,16 @@ otherLanguages:
 
 ##### [Firmware Meta API](https://github.com/CharaChorder/CCOS-firmware?tab=readme-ov-file#firmware-meta-api)
 
-##### [CCOS Key Remapping Reference Guide - Google Spreadsheet](https://docs.google.com/spreadsheets/d/1--T9bXshCIC-OVly-CY3rK87fgb7AHgJl3IySh7cmHc/edit?gid=0#gid=0)
+##### ==(Partially outdated)== [CCOS Key Remapping Reference Guide - Google Spreadsheet](https://docs.google.com/spreadsheets/d/1--T9bXshCIC-OVly-CY3rK87fgb7AHgJl3IySh7cmHc/edit?gid=0#gid=0)
+
+{% collapsecard "Show Detail" %}This reference guide includes three tabs: "Action Codes," "Switch Location Map," and "Hex Parser."
+
+The "Action Codes" tab is outdated. Instead, use the action information provided by the Firmware Meta API mentioned above.
+
+Use the "Switch Location Map" tab to look up the ID of each key on CharaChorder devices.
+
+Use the "Hex Parser" tab to understand the conversion between chord input keys and their hex format.
+{% endcollapsecard %}
 
 #### Others
 
