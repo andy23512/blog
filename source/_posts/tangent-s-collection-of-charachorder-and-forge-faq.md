@@ -2,7 +2,7 @@
 title: Tangent's Collection of CharaChorder and Forge FAQ
 description: Tangent collect some FAQs and their answers from CharaChorder Discord server in this note, so that is easier for management and copy-paste.
 date: 2024-10-10T10:18:17.622Z
-updated: 2025-11-29T05:31:20.340Z
+updated: 2026-01-20T11:15:02.248Z
 categories: [Note, Resource]
 alias:
   - /2024/10/08/tangent-s-collection-of-charachorder-and-forge-faq/
@@ -113,3 +113,10 @@ CC2 is only supported on https://charachorder.io/ .
 #### Wireless Solution
 
 CC1/2 is not wireless, but there is a compatible, third-party Bluetooth adapter https://sterlinghawk.com/shop/products/electronics/sterlingkey/.
+
+#### Power Consumption
+
+- CC2: about 1 mAh per minute (measured by me)
+
+{% collapsecard "Show Detail" %}I measured CC2’s power consumption using a USB power meter and found that it draws about 1 mAh per minute. Given that the steringkey and steringkey lite have a capacity of roughly 3,400–5,330 mAh, the theoretical runtime is about 57–89 hours. Factoring in an estimated 70% efficiency to account for conversion losses, temperature, and real usage patterns, a more realistic runtime is approximately 40–62 hours.
+{% endcollapsecard %}
