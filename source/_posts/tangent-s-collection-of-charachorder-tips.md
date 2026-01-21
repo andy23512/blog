@@ -2,7 +2,7 @@
 title: Tangent's Collection of CharaChorder Tips
 description: Tangent collect some tips from himself, CharaChorder Discord server and other related website in this note.
 date: 2025-11-26T12:42:54.546Z
-updated: 2026-01-04T12:15:10.571Z
+updated: 2026-01-21T05:47:09.750Z
 categories: [Note, Resource]
 alias:
   - /2025/11/24/tangent-s-collection-of-charachorder-tips/
@@ -43,13 +43,11 @@ Some symbols may be complex to type because you need to hold down both Num-Shift
 
 ![image](https://hackmd.io/_uploads/B11CXHd--e.png)
 
-### Layer shift and lock
+### Layer shift, lock and rotator
 
 There are layer actions for each layer, and you can assign them to any key to switch between layers. They are usually represented by circled numbers, such as ①, ②, ③.
 
-Depending on the action you put on the same location of the target layer, the key will behave differently.
-
-The following examples assume the target layer is A2.
+Depending on the action you put on the same location of the layers, the key will behave differently.
 
 #### Layer shift
 
@@ -129,6 +127,33 @@ gantt
 The last kind is the two-way layer lock. For example, the key has ② on A1, and ① on A2.
 
 This kind of key acts like the Caps Lock key on standard keyboards. The device switches to the target layer when you press it, and switches to the primary when you press it again.
+
+#### Layer rotator
+
+```mermaid
+---
+displayMode: compact
+---
+gantt
+    dateFormat X
+    axisFormat %s
+    title Layer rotator ( A1: ② | A2: ③ | A3: ① )
+    section ㅤ
+    Press: milestone, done, 1, 1
+    Release: milestone, done, 2, 2
+    Press: milestone, done, 3, 3
+    Release: milestone, done, 4, 4
+    Press: milestone, done, 5, 5
+    Release: milestone, done, 6, 6
+    tickInterval 1day
+    section ㅤㅤ
+    A1: 0, 1s
+    A2: active, 1, 2s
+    A3: crit, 3, 2s
+    A1: 5, 2s
+```
+
+The fourth type is the layer rotator: a key that moves the device to the next or previous layer. For instance, a key has ② on A1, ③ on A2, and ① on A3. With this setup, you can cycle through all the layers using just one key.
 
 ### Helpful hot keys
 
