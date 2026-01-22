@@ -38,7 +38,7 @@
     "markdown-it-container": "^4.0.0",
     "markdown-it-emoji": "^3.0.0",
     "markdown-it-mark": "^4.0.0",
-    "puppeteer": "^24.33.0"
+    "puppeteer": "^24.36.0"
   },
   "devDependencies": {
     "@types/node": "^22.13.11",
