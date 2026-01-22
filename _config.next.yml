@@ -107,7 +107,7 @@ menu:
   #schedule: /schedule/ || fa fa-calendar
   sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
-  繁體中文版: https://andy23512.github.io/blog-zh-tw/ || fa fa-language
+  繁體中文版: https://andy23512.com/blog-zh-tw/ || fa fa-language
 
 # Enable / Disable menu icons / item badges.
 menu_settings:

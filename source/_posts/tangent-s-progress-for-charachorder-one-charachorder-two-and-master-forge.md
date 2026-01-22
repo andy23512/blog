@@ -12,7 +12,7 @@ alias:
   - /2023/06/05/tangent-s-progress-for-charachorder-one-charachorder-two-and-master-forge/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/tangent-的-charachorder-one、charachorder-two-和-master-forge-使用歷程/
+    path: https://andy23512.com/blog-zh-tw/tangent-的-charachorder-one、charachorder-two-和-master-forge-使用歷程/
 ---
 
 ## 1. How I Meet CharaChorder One (CC1)
@@ -31,7 +31,7 @@ I received CC1 about two months later (2022/09/13) and started practicing when o
 
 ## 3. Sudden Death and New Comer
 
-When everything seems to be fine, I accidentally broke a switch on CC1, (I strongly think I have a curse for breaking any electrical things around me.) so I ordered another CC1. (Order #2935, 2023/02/27) The second CC1 was delivered after 10 days. (2023/03/09) Improving from 2 months to 10 days, wow! The bag changed a little bit and I felt the switch is much stronger and easier to use than the old one. The product and the company are growing! These 10 days without practicing surely caused a drop in my speed at first, but it grew back quickly. 
+When everything seems to be fine, I accidentally broke a switch on CC1, (I strongly think I have a curse for breaking any electrical things around me.) so I ordered another CC1. (Order #2935, 2023/02/27) The second CC1 was delivered after 10 days. (2023/03/09) Improving from 2 months to 10 days, wow! The bag changed a little bit and I felt the switch is much stronger and easier to use than the old one. The product and the company are growing! These 10 days without practicing surely caused a drop in my speed at first, but it grew back quickly.
 
 ## 4. Finding Ways to Improve Bopomofo Typing
 
@@ -63,7 +63,7 @@ With curiousity about any better solutions or improvements for typing Chinese on
 
 2. I reviewed some of the shape-based input methods. (Chagjie might be the most famous one in this category.) Almost all of them are sensible to input order of the character components, so they are not feasible to work with chording.
 
-After the research, I think that the CC1 Bopomofo layout I designed is the best solution I can have for now. So I decide to focus on practice this layout. It is going to take much longer time than English layout. 
+After the research, I think that the CC1 Bopomofo layout I designed is the best solution I can have for now. So I decide to focus on practice this layout. It is going to take much longer time than English layout.
 
 ## 7. Last Step to Fully Switch to CC1
 
@@ -75,7 +75,7 @@ Finally, after 166 practices (i.e. 1660 minutes), today (2023/12/21), also my bi
 
 ## 8. Take back CC1 chording
 
-Before I fully switched to CC1, I usually turned off the chording feature of CC1, because some CC1's chords conflict with Bopomofo chords and my layout of Bopomofo were under adjustment at that time. And after I got a stable version (<a href="{% post_path tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one %}#V5-Latest">V5</a>) of Bopomofo layout, I reopened the chording feature of CC1 and added some CC1 chords. They are for some words that I frequently use while working, and their key combinations don't conflict with any Bopomofo chords under Bopomofo layout V5. 
+Before I fully switched to CC1, I usually turned off the chording feature of CC1, because some CC1's chords conflict with Bopomofo chords and my layout of Bopomofo were under adjustment at that time. And after I got a stable version (<a href="{% post_path tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one %}#V5-Latest">V5</a>) of Bopomofo layout, I reopened the chording feature of CC1 and added some CC1 chords. They are for some words that I frequently use while working, and their key combinations don't conflict with any Bopomofo chords under Bopomofo layout V5.
 
 ## 9. Good Bye, Mouse
 
@@ -95,7 +95,7 @@ And after [a few days of practice](https://docs.google.com/spreadsheets/d/e/2PAC
 
 My English and Chinese typing speed on CC1 are enough for me to use. But when programming, I still feel slow when I need to type numbers or symbols. I think I am still unfamiliar with the locations of those keys, and I want a practice tool for practicing them. I also need a good side project to practice some new frontend technologies, syntaxes, and other things I want to try.
 
-As a result, I recently started developing a new practice tool, called [Alnitak](https://andy23512.github.io/alnitak/). At the time of writing, it has already had a basic layout highlight and typing lessons for numbers and letters. About its latest features and details, I will update them in <a href="{% post_path alnitak-a-practice-tool-of-charachorder-3d-input-devices-developed-by-tangent %}">this article</a>.
+As a result, I recently started developing a new practice tool, called [Alnitak](https://andy23512.com/alnitak/). At the time of writing, it has already had a basic layout highlight and typing lessons for numbers and letters. About its latest features and details, I will update them in <a href="{% post_path alnitak-a-practice-tool-of-charachorder-3d-input-devices-developed-by-tangent %}">this article</a>.
 
 ## 12. Awakening Ambidexterity / Dual Wielding
 

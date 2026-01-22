@@ -1,6 +1,6 @@
 ---
 title: Tangent's explanation to the compatible languages of CharaChorder One, CharaChorder Two and Master Forge
-description: Tangent shares about his explanation why CharaChorder One, CharaChorder Two and Master Forge can support all languages like a normal keyboard. How the same keyboard can support multiple languages upon the OS layout or language setting and how to configure CharaChorder One, CharaChorder Two and Master Forge to work with other layout than QWERTY - US will be explained. 
+description: Tangent shares about his explanation why CharaChorder One, CharaChorder Two and Master Forge can support all languages like a normal keyboard. How the same keyboard can support multiple languages upon the OS layout or language setting and how to configure CharaChorder One, CharaChorder Two and Master Forge to work with other layout than QWERTY - US will be explained.
 date: 2024-09-30T16:20:07.484Z
 updated: 2025-11-21T11:30:12.212Z
 categories: [Article, Language]
@@ -12,7 +12,7 @@ alias:
   - /2024/10/03/tangent-s-explanation-to-the-compatible-languages-of-charachorder-one-charachorder-two-and-master-forge/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/tangent-對-charachorder-one、charachorder-two-和-master-forge-的相容語言的說明/
+    path: https://andy23512.com/blog-zh-tw/tangent-對-charachorder-one、charachorder-two-和-master-forge-的相容語言的說明/
 ---
 
 ### TL;DR
@@ -24,16 +24,17 @@ otherLanguages:
 3. When you want CC1, CC2 or M4G to output a symbol on an OS layout other than `QWERTY - US`, you should set the corresponding symbol (at the same position) on the `QWERTY - US` layout to the key or the chord output.
 
 4. Some features only work under QWERTY OS layout or English.
-  - Default Chord Library
-    - English-only
-    - It only works under the QWERTY OS layout.
-  - Startup Text, Generative Text Menu (GTM) and Impulse Chord Menu
-    - Text interface would be garbled when under a non-QWERTY OS layout.
-  - ==[Partial Support]== Device Manager (layout display and chord output)
-    - Some keys (ex: shift layer keys) on the layout and chord output show the output under the `QWERTY - US` OS layout but not the current OS layout.
-  - Chord Modifier
-    - Modification rules are mainly for English.
-    - It only works under the QWERTY OS layout.
+
+- Default Chord Library
+  - English-only
+  - It only works under the QWERTY OS layout.
+- Startup Text, Generative Text Menu (GTM) and Impulse Chord Menu
+  - Text interface would be garbled when under a non-QWERTY OS layout.
+- ==[Partial Support]== Device Manager (layout display and chord output)
+  - Some keys (ex: shift layer keys) on the layout and chord output show the output under the `QWERTY - US` OS layout but not the current OS layout.
+- Chord Modifier
+  - Modification rules are mainly for English.
+  - It only works under the QWERTY OS layout.
 
 5. If your language is supported by the [QWERTY - US-intl](https://en.wikipedia.org/wiki/QWERTY#US-International) OS layout, it's an easier solution that prevents you from doing much manual remapping as mentioned in `3.` and facing some problems mentioned in `4.`.
 
@@ -45,22 +46,22 @@ When you hit a key on a keyboard, it doesn't send the symbol on the key to the c
 
 Taking the second column (the column contains the `1` number) of a normal keyboard with [QWERTY](https://en.wikipedia.org/wiki/QWERTY) OS layout for example, the following GIF shows the scancode that a keyboard sends, the corresponding symbol on the OS layout and the output.
 
-{% collapsecard "Click to show the GIF" %}  ![螢幕錄影 2024-10-01 01.06.52](https://hackmd.io/_uploads/HyYci8dCA.gif)
+{% collapsecard "Click to show the GIF" %} ![螢幕錄影 2024-10-01 01.06.52](https://hackmd.io/_uploads/HyYci8dCA.gif)
 {% endcollapsecard %}
 
 And when one switches the OS layout to [QWERTZ](https://en.wikipedia.org/wiki/QWERTZ), as shown in the following GIF, the scancodes of that column on the keyboard are unchanged, but the output character of the `1D` scancode becomes `y` instead of `z`, due to the change of OS layout.
 
-{% collapsecard "Click to show the GIF" %}  ![螢幕錄影 2024-10-01 08.47.58](https://hackmd.io/_uploads/SkAwv6OA0.gif)
+{% collapsecard "Click to show the GIF" %} ![螢幕錄影 2024-10-01 08.47.58](https://hackmd.io/_uploads/SkAwv6OA0.gif)
 {% endcollapsecard %}
 
 Similar things would happen when using other OS layouts, such as [JCUKEN](https://en.wikipedia.org/wiki/JCUKEN).
 
-{% collapsecard "Click to show the GIF" %}  ![tmp](https://hackmd.io/_uploads/B1rWoiYRC.gif)
+{% collapsecard "Click to show the GIF" %} ![tmp](https://hackmd.io/_uploads/B1rWoiYRC.gif)
 {% endcollapsecard %}
 
 And so do the OS layouts that need to be used with IME, such as [Standard Bopomofo](https://en.wikipedia.org/wiki/Bopomofo#Input_method).
 
-{% collapsecard "Click to show the GIF" %}  ![tmp2](https://hackmd.io/_uploads/rk2uMnFAR.gif)
+{% collapsecard "Click to show the GIF" %} ![tmp2](https://hackmd.io/_uploads/rk2uMnFAR.gif)
 {% endcollapsecard %}
 
 ### 2. How can one type different languages on CC1, CC2 and M4G?
@@ -69,7 +70,7 @@ On CC1, CC2 and M4G (and other CC devices), you can assign characters or actions
 
 For example, if we assign the characters `1`, `q`, `a`, and `z` to the four directions of a switch on CC1, CC2 or M4G with the Device Manager, similar to the QWERTY example of a normal keyboard, the corresponding scancode will be `1E`, `14`, `04` and `1D`. The process after this is the same as the normal keyboard. The following GIF shows a side-by-side comparison of the process between a normal keyboard and CC1 / CC2 / M4G.
 
-{% collapsecard "Click to show the GIF" %}  ![output](https://hackmd.io/_uploads/SyFmKv111e.gif)
+{% collapsecard "Click to show the GIF" %} ![output](https://hackmd.io/_uploads/SyFmKv111e.gif)
 {% endcollapsecard %}
 
 As you can expect, when one uses other OS layouts, the scancodes will be converted to the output characters in the same way as a normal keyboard. The following GIFs show the process on other OS layouts.
@@ -116,15 +117,15 @@ The corresponding symbols on this key under typical language OS layouts are list
 - US: \|
 - Belg: µ\`£
 - French Canadian: <}>
-- Danish: ’*
+- Danish: ’\*
 - Dutch: <>
-- French: *µ
+- French: \*µ
 - German: # ’
 - Italian: ù§
 - LatinAmerica: }\`]
-- Norwegian: , *
+- Norwegian: , \*
 - Spain: }Ç
-- Swedish: , *
+- Swedish: , \*
 - Swiss: $£
 - UK: #~
 
@@ -193,7 +194,9 @@ It's recommended to use "QWERTY - US Intl" if it supports your language.
 - [CCOS language support](https://docs.google.com/document/d/1bY4uaSF9fzd1VlMMZvBnDtDs0fZ-OLdaL-Bo4djQgAs/edit?tab=t.0)
 
 [^scancode]: There are [many sets of scancodes](https://en.wikipedia.org/wiki/Scancode#Scancode_sets). In this article, USB HID keyboard scancodes are used as examples. You can check them in the "10 Keyboard/Keypad Page" section (page 83 to page 89) in [HID Usage Tables FOR Universal Serial Bus (USB)](https://usb.org/sites/default/files/hut1_21.pdf).
+
 [^os_layout]: About the OS layout, the Wikipedia page of keyboard layout uses the name ["Functional layout"](https://en.wikipedia.org/wiki/Keyboard_layout#:~:text=on%20those%20keys.-,Functional%20layout,-is%20the%20arrangement). At different places, it is called with many other names, such as keyboard layout, input method, input source, etc. In this article, to clearly distinguish the layout of the input device and the keyboard layout setting on the OS, they are called "Device layout" and "OS layout" respectively.
+
 [^keyboard_api]: The closest thing is the [Keyboard API](https://developer.mozilla.org/en-US/docs/Web/API/Keyboard_API) supported by some of the browser. But at the written time, it only can get the unmodified output (i.e. the output without modifiers like `Shift` or `AltGraph`) of the keys.
 
 [^non_us_number_sign_and_tilde]: This information is from reference #5 at page 89 of [HID Usage Tables FOR Universal Serial Bus (USB)](https://usb.org/sites/default/files/hut1_21.pdf).

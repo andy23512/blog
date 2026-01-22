@@ -12,10 +12,11 @@ alias:
   - /2023/03/31/tangent-s-collection-of-charachorder-and-forge-resource-links/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/tangent-的-charachorder-和-forge-資源連結收集/
+    path: https://andy23512.com/blog-zh-tw/tangent-的-charachorder-和-forge-資源連結收集/
 ---
+
 {% blockquote %}
-  :information_source: [The official list of Web tools is here.](https://discord.com/channels/861730583092658206/1300503878495637624)
+:information_source: [The official list of Web tools is here.](https://discord.com/channels/861730583092658206/1300503878495637624)
 {% endblockquote %}
 
 ### Official Resources
@@ -56,6 +57,7 @@ otherLanguages:
 #### Practice Tool
 
 ##### [dot i/o](https://www.iq-eq.io/#/)
+
 ##### ==(Outdated)== [CharaChorder Launchpad](https://launchpad.charachorder.com/#/)
 
 #### Videos
@@ -132,9 +134,10 @@ It seems to me that the "Learn to Type" and "Learn to Chord" sections are still 
 
 ##### [CharaTyping](https://cctype.app/)
 
-{% collapsecard "Show Detail" %}It's a fork/clone of a typing test app, [Monkeytype](https://monkeytype.com/). 
+{% collapsecard "Show Detail" %}It's a fork/clone of a typing test app, [Monkeytype](https://monkeytype.com/).
 
 Differences from Monkeytype:
+
 - The anti-cheat module of Monkeytype is removed.
 - Chording would not affect the accuracy.
 
@@ -161,7 +164,6 @@ GitHub Repo: https://github.com/typing-tech/monkeytype
 - [CC Import Fees - Google Spreadsheet](https://docs.google.com/spreadsheets/d/1YLqjQs1EVnWZ_zu3A3oQj-wzRe1gTCyxNKZ6XF4PlyA/edit?gid=0#gid=0)
 
 #### YouTube Channel and Video
-
 
 ##### [John de St. Germain - YouTube](https://www.youtube.com/channel/UCT_jbAW5HKHjdUEhnYgFt4w)
 
@@ -209,7 +211,7 @@ GitHub Repo: https://github.com/typing-tech/monkeytype
 #### Blog
 
 - [My CharaChorder and Forge Note List at HackMD](https://hackmd.io/@andy23512/B1e97aNl0)
-- [My Blog](https://andy23512.github.io/blog/) (A mirror site of my HackMD notes)
+- [My Blog](https://andy23512.com/blog/) (A mirror site of my HackMD notes)
 
 #### Anki Deck
 
@@ -217,10 +219,10 @@ GitHub Repo: https://github.com/typing-tech/monkeytype
 
 #### Web Application
 
-- [Alnitak](https://andy23512.github.io/alnitak/) - an unoffical CharaChorder 3D input device practice tool
-- [Device Comparator](https://andy23512.github.io/device-comparator/) - an unofficial website for comparing the specs of CharaChorder devices, Master Forge and Svalboard
-- [TanChord Cone (TC Code)](https://andy23512.github.io/tccode/) - an unofficial, experimental code editor for the chord library of CharaChorder device
-- [CCOS Meta Viewer](https://andy23512.github.io/ccos-meta-viewer/) - an unofficial data viewer for the official CharaChorder Firmware Meta API
+- [Alnitak](https://andy23512.com/alnitak/) - an unoffical CharaChorder 3D input device practice tool
+- [Device Comparator](https://andy23512.com/device-comparator/) - an unofficial website for comparing the specs of CharaChorder devices, Master Forge and Svalboard
+- [TanChord Cone (TC Code)](https://andy23512.com/tccode/) - an unofficial, experimental code editor for the chord library of CharaChorder device
+- [CCOS Meta Viewer](https://andy23512.com/ccos-meta-viewer/) - an unofficial data viewer for the official CharaChorder Firmware Meta API
 
 #### Browser Extension
 
@@ -239,4 +241,3 @@ GitHub Repo: https://github.com/typing-tech/monkeytype
 #### Project Tracker
 
 - [My Trello Board of My CharaChorder Side Projects](https://trello.com/b/vU9RCh5P/tangents-board-of-his-charachorder-side-projects)
-

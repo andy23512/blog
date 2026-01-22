@@ -12,18 +12,18 @@ alias:
   - /2024/05/03/alnitak-a-practice-tool-of-charachorder-3d-input-devices-developed-by-tangent/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/alnitak-參宿一-tangent-所開發的-charachorder-3d-輸入裝置練習工具/
+    path: https://andy23512.com/blog-zh-tw/alnitak-參宿一-tangent-所開發的-charachorder-3d-輸入裝置練習工具/
 ---
+
 {% blockquote %}
 :information_source: Disclaimer: This tool is not affiliated, associated, authorized, endorsed by, or in any way officially connected with CharaChorder.
 {% endblockquote %}
 
 ![截圖 2025-02-19 23.15.27](https://hackmd.io/_uploads/HJR3BOX51l.png)
 
-
 ## Links
 
-- [Alnitak](https://andy23512.github.io/alnitak/)
+- [Alnitak](https://andy23512.com/alnitak/)
 - [Github](https://github.com/andy23512/alnitak)
 
 ## Features
@@ -48,7 +48,7 @@ otherLanguages:
   - search for a key in the layout
   - print the final layout (or generate a pdf file of it)
 - Layout Song
-  - an AI generated song that can help you that can help you memorize the letter keys on the default layout 
+  - an AI generated song that can help you that can help you memorize the letter keys on the default layout
 
 ## Side Topics
 
@@ -60,13 +60,13 @@ As a result, the first name of this project is named `typing-san`. The `san` sou
 
 But this name is too abstract for people who know about neither Chinese nor Japanese, and it's also hard to design a theme from such an abstract name.
 
-Later, I found that a [star mansion](https://en.wikipedia.org/wiki/Star_(Chinese_constellation)) called [參宿 (Three Stars)](https://en.wikipedia.org/wiki/Three_Stars_(Chinese_constellation)), so I decided to name this project as the first star in the Three Stars, [參宿一 (Alnitak)](https://en.wikipedia.org/wiki/Alnitak). 參 can mean study, 宿 can mean place and 一 means one, so 參宿一 can be overtranslated to "**Study** **Place** for CharaChorder **One**" by me. And since the main star of Alnitak is a blue supergiant, I could use this as a theme color in this project, so that's how the theme color of this tool was decided.
+Later, I found that a [star mansion](<https://en.wikipedia.org/wiki/Star_(Chinese_constellation)>) called [參宿 (Three Stars)](<https://en.wikipedia.org/wiki/Three_Stars_(Chinese_constellation)>), so I decided to name this project as the first star in the Three Stars, [參宿一 (Alnitak)](https://en.wikipedia.org/wiki/Alnitak). 參 can mean study, 宿 can mean place and 一 means one, so 參宿一 can be overtranslated to "**Study** **Place** for CharaChorder **One**" by me. And since the main star of Alnitak is a blue supergiant, I could use this as a theme color in this project, so that's how the theme color of this tool was decided.
 
 ### Design Concepts
 
 #### Combo Counter
 
-The combo counter records how many consecutive correct keystrokes have been made til now. Trying to get a higher count can be a different challenge from the typing speed or the accuracy. 
+The combo counter records how many consecutive correct keystrokes have been made til now. Trying to get a higher count can be a different challenge from the typing speed or the accuracy.
 
 As the number of combo increases, the color of the counter will change in the same way as the [color temperature](https://en.wikipedia.org/wiki/Color_temperature) or the [stellar color](https://en.wikipedia.org/wiki/Stellar_classification), and it pretty fits the name of this project, Alnitak, which is a star name.
 
@@ -91,7 +91,7 @@ Finally, I added the song and lyrics to the layout song page on Alnitak. Additio
 - Build System: [Nx](https://nx.dev/)
 - Frontend Framework: [Angular](https://angular.dev/)
   - [Signal](https://angular.dev/guide/signals) - input, output and computed
-  - [Template Syntax - Control Flow](https://angular.dev/guide/templates/control-flow) 
+  - [Template Syntax - Control Flow](https://angular.dev/guide/templates/control-flow)
   - [Standalone Components](https://angular.dev/guide/components/importing#standalone-components)
   - [withComponentInputBinding](https://angular.dev/guide/routing/routing-with-urlmatcher#configure-your-routes-for-your-application)
 - Component Library: [Angular Material](https://material.angular.io/)

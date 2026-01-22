@@ -12,7 +12,7 @@ alias:
   - /2024/11/05/tangent-s-latest-layout-on-charachorder-one-charachorder-two-and-master-forge/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/tangent-在-charachorder-one、charachorder-two-和-master-forge-上的最新佈局/
+    path: https://andy23512.com/blog-zh-tw/tangent-在-charachorder-one、charachorder-two-和-master-forge-上的最新佈局/
 ---
 
 ### Preface
@@ -29,7 +29,6 @@ However, it may be hard to trace the reason behind each remapped keys on my layo
 
 Corresponding Bopomofo layout:
 ![localhost_4200_layouts](https://hackmd.io/_uploads/ByF157m7kx.png)
-
 
 The Bopomofo IME can only map character keys (alphabets, numbers, and symbols) to Bopomofo symbols, so some non-character keys on the home row are replaced with symbol keys. Those symbol keys don't hold shift, so that they won't affect the chords (both CC chords and Bopomofo chords).
 

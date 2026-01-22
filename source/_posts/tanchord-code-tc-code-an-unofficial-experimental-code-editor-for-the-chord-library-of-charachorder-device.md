@@ -12,20 +12,20 @@ alias:
   - /2025/11/25/tanchord-code-tc-code-an-unofficial-experimental-code-editor-for-the-chord-library-of-charachorder-device/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/tanchord-code-tc-code-非官方的、實驗性的-charachorder-和弦庫代碼編輯器/
+    path: https://andy23512.com/blog-zh-tw/tanchord-code-tc-code-非官方的、實驗性的-charachorder-和弦庫代碼編輯器/
 ---
+
 {% blockquote %}
 :information_source: Disclaimer: This editor is not affiliated, associated, authorized, endorsed by, or in any way officially connected with CharaChorder.
 {% endblockquote %}
 
 ![localhost_4300_](https://hackmd.io/_uploads/SkO7J4xbZl.png)
 
-
 ## Links
 
-- [TanChord Code](https://andy23512.github.io/tccode/)
+- [TanChord Code](https://andy23512.com/tccode/)
 - [GitHub](https://github.com/andy23512/tccode)
-- <a href="{% post_path tanchord-code-library-tccl-language-reference %}">TanChord Code Library (TCCL) language reference</a> 
+- <a href="{% post_path tanchord-code-library-tccl-language-reference %}">TanChord Code Library (TCCL) language reference</a>
 
 ## TCCL language
 
@@ -56,7 +56,7 @@ For the name of this editor, I initially considered "Chord Studio Code" (a play 
 
 ### Logo design
 
-![andy23512.github.io_tccode_](https://hackmd.io/_uploads/r1DYsVgbbx.png)
+![andy23512.com_tccode_](https://hackmd.io/_uploads/r1DYsVgbbx.png)
 
 If you look at the strokes, the logo is composed of two circles and one line. The line is both a tangent of the inner circle and a chord of the outer circle. It echoes with the "TanChord" part in the name.
 
@@ -73,7 +73,7 @@ And if you look at the coloring areas, the logo is made of a teal "C", a black "
   - Emacs Keybinding: [monaco-emacs](https://www.npmjs.com/package/monaco-emacs)
 - CSS Framework: [Tailwind CSS](https://tailwindcss.com/)
 - Parser Generator: [ANTLR](https://www.antlr.org/)
-  - TypeScript Runtime: [antlr4ng](https://www.npmjs.com/package/antlr4ng) 
+  - TypeScript Runtime: [antlr4ng](https://www.npmjs.com/package/antlr4ng)
   - CLI Tool: [antlr-ng](https://www.npmjs.com/package/antlr-ng)
   - Code Completion Core: [antlr4-c3](https://www.npmjs.com/package/antlr4-c3)
 - Indent Detection: [detect-indent](https://www.npmjs.com/package/detect-indent)

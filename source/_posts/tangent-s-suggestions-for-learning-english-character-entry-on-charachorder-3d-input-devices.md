@@ -12,7 +12,7 @@ alias:
   - /2025/07/02/tangent-s-suggestions-for-learning-english-character-entry-on-charachorder-3d-input-devices/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/tangent-對學習使用-charachorder-3d-輸入裝置英打（逐字輸入）的建議/
+    path: https://andy23512.com/blog-zh-tw/tangent-對學習使用-charachorder-3d-輸入裝置英打（逐字輸入）的建議/
 ---
 
 ```mermaid
@@ -33,17 +33,17 @@ gantt
 - Purpose: Memorize the locations of each key when the device is not at your fingertips, such as when you are waiting for the shipment.
 - Recommended tool:
   - [My Anki deck for letter keys on the default device layout](https://ankiweb.net/shared/info/1396809787)
-  - Air typing with Number, letter, and symbol lessons at [Alnitak](https://andy23512.github.io/alnitak/) with its air mode setting on
-  - [Layout song at Alnitak](https://andy23512.github.io/alnitak/layout-song)
+  - Air typing with Number, letter, and symbol lessons at [Alnitak](https://andy23512.com/alnitak/) with its air mode setting on
+  - [Layout song at Alnitak](https://andy23512.com/alnitak/layout-song)
 - Recommended goal:
   - You can recall where any key is without any visual guide.
-  
+
 {% collapsecard "Explanations" %}
 [Anki](https://apps.ankiweb.net/) offers a feature called [Image Occlusion](https://docs.ankiweb.net/editing.html?highlight=image#image-occlusion). Download the default layout image ([CC1/2](https://docs.charachorder.com/_images/CCEnglish2.png) or [Master Forge](https://docs.charachorder.com/_images/M4-Layout.png)) and create cards that hide specific parts of the layout to help you memorize it. I also made a deck for the letter keys on the default layout, and you can [access it here](https://ankiweb.net/shared/info/1396809787).
 
-Air typing involves mimicking typing gestures with your fingers, either in the air, on a table, or even on your hand or leg. The practice tool I developed, [Alnitak](https://andy23512.github.io/alnitak), also features an air mode setting. It automatically advances lessons at the speed you set, allowing you to follow along and move your fingers as if typing on a real device.
+Air typing involves mimicking typing gestures with your fingers, either in the air, on a table, or even on your hand or leg. The practice tool I developed, [Alnitak](https://andy23512.com/alnitak), also features an air mode setting. It automatically advances lessons at the speed you set, allowing you to follow along and move your fingers as if typing on a real device.
 
-Additionally, there is [an AI-generated layout song at Alnitak](https://andy23512.github.io/alnitak/layout-song) that can help you memorize the default layout.
+Additionally, there is [an AI-generated layout song at Alnitak](https://andy23512.com/alnitak/layout-song) that can help you memorize the default layout.
 
 {% endcollapsecard %}
 
@@ -54,13 +54,13 @@ Additionally, there is [an AI-generated layout song at Alnitak](https://andy2351
 - Recommended tool:
   - Letters tier at [dot i/o](https://www.iq-eq.io/#/)
   - Alphabetic tier at [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/)
-  - Number, letter, and symbol lessons at [Alnitak](https://andy23512.github.io/alnitak/)
+  - Number, letter, and symbol lessons at [Alnitak](https://andy23512.com/alnitak/)
   - Guided, source code and numbers lessons at [Keybr](https://www.keybr.com/) with Keybr CC Extension ([Chrome Web Store](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg) / [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/))
     - P.S. It's recommended to set the target speed to 15 here.
   - English set at [Monkeytype](https://monkeytype.com/) with Monkeytype CC Extension ([Chrome Web Store](https://chromewebstore.google.com/detail/mhfjhmegecimjbohhdbflkhdfnaadple) / [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/monkeytype-cc-extension/))
 - Recommended goal:
   - Reach 13 WPM at Letters tier at [dot i/o](https://www.iq-eq.io/#/) or Alphabetic tier at [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/)
-  - Reach 100 Combos and 100 CPM at non-review lessons at [Alnitak](https://andy23512.github.io/alnitak/)
+  - Reach 100 Combos and 100 CPM at non-review lessons at [Alnitak](https://andy23512.com/alnitak/)
   - All the letters become green at [Keybr](https://www.keybr.com/)
   - Reach 13 WPM at English set at [Monkeytype](https://monkeytype.com/)
 
@@ -70,7 +70,7 @@ The official training applications ([dot i/o](https://www.iq-eq.io/#/) and [Char
 
 Dot i/o and CharaChorder LaunchPad only have device previews for CC1 and CCL. However, the default layout of CC2 is the same as CC1, and most of the keys they support are positioned the same as in the default layouts for CC1/2 and M4G. As a result, you can still use them with CC2 or M4G.
 
-Besides, [Alnitak](https://andy23512.github.io/alnitak/) is a tool specially designed for practicing device layout on CharaChorder 3D input devices. Character keys, including numbers, letters, and symbols, are divided into small lessons, allowing users to focus on a small set of keys at a time. Moreover, the visual guide fades out when users reach 20 combos, and it reappears when there is a mistake. It helps users memorize the location and prevents them from simply following the guide.
+Besides, [Alnitak](https://andy23512.com/alnitak/) is a tool specially designed for practicing device layout on CharaChorder 3D input devices. Character keys, including numbers, letters, and symbols, are divided into small lessons, allowing users to focus on a small set of keys at a time. Moreover, the visual guide fades out when users reach 20 combos, and it reappears when there is a mistake. It helps users memorize the location and prevents them from simply following the guide.
 
 [Keybr](https://www.keybr.com/) doesn't have built-in visual guides for CharaChorder 3D input devices, but Keybr CC Extension ([Chrome Web Store](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg) / [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/)), a browser extension I developed, can add them to Keybr.
 
@@ -100,7 +100,7 @@ Besides, [Keybr](https://www.keybr.com/) helps users learn touch typing. If you'
 - Recommended WPM: 13~27
 - Recommended tool:
   - Trigram tier at [dot i/o](https://www.iq-eq.io/#/)
-  - Amalgamate tier at [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/) 
+  - Amalgamate tier at [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/)
 - Recommended goal:
   - Reach 27 WPM
 

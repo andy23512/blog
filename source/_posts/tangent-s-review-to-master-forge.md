@@ -12,15 +12,15 @@ alias:
   - /2025/07/15/tangent-s-review-to-master-forge/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/tangent-對-master-forge-的評價/
+    path: https://andy23512.com/blog-zh-tw/tangent-對-master-forge-的評價/
 ---
 
 ## Preface
 
 I received my Master Forge (M4G) on March 5, 2025. I've learned how to use M4G now (I started writing this article with my M4G on July 13, 2025).
 
-I had written review articles for <a href="{% post_path tangent-s-review-to-charachorder-one %}">CharaChorder One 
-(CC1)</a> and <a href="{% post_path tangent-s-review-to-charachorder-two %}">CharaChorder Two (CC2)</a>. M4G inherits some parts of them, so in this article, I will focus on the differences between M4G and them. 
+I had written review articles for <a href="{% post_path tangent-s-review-to-charachorder-one %}">CharaChorder One
+(CC1)</a> and <a href="{% post_path tangent-s-review-to-charachorder-two %}">CharaChorder Two (CC2)</a>. M4G inherits some parts of them, so in this article, I will focus on the differences between M4G and them.
 
 ### Inherited points from reviews to CC1 and CC2
 
@@ -33,7 +33,7 @@ I had written review articles for <a href="{% post_path tangent-s-review-to-char
 ## Unboxing Experience
 
 {% blockquote %}
-  :information_source: I wrote <a href="{% post_path tangent-s-master-forge-set-up-record %}">an article to record my setup progress of M4G</a> before.
+:information_source: I wrote <a href="{% post_path tangent-s-master-forge-set-up-record %}">an article to record my setup progress of M4G</a> before.
 {% endblockquote %}
 
 The unboxing experience was great. I could feel how much care this product has received from the packaging of the parts, the Velcro cable tie, and the high-quality case. The M4G was truly stunning when I opened the case.
@@ -60,11 +60,10 @@ But on M4G, the orientation of non-thumb switches and the direction of my corres
 
 Due to this, I still choose CC2 as my daily device. There is still room for improvement here for M4G.
 
-
 ## Removal of the third thumb switches
 
 {% blockquote %}
-  :information_source: I wrote about <a href="{% post_path tangent-s-progress-for-finding-a-bopomofo-solution-on-master-forge %}">my progress for finding a Bopomofo solution on Master Forge in this article</a>.
+:information_source: I wrote about <a href="{% post_path tangent-s-progress-for-finding-a-bopomofo-solution-on-master-forge %}">my progress for finding a Bopomofo solution on Master Forge in this article</a>.
 {% endblockquote %}
 
 Unlike CC1 and CC2, M4G doesn't have the third thumb switches, so I tried to modify my layout to make it compatible with all of them. Thankfully, I can reduce the number of required keys for my Bopomofo input method and still make it work well without the third thumb switches.
@@ -73,7 +72,7 @@ After using it, I've found that using fewer keys has some efficiency benefits. M
 
 ## Snap-action switch
 
-The snap-action switch provides a great typing experience. It offers better tactile and sound feedback, as well as clearer on/off states, than the switches on CC1 and CC2. They can be triggered faster, too. 
+The snap-action switch provides a great typing experience. It offers better tactile and sound feedback, as well as clearer on/off states, than the switches on CC1 and CC2. They can be triggered faster, too.
 
 ## Summary
 
@@ -91,4 +90,4 @@ You can see there is about a 45-degree angle between my non-thumb finger and the
 
 ![image (2)](https://hackmd.io/_uploads/ByKBz83bZl.png)
 
-The layout preview above is from the [layout viewer](https://andy23512.github.io/alnitak/layout-viewer) I developed. You can adjust the rotation angle to make the layout preview match the direction of your finger movement. You can access it at the left-side menu > `Settings` page > `Misc` > `Rotation Angle for Non-Thumb Switches`.
+The layout preview above is from the [layout viewer](https://andy23512.com/alnitak/layout-viewer) I developed. You can adjust the rotation angle to make the layout preview match the direction of your finger movement. You can access it at the left-side menu > `Settings` page > `Misc` > `Rotation Angle for Non-Thumb Switches`.

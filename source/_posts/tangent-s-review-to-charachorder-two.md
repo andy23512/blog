@@ -12,7 +12,7 @@ alias:
   - /2025/01/01/tangent-s-review-to-charachorder-two/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/tangent-對-charachorder-two-的評價/
+    path: https://andy23512.com/blog-zh-tw/tangent-對-charachorder-two-的評價/
 ---
 
 ### Preface
@@ -39,7 +39,7 @@ Moreover, the rubber rings add friction between the key caps and fingers. They m
 
 Though the sound of CC1 is already negligible during daytime, they are a bit loud when I use it in a quiet environment. In contrast, CC2 is really quiet even when using it in such an environment. Having less noise helps me focus better.
 
-### Lighter Switches 
+### Lighter Switches
 
 On CC2, the switches are lighter, and it reduces the workload of my fingers. Especially, I feel that moving the mouse cursor get much easier. It's a huge improvement in ergonomics.
 

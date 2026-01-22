@@ -12,12 +12,12 @@ alias:
   - /2023/05/10/tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/tangent-在-charachorder-one-上的注音輸入鍵盤佈局/
+    path: https://andy23512.com/blog-zh-tw/tangent-在-charachorder-one-上的注音輸入鍵盤佈局/
 ---
+
 {% blockquote %}
 :information_source: For anyone who would like to know what Bopomofo or Zhuyin is, here is [an article](https://speechling.com/blog/the-ultimate-guide-to-zhuyin-bopomofo-and-how-to-learn-it/) with a detailed explanation.
 {% endblockquote %}
-
 
 ## Bopomofo Layout on CharaChorder One (CC1)
 
@@ -29,7 +29,7 @@ In this section, I will explain some existing Bopomofo layouts and their problem
 
 Standard Bopomofo is the layout I've used since I started to learn Chinese typing.
 
-On a normal keyboard, symbols are placed in the same way as the Bopomofo table, so it is easy to find the location of each symbol if one has already been familiar with Bopomofo. Also, one can input the consonant, rhyme, and medial of a Chinese character at the same time (I call it "Bopomofo chord"). Furthermore, the frequently used symbols (`ㄐㄑㄒㄓㄔㄕ一ㄨㄩ`) are placed near the center of the keyboard (for index fingers). 
+On a normal keyboard, symbols are placed in the same way as the Bopomofo table, so it is easy to find the location of each symbol if one has already been familiar with Bopomofo. Also, one can input the consonant, rhyme, and medial of a Chinese character at the same time (I call it "Bopomofo chord"). Furthermore, the frequently used symbols (`ㄐㄑㄒㄓㄔㄕ一ㄨㄩ`) are placed near the center of the keyboard (for index fingers).
 
 However, since CC1's layout is completely different from a normal keyboard, the Bopomofo symbols are not easy to find and learn. And since some Bopomofo symbols are on the number or symbol keys on a normal keyboard (such as `1` for `ㄅ`, `/` for `ㄥ`), one needs to switch the layer to get those Bopomofo symbols when typing on CC1. So it is impossible to do "Bopomofo chord" for every combination of Bopomofo with this layout on CC1.
 
@@ -48,7 +48,7 @@ As mentioned, there are some problems when using CC1 with existing Bopomofo layo
 The design rules of this layout are:
 
 1. Bopomofo symbols are placed according to the order of the Bopomofo table as possible.
-2. Positions of consonants (red keys on image), medials (green keys on image), and rhymes (blue keys on image) are placed in a way that makes all Bopomofo chords possible. (Left hand -> consonant,  Right index/middle finger -> medial. Right thumb/ring finger -> rhyme)
+2. Positions of consonants (red keys on image), medials (green keys on image), and rhymes (blue keys on image) are placed in a way that makes all Bopomofo chords possible. (Left hand -> consonant, Right index/middle finger -> medial. Right thumb/ring finger -> rhyme)
 3. Position of the `Dup` key is kept since it cannot be mapped to a Bopomofo symbol in IME and I don't want to affect already-learned English typing on CC1.
 4. Positions of frequently used keys are kept as possible, such as `ctrl` (mapped to `command` in Karabiner on my Mac), `backspace`, `enter`, and `(right) space`.
 5. Frequently used symbols (`ㄐㄑㄒㄓㄔㄕ一ㄨㄩ`) are placed at the switches of the index and middle fingers.
@@ -59,7 +59,7 @@ Two things are required to do for implementing the layout. One is to remap keys 
 
 ##### Remapping keys on CC1
 
-Bopomofo IME only can map character keys (alphabets, numbers, symbols) to Bopomofo symbols, so I need to replace some non-character keys with character keys if I want those keys to map to Bopomofo symbols in IME. Also considering usage for programming, I replace them with some frequently used symbols in codes. Below is the final CC1 layout after remapping. 
+Bopomofo IME only can map character keys (alphabets, numbers, symbols) to Bopomofo symbols, so I need to replace some non-character keys with character keys if I want those keys to map to Bopomofo symbols in IME. Also considering usage for programming, I replace them with some frequently used symbols in codes. Below is the final CC1 layout after remapping.
 
 ![](https://hackmd.io/_uploads/HJWzu13Nn.png)
 
@@ -67,7 +67,7 @@ And I put the CSV file of my layout here. https://raw.githubusercontent.com/andy
 
 ##### Modifying Bopomofo IME
 
-The final step is to change the IME's Bopomofo layout. It is really difficult to modify the built-in IME of OS, so I forked an open-sourced Mac Bopomofo IME and changed its layout according to the CC1 layout and the Bopomofo layout I designed (https://github.com/andy23512/McBopomofo/commit/7446337c8cc54a0700f467d26b3c4289cd55a9?diff=split). 
+The final step is to change the IME's Bopomofo layout. It is really difficult to modify the built-in IME of OS, so I forked an open-sourced Mac Bopomofo IME and changed its layout according to the CC1 layout and the Bopomofo layout I designed (https://github.com/andy23512/McBopomofo/commit/7446337c8cc54a0700f467d26b3c4289cd55a9?diff=split).
 
 (It seems to be possible to use libchewing on Windows and Unix-like systems and change [this line](https://github.com/chewing/libchewing/blob/e58b36332b06e472c47126ea28652655552346f1/src/common/key2pho.c#L77) to `"/[(-wzg#kcmre|io.{\u,atl$])?bqxfdhpsy;nj};",`.)
 
@@ -81,7 +81,6 @@ After some time using this layout, I found a few problems so I made a few adjust
 
 ![](https://hackmd.io/_uploads/rywIbxeg6.png)
 ![](https://hackmd.io/_uploads/Hk1ktlxxT.png)
-
 
 The adjustments are:
 
@@ -166,13 +165,13 @@ Under McBopomofo input method, the solution is to add new key combinations to th
 
 Then we can use the following key combinations for the punctuations:
 
-|Key|Output|
-|-|-|
-|`ctrl+,`|`，`|
-|`ctrl+.`|`。`|
-|`ctrl+'`|`、`|
-|`shift+,`(`<`)|`「`|
-|`shift+.`(`>`)|`」`|
+| Key            | Output |
+| -------------- | ------ |
+| `ctrl+,`       | `，`   |
+| `ctrl+.`       | `。`   |
+| `ctrl+'`       | `、`   |
+| `shift+,`(`<`) | `「`   |
+| `shift+.`(`>`) | `」`   |
 
 ### Chord
 
@@ -187,7 +186,7 @@ As it's dependent on the QWERTY layout, I cannot directly type it with my Bopomo
 The corresponding OS layout for Bopomofo password on TC41.V5 is as below:
 ![image](https://hackmd.io/_uploads/HyVN_pdpp.png)
 
-It looks like someone shuffle the positions of all keys on your keyboard, but it's actually the combination of TC41.V5 and the Standard Bopomofo layout. 
+It looks like someone shuffle the positions of all keys on your keyboard, but it's actually the combination of TC41.V5 and the Standard Bopomofo layout.
 
 For example, when typing `ㄅㄆㄇㄈ...` at TC41.V5, the CC1 actually send out the `7890...` sequence.
 
@@ -228,9 +227,9 @@ So the output of `7890` keys should be `1qaz` on the OS layout respectively, whi
 
 ### Arpeggiate Problem
 
-The arpeggiate feature is a quick single keystroke after a CC chord that can use to modify a chord, such as modifing the tense, adding a suffix, a prefix or a punctuation. 
+The arpeggiate feature is a quick single keystroke after a CC chord that can use to modify a chord, such as modifing the tense, adding a suffix, a prefix or a punctuation.
 
-I found that CC's punctuation arpeggiate feature is also possible to conflict with Bopomofo chords. 
+I found that CC's punctuation arpeggiate feature is also possible to conflict with Bopomofo chords.
 
 For example, at my <a href="{% post_path tangent-s-progress-for-finding-a-bopomofo-solution-on-master-forge %}#V2">TC36.V2</a> layout, when I type `問（ㄨㄣ、）`, I chord `ㄨ+ㄣ`(corresponding keys is `t+d`) and then hit the Tone4 `、`(corresponding key is `;`) immediately after the chord. The `;` keystroke would trigger the punctuation arpeggiate feature, so CC device seemed to emit `Space`, `;`, `Arrow Left`, `Backspace` and `Arrow Right` keys.
 
@@ -240,5 +239,6 @@ For example, at my <a href="{% post_path tangent-s-progress-for-finding-a-bopomo
 
 The workaround for now is to turn off the arpeggiate feature.
 
-[^err]: ㄦ is a special rhyme that doesn't have any combinations with other consonants or medials, so we can leave it alone from other rhyme keys. 
+[^err]: ㄦ is a special rhyme that doesn't have any combinations with other consonants or medials, so we can leave it alone from other rhyme keys.
+
 [^41_keys]: Although there are 42 keys on the layout, the space key (first tone) usually isn't counted by other Bopomofo input methods, such as Eten 41.

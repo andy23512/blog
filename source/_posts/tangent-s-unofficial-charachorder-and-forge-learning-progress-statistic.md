@@ -1,6 +1,6 @@
 ---
 title: Tangent's Unofficial CharaChorder and Forge Learning Progress Statistic
-description: This note is about the learning progress (typing speed over time) statistic that Tangent collects from the share-your-progress channel at CharaChorder Discord server. 
+description: This note is about the learning progress (typing speed over time) statistic that Tangent collects from the share-your-progress channel at CharaChorder Discord server.
 date: 2025-01-19T15:23:56.553Z
 updated: 2026-01-14T14:44:50.220Z
 categories: [Note, Statistic]
@@ -12,12 +12,12 @@ alias:
   - /2025/01/21/tangent-s-unofficial-charachorder-and-forge-learning-progress-statistic/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/tangent-的非官方-charachorder-和-forge-學習進度統計/
+    path: https://andy23512.com/blog-zh-tw/tangent-的非官方-charachorder-和-forge-學習進度統計/
 ---
-{% blockquote %}
-   :information_source: [The official CharaChorder Speed Tracker is here.](https://docs.google.com/spreadsheets/d/1LYi3Y6Ombi1V5bWt-75SnHn9ONvl1KOFugYUBTVNgjM/edit?gid=0#gid=0)
-{% endblockquote %}
 
+{% blockquote %}
+:information_source: [The official CharaChorder Speed Tracker is here.](https://docs.google.com/spreadsheets/d/1LYi3Y6Ombi1V5bWt-75SnHn9ONvl1KOFugYUBTVNgjM/edit?gid=0#gid=0)
+{% endblockquote %}
 
 ## Preface
 
@@ -27,7 +27,7 @@ Curious about the real learning curve of Charachorder devices, I try to mine dat
 
 ### Learning Curve Chart
 
-{% collapsecard "Show Detail" %}  Here are the power-series trend lines and scatter plots of the typing speed and the days elapsed on each devices. The power-series trend lines can represent average learning curves on each device.
+{% collapsecard "Show Detail" %} Here are the power-series trend lines and scatter plots of the typing speed and the days elapsed on each devices. The power-series trend lines can represent average learning curves on each device.
 {% endcollapsecard %}
 
 [Open in new tab](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-GIGZcyrT2rhcVUUot14X00CK7XrqMDSI4gqKdE_8jQtrFqId4hD9-UvE6TS9RZjpaHkmyjfgEBZ6/pubhtml?gid=385574544&single=true)
@@ -36,8 +36,8 @@ Curious about the real learning curve of Charachorder devices, I try to mine dat
 
 ### Speed Achievement Stats
 
-{% collapsecard "Show Detail" %}  Here are the statistics about how long it took users to reach some notable typing speeds. Their statistics metrics, boxplots, and histograms would be shown.
-  
+{% collapsecard "Show Detail" %} Here are the statistics about how long it took users to reach some notable typing speeds. Their statistics metrics, boxplots, and histograms would be shown.
+
 Notable typing speeds:
 
 - 40 WPM: Speed of average typist
@@ -46,10 +46,10 @@ Notable typing speeds:
 - 150 WPM: Speed of sound, i.e. average human conversational speed
 - (150+ WPM: Supersonic speed)
 - 250 WPM: Speed of thought, i.e. average human reading speed
-- (250+ WPM: Hypercerebral speed) 
-{% endcollapsecard %}
+- (250+ WPM: Hypercerebral speed)
+  {% endcollapsecard %}
 
-[Open in new tab](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-GIGZcyrT2rhcVUUot14X00CK7XrqMDSI4gqKdE_8jQtrFqId4hD9-UvE6TS9RZjpaHkmyjfgEBZ6/pubhtml?gid=644493207&amp;single=true)
+[Open in new tab](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-GIGZcyrT2rhcVUUot14X00CK7XrqMDSI4gqKdE_8jQtrFqId4hD9-UvE6TS9RZjpaHkmyjfgEBZ6/pubhtml?gid=644493207&single=true)
 
 <iframe width="100%" height="550" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-GIGZcyrT2rhcVUUot14X00CK7XrqMDSI4gqKdE_8jQtrFqId4hD9-UvE6TS9RZjpaHkmyjfgEBZ6/pubhtml?gid=644493207&single=true" frameborder="0"></iframe>
 
@@ -71,7 +71,7 @@ Notable typing speeds:
 
 ### Learning Curve Chart
 
-{% collapsecard "Show Detail" %}  The power-series trend lines and scatter plots illustrate the relationship between typing speed and practice time (measured in hours) for each device. These power-series trend lines effectively represent the average learning curves associated with each device.
+{% collapsecard "Show Detail" %} The power-series trend lines and scatter plots illustrate the relationship between typing speed and practice time (measured in hours) for each device. These power-series trend lines effectively represent the average learning curves associated with each device.
 {% endcollapsecard %}
 
 [Open in new tab](https://docs.google.com/spreadsheets/d/e/2PACX-1vTTqOB5RQPwZrzacRKAhlL9_BQs6r96KV68tnOot-8DCFae2OwiXv02UmqQu1r7nYlDJkpTukP1AhPS/pubhtml?gid=36947268&single=true)

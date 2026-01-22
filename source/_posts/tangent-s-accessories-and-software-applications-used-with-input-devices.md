@@ -12,7 +12,7 @@ alias:
   - /2024/12/27/tangent-s-accessories-and-software-applications-used-with-input-devices/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/tangent-的輸入裝置周邊配件和軟體應用程式/
+    path: https://andy23512.com/blog-zh-tw/tangent-的輸入裝置周邊配件和軟體應用程式/
 ---
 
 ### Accessories
@@ -35,7 +35,6 @@ I bought [this standing desk](https://store.raymii.com.tw/products/raymii-vn3-si
 
 However, it can only be shipped to places in Taiwan. You can probably find similar ones that can ship to your country from other companies.
 
-
 ### Software Applications (on MacOS)
 
 #### Karabiner
@@ -50,16 +49,16 @@ With it, I swap the command keys and ctrl keys on my CC2, and remap the right op
 
 ##### Input Sources
 
-I have four input sources on my Mac computer. They are ABC (English), Zhuyin (Mac built-in), McBopomofo (with my custom  Bopomofo layout for CC1, CC2, and M4G), and Japanese.
+I have four input sources on my Mac computer. They are ABC (English), Zhuyin (Mac built-in), McBopomofo (with my custom Bopomofo layout for CC1, CC2, and M4G), and Japanese.
 
 To quickly switch to a certain input method, I have the following shortcuts. (https://github.com/andy23512/setting-files/blob/7360eae2f7980aa295c99575b98ee1874a448c2b/Shell/init.lua#L224-L263)
 
-|Shortcut|Changes|
-|-|-|
-|`cmd+alt+a`|Others -> ABC  or  ABC -> McBopomofo|
-|`cmd+alt+b`|Others -> Zhuyin  or  Zhuyin -> ABC|
-|`cmd+alt+m` or `cmd+m`|Others -> McBopomofo  or  McBopomofo -> ABC|
-|`cmd+alt+j`|Others -> Japanese  or  Japanese -> ABC|
+| Shortcut               | Changes                                   |
+| ---------------------- | ----------------------------------------- |
+| `cmd+alt+a`            | Others -> ABC or ABC -> McBopomofo        |
+| `cmd+alt+b`            | Others -> Zhuyin or Zhuyin -> ABC         |
+| `cmd+alt+m` or `cmd+m` | Others -> McBopomofo or McBopomofo -> ABC |
+| `cmd+alt+j`            | Others -> Japanese or Japanese -> ABC     |
 
 (I often accidentally triggered `cmd+m` when I want to use `cmd+alt+m`, so I [turn off the default `cmd+m` hotkey](https://apple.stackexchange.com/questions/115562/how-do-i-disable-the-minimize-command-m-shortcut) and let it do the same thing as `cmd+alt+m`.)
 
@@ -69,16 +68,16 @@ To easily arrange the window positions or sizes without much mouse dragging, I s
 
 The shortcuts are:
 
-|Shortcut|Action|
-|-|-|
-|`cmd+alt+[2-8]`|Set grid to [2-8] x 2.|
-|`cmd+alt+g`|Start the interactive window resize/reposition process. Handy for adjusting multiple windows in one go.|
-|`cmd+alt+s`|Snap all windows to grid.|
-|`cmd+alt+[`|Set the focused window to the left half of the screen.|
-|`cmd+alt+]`|Set the focused window to the right half of the screen.|
-|`cmd+alt+\`, `cmd+alt+`:arrow_down: |Set the size of the focused window to half of the screen and center it.|
-|`cmd+alt+r`|Resize the focused window into a grid row.|
-|`cmd+alt+;`|Set the focused window to the cell at the top-right corner.|
+| Shortcut                            | Action                                                                                                  |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| `cmd+alt+[2-8]`                     | Set grid to [2-8] x 2.                                                                                  |
+| `cmd+alt+g`                         | Start the interactive window resize/reposition process. Handy for adjusting multiple windows in one go. |
+| `cmd+alt+s`                         | Snap all windows to grid.                                                                               |
+| `cmd+alt+[`                         | Set the focused window to the left half of the screen.                                                  |
+| `cmd+alt+]`                         | Set the focused window to the right half of the screen.                                                 |
+| `cmd+alt+\`, `cmd+alt+`:arrow_down: | Set the size of the focused window to half of the screen and center it.                                 |
+| `cmd+alt+r`                         | Resize the focused window into a grid row.                                                              |
+| `cmd+alt+;`                         | Set the focused window to the cell at the top-right corner.                                             |
 
 ##### Mouse Teleport
 
@@ -92,20 +91,20 @@ The mouse cursor will be moved to the corresponding line when `alt+shift+[1-5]` 
 
 To switch between applications faster, I set several shortcuts for it. (https://github.com/andy23512/setting-files/blob/0d5379447f26dadbe3ac90cbf2415e783ea766c6/Shell/init.lua#L254-L266)
 
-|Shortcut|Application|
-|-|-|
-|`cmd+alt+v`|Visual Studio Code - Insider|
-|`cmd+alt+c`|Google Chrome|
-|`cmd+alt+i`|iTerm|
+| Shortcut    | Application                  |
+| ----------- | ---------------------------- |
+| `cmd+alt+v` | Visual Studio Code - Insider |
+| `cmd+alt+c` | Google Chrome                |
+| `cmd+alt+i` | iTerm                        |
 
 ##### Volume Control
 
 To control the volume faster, I set two shortcuts to increase and decrease volume by 10%. (https://github.com/andy23512/setting-files/blob/0d5379447f26dadbe3ac90cbf2415e783ea766c6/Shell/init.lua#L268-L282)
 
-|Shortcut|Action|
-|-|-|
-|`cmd+alt+`:arrow_right:|Increase Volume by 10%|
-|`cmd+alt+`:arrow_left:|Decrease Volume by 10%|
+| Shortcut                | Action                 |
+| ----------------------- | ---------------------- |
+| `cmd+alt+`:arrow_right: | Increase Volume by 10% |
+| `cmd+alt+`:arrow_left:  | Decrease Volume by 10% |
 
 #### Raycast
 

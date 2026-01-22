@@ -1,5 +1,5 @@
 ---
-title: Tangent's progress for finding a Bopomofo solution on Master Forge 
+title: Tangent's progress for finding a Bopomofo solution on Master Forge
 description: Tangent shares his progress for finding ways to use Bopomofo input method on Master Forge in this article.
 date: 2024-03-28T15:10:24.828Z
 updated: 2025-12-17T22:54:17.859Z
@@ -12,7 +12,7 @@ alias:
   - /2024/03/30/tangent-s-progress-for-finding-a-bopomofo-solution-on-master-forge/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/tangent-尋找在-master-forge-上的注音輸入方式的歷程/
+    path: https://andy23512.com/blog-zh-tw/tangent-尋找在-master-forge-上的注音輸入方式的歷程/
 ---
 
 ## (Not used) Approach 1: Adaptation from TanChord 41 Bopomofo
@@ -25,13 +25,13 @@ Adapted from the <a href="{% post_path tangent-s-layout-for-using-bopomofo-chine
 
 But as you see, some keys on pinky switches would be occupied by the Bopomofo symbols. It means that num-shift, shift, and mirror keys would lose their original position. It makes this layout difficult to coexist with the English layout.
 
-Moreover, on TC41.V5, I can access all the rhyme keys (except ㄦ) with my right thumb only. But on M4G, I will need an additional finger for them. 
+Moreover, on TC41.V5, I can access all the rhyme keys (except ㄦ) with my right thumb only. But on M4G, I will need an additional finger for them.
 
 Due to the mentioned drawbacks, I think that CC1 is much better for my usage (English + Chinese Bopomofo), so I am not going to switch to M4G for now unless I find a better solution for this.
 
 ## (Used) Approach 2: Multiple Symbols per Key
 
-Another possible way is to map multiple Bopomofo symbols on some keys. Some existing Bopomofo IMEs or layouts, like the Hsu Bopomofo layout ([許氏鍵盤](https://zh.m.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E8%BC%B8%E5%85%A5%E6%B3%95#%E8%A8%B1%E6%B0%8F%E9%8D%B5%E7%9B%A4)) and the Sound Chaser input method ([追音輸入法](https://www.text.tw/chasew)), also have this kind of design to reduce the amount of required keys, and users would have shorter and fewer hand movements when using them. 
+Another possible way is to map multiple Bopomofo symbols on some keys. Some existing Bopomofo IMEs or layouts, like the Hsu Bopomofo layout ([許氏鍵盤](https://zh.m.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E8%BC%B8%E5%85%A5%E6%B3%95#%E8%A8%B1%E6%B0%8F%E9%8D%B5%E7%9B%A4)) and the Sound Chaser input method ([追音輸入法](https://www.text.tw/chasew)), also have this kind of design to reduce the amount of required keys, and users would have shorter and fewer hand movements when using them.
 
 But a possible drawback is that the number of possible Chinese words of a set of keystrokes might increase. In other words, we would get more possibilities to do word selection.
 
@@ -50,6 +50,7 @@ To decide which Bopomofo symbols to put together in a key, I used a list of all 
 Then I could choose groups with a smaller overlap count and put them on the same key, respectively.
 
 I chose:
+
 1. `ㄍ-ㄐ`, `ㄎ-ㄑ`, `ㄏ-ㄒ`, and `ㄥ-ㄦ`, since they don't have any overlap.
 2. `ㄛ-ㄜ-ㄝ`, since they have little overlap with each other (3,0,1).
 
@@ -86,10 +87,10 @@ But for the TanChord 36 layout, since there are multiple symbols on a key, it's 
 This layout has multiple symbols on a key, and the final symbol of a keystroke is decided by some rules according to all the possible combinations of Bopomofo symbols ([details in appendix A](#A-TanChord-36-symbol-choosing-rules)), so the displayed symbols in the buffer may be changed during typing.
 For example, when I want to type `ㄐㄧ`, I may first hit the `ㄍ/ㄐ` key and then the `ㄧ` key. Because of the rule, the first symbol in the buffer would be changed from `ㄍ` to `ㄐ` after hitting the `ㄧ` key.
 
-|Keystroke|Symbol in buffer|
-|-|-|
-|`ㄍ/ㄐ`|ㄍ|
-|`ㄧ`|ㄐㄧ|
+| Keystroke | Symbol in buffer |
+| --------- | ---------------- |
+| `ㄍ/ㄐ`   | ㄍ               |
+| `ㄧ`      | ㄐㄧ             |
 
 That's why it is confusing at first, but it can be gotten used to with practice.
 
@@ -167,4 +168,3 @@ So the IME can choose the symbols in these pairs by the rule: When `ㄧ` or `ㄩ
 #### Rule for `ㄥ-ㄦ`
 
 The `ㄥ-ㄦ` pair is relatively simple. Since `ㄦ` doesn't have any combinations with any medial and consonant, the rule of IME is: When any medial or consonant exists in the buffer, choose `ㄥ`. Otherwise, choose `ㄦ`.
-
