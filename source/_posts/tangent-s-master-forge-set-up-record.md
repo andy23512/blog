@@ -18,11 +18,11 @@ otherLanguages:
 ## Out of the Box (==Pre-Kickstarter Pre-Order==)
 
 {% blockquote %}
-:information_source: The parts shown here are the contents of the Master Forge bundle of the ==PRE-KICKSTARTER PRE-ORDER==. If yours is Kickstarter or post-kickstarter order, your contents might be different from this.
+   :information_source: The parts shown here are the contents of the Master Forge bundle of the ==PRE-KICKSTARTER PRE-ORDER==. If yours is Kickstarter or post-kickstarter order, your contents might be different from this.
 {% endblockquote %}
 
 {% blockquote %}
-:information_source: This box doesn't include the Trackball Bolt-on. It will be shipped individually in the future.
+   :information_source: This box doesn't include the Trackball Bolt-on. It will be shipped individually in the future.
 {% endblockquote %}
 
 Here are some photos taken during my unboxing.
@@ -34,6 +34,7 @@ A sticker is between the two layers of box.
 After opening one more layer, I could see the tactical carrying case, deskmat, and other parts.
 
 ![20250308_190441](https://hackmd.io/_uploads/Hkvd1vghye.jpg)
+
 
 ### Things outside the carrying case
 
@@ -50,6 +51,7 @@ After opening one more layer, I could see the tactical carrying case, deskmat, a
 This is a closer look at the cleat. It has an allen key on it.
 
 ![image](https://hackmd.io/_uploads/SyGB8vgh1l.png)
+
 
 ### Things inside the carrying case
 
@@ -82,3 +84,4 @@ Those parts can be put on the cleat to prevent them from missing.
 After that, I used the provided USB-C to USB-C cable to connect the ==left port== of the right digitizer and the ==right port== of the left digitizer. Then I could connect it to my computer again and use it.
 
 ![20250308_192831](https://hackmd.io/_uploads/rkSuJOe2yg.jpg)
+

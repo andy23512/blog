@@ -14,10 +14,10 @@ otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.com/blog-zh-tw/cc-extensions-能使打字網站顯示-charachorder-3d-輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們/
 ---
-
 {% blockquote %}
 :information_source: Disclaimer: These extensions are not affiliated, associated, authorized, endorsed by, or in any way officially connected with CharaChorder, Keybr or Monkeytype.
 {% endblockquote %}
+
 
 ## Link
 
@@ -46,10 +46,11 @@ otherLanguages:
 
 ### Reason for making these extensions
 
-There are already a few practice tools that show the visual guide of CharaChorder 3D input devices, such as [dot i/o](https://www.iq-eq.io/#/) and [Alnitak](https://andy23512.com/alnitak/). These tools provide different strategies for learning the device layout. However, Keybr’s unique learning strategy stands out, which is why many CharaChorder users prefer it. However, there are some users who favor Monkeytype over Keybr.
+There are already a few practice tools that show the visual guide of CharaChorder 3D input devices, such as [dot i/o](https://www.iq-eq.io/#/) and [Alnitak](https://andy23512.github.io/alnitak/). These tools provide different strategies for learning the device layout. However, Keybr’s unique learning strategy stands out, which is why many CharaChorder users prefer it. However, there are some users who favor Monkeytype over Keybr.
 
 To better meet the needs of CharaChorder users, I decided to enable Keybr and Monkeytype to display the layout of CharaChorder 3D input devices.
 
+ 
 ### Reason for choosing to make a browser extension
 
 There are many ways to modify an existing open-sourced website like Keybr and Monkeytype, including:
@@ -85,9 +86,10 @@ For the Monkeytype CC Extension, I created a similar one with Monkeytype's theme
 
 ![icon-128](https://hackmd.io/_uploads/SJyL5eRy-e.png)
 
+
 ### Layout design
 
-When developing the layout component, my initial approach was to copy the SVG from the layout on [Alnitak](https://andy23512.com/alnitak/), a practice tool I built for CC 3D input devices, to create a proof-of-concept version. Below is a screenshot from that stage. At this point, the extension could detect the current character in Keybr and highlight the corresponding key in the layout.
+When developing the layout component, my initial approach was to copy the SVG from the layout on [Alnitak](https://andy23512.github.io/alnitak/), a practice tool I built for CC 3D input devices, to create a proof-of-concept version. Below is a screenshot from that stage. At this point, the extension could detect the current character in Keybr and highlight the corresponding key in the layout.
 
 ![image](https://hackmd.io/_uploads/S11QFOhkZl.png)
 

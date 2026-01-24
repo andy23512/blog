@@ -2,7 +2,7 @@
 title: Tangent's Collection of CharaChorder Tips
 description: Tangent collect some tips from himself, CharaChorder Discord server and other related website in this note.
 date: 2025-11-26T12:42:54.546Z
-updated: 2026-01-21T05:47:09.750Z
+updated: 2026-01-21T08:58:26.519Z
 categories: [Note, Resource]
 alias:
   - /2025/11/24/tangent-s-collection-of-charachorder-tips/
@@ -31,9 +31,9 @@ You can check [this video](https://www.youtube.com/watch?v=GXvsBoK55B8&feature=y
 
 ## Key
 
-### Find the position of a key
+### Find the position of a key 
 
-You can use [the layout viewer in Alnitak](https://andy23512.com/alnitak/layout-viewer), which I developed, to search for a key. Click the magnifying glass icon at the top right, enter the key name or character, and select a search result. The layout viewer would highlight the key in the layout chart.
+You can use [the layout viewer in Alnitak](https://andy23512.github.io/alnitak/layout-viewer), which I developed, to search for a key. Click the magnifying glass icon at the top right, enter the key name or character, and select a search result. The layout viewer would highlight the key in the layout chart.
 
 By default, the layout viewer shows the CC1/CC2 default layout. If your device is Master Forge, you can change this in the settings page.
 
@@ -159,14 +159,14 @@ The fourth type is the layer rotator: a key that moves the device to the next or
 
 There are some helpful hot keys for typing.
 
-|                                                                                 | Windows              | Mac                    |
-| ------------------------------------------------------------------------------- | -------------------- | ---------------------- |
-| Move the cursor to previous word                                                | ctrl + :arrow_left:  | option + :arrow_left:  |
-| Move the cursor to next word                                                    | ctrl + :arrow_right: | option + :arrow_right: |
-| Move the cursor to the beginning of line                                        | home                 | cmd + :arrow_left:     |
-| Move the cursor to the end of line                                              | end                  | cmd + :arrow_right:    |
-| Delete the word to the left of the cursor                                       | ctrl + backspace     | option + backspace     |
-| Delete the text from the cursor's current position to the beginning of the line |                      | cmd + backspace        |
+||Windows|Mac|
+|-|-|-|
+|Move the cursor to previous word|ctrl + :arrow_left:|option + :arrow_left:|
+|Move the cursor to next word|ctrl + :arrow_right:|option + :arrow_right:|
+|Move the cursor to the beginning of line|home|cmd + :arrow_left:|
+|Move the cursor to the end of line|end|cmd + :arrow_right:|
+|Delete the word to the left of the cursor|ctrl + backspace|option + backspace|
+|Delete the text from the cursor's current position to the beginning of the line||cmd + backspace|
 
 ## Character entry
 
@@ -238,7 +238,7 @@ It's not possible to have two chords with the same chord input at the same time.
 There are four mouse speeds in CC devices.
 
 1. Fast mouse: Hold both mouse keys in the same direction.
-2. Slower Fast mouse: Hold Num-shift and both mouse keys in the same direction
+2. Slower Fast mouse: Hold Num-shift and both mouse keys in the same direction 
 3. Slow mouse: Hold a mouse key in any direction
 4. Slowest mouse: hold Num-shift and a mouse key in any direction
 
@@ -254,7 +254,7 @@ When you connect your CC device to a Mac for the first time, your Mac will attem
 
 If you want to use a CC 3D input device in an OS keyboard layout other than QWERTY-US or a language other than English, you can check <a href="{% post_path tangent-s-explanation-to-the-compatible-languages-of-charachorder-one-charachorder-two-and-master-forge %}">my article about it</a>.
 
-I also made a [layout viewer](https://andy23512.com/alnitak/layout-viewer) to view the final output across different OS layouts. It shows the CC1/CC2 default layout by default, and you can change it to the Master Forge (M4G) default layout on the settings page.
+I also made a [layout viewer](https://andy23512.github.io/alnitak/layout-viewer) to view the final output across different OS layouts. It shows the CC1/CC2 default layout by default, and you can change it to the Master Forge (M4G) default layout on the settings page.
 
 ## Tip list on other websites
 
@@ -270,3 +270,4 @@ I also made a [layout viewer](https://andy23512.com/alnitak/layout-viewer) to vi
 - [CharaChorder Builder](https://docs.google.com/spreadsheets/d/1ZiVmLQewM9AFnHXMyyWmq5UpMn3w8RCFe9kPOmYsC4Y/edit?gid=582376771#gid=582376771)
 - [Tips at device manager](https://github.com/CharaChorder/DeviceManager/blob/master/src/lib/assets/random-tips/en.json)
 - [Design the layout section at CharaChorder document](https://docs.charachorder.com/Layout.html#design-of-the-layout)
+

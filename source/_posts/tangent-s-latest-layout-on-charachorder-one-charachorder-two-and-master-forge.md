@@ -30,6 +30,7 @@ However, it may be hard to trace the reason behind each remapped keys on my layo
 Corresponding Bopomofo layout:
 ![localhost_4200_layouts](https://hackmd.io/_uploads/ByF157m7kx.png)
 
+
 The Bopomofo IME can only map character keys (alphabets, numbers, and symbols) to Bopomofo symbols, so some non-character keys on the home row are replaced with symbol keys. Those symbol keys don't hold shift, so that they won't affect the chords (both CC chords and Bopomofo chords).
 
 These symbol keys are also useful when programming.

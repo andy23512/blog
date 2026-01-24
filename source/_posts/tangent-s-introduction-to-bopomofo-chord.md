@@ -39,7 +39,7 @@ For example, this is how `你好` is typed under a Bopomofo input method. The Bo
 
 Since the Bopomofo of a Chinese character has at most one consonant, one medial and one rhyme, if they are at different key under a Bopomofo layout, the order of inputing them doesn't matter. They can be input simultaneously[^simultaneously] in modern Bopomofo input method.
 
-It's called "聲韻並擊" in Chinese. Its literal translation is "typing the consonant (聲母) and the rhyme (韻母) simultaneously". But I think "Bopomofo chord" is shorter and easier to understand for anyone who already know chorded input, especially for users of CharaChorder device.
+It's called "聲韻並擊" in Chinese. Its literal translation is "typing the consonant (聲母) and the rhyme (韻母) simultaneously". But I think "Bopomofo chord" is shorter and easier to understand for anyone who already know chorded input, especially for users of CharaChorder device. 
 
 For example, I can type `ㄋㄧ` and `ㄏㄠ` simultaneously for `你好`. This is how Bopomofo chord works.
 

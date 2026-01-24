@@ -33,7 +33,6 @@ This makes me curious about some possible conditions. Assuming that a user want 
 So in this article, I am going to suggest some Chinese IMEs under those conditions.
 
 Note that:
-
 1. I would focus on suggest IMEs that are **suitable for CC1, CC2 and M4G**. It **doesn't** mean that these IME themselves are better than other IMEs.
 2. I am a Traditional Chinese user, so most of the IMEs I know are mainly for Traditional Chinese. But since I would explain the reasons for the suggestions, you could follow the same fashion to find suitable one for other types of Chinese.
 3. Some third-party IME softwares are paid ones, are limited in a certain OS, or may contain malwares, so pay attention to these things and only install from trustworthy websites.
@@ -50,7 +49,7 @@ P.S.: For hyper speed Chinese typing, there are some IMEs or steno machines, suc
 
 ### Shape-based
 
-On this type of IME, user inputs the corresponding keys of components of a Chinese character to type it. So you need to know the components of a Chinese character (or just memoize the keys of it if it's too complex) to type it. It's generally **faster** than Phonetic-based because less characters share the same keys, but generally **harder to learn**, because you have to learn the rules that deciding the components to choose, and memorize the components that each key can represent. (For example, you can check the keys and the rules in [the wikipedia page of Canjie input method](https://en.wikipedia.org/wiki/Cangjie_input_method).)
+On this type of IME, user inputs the corresponding keys of components of a Chinese character to type it. So you need to know the components of a Chinese character (or just memoize the keys of it if it's too complex) to type it. It's generally **faster** than Phonetic-based because less characters share the same keys, but generally **harder to learn**, because you have to learn the rules that deciding the components to choose, and memorize the components that each key can represent. (For example, you can check the keys and the rules in [the wikipedia page of Canjie input method](https://en.wikipedia.org/wiki/Cangjie_input_method).) 
 
 ## Suggestions under each condition
 
@@ -69,6 +68,7 @@ Cangjie only need 26 keys (letter keys), and its mapping doesn't depend on the Q
 Here is the keyboard layout of Cangjie on CC1, CC2 and M4G.
 
 ![localhost_4200_layouts (2)](https://hackmd.io/_uploads/rkwmh3I_0.png)
+
 
 #### Pinyin (拼音) [Phonetic-based] [Built-in]
 
@@ -92,7 +92,7 @@ Note that you probably find few resources in English. It's not a popular IME, bu
 
 On Bopomofo IMEs, user inputs the Bopomofo of a Chinese character to type it.
 
-Since there are 41 Bopomofo symbols (The first tone is generally not included.), if one want to input the Bopomofo symbols with only 26 letter keys, there must be some symbols sharing the same keys. Eten 26 Bopomofo and Hsu Bopomofo are two Bopomofo layouts that only use letter keys. They mainly use the sound or shape simularities between Bopomofo symbols and letters to decide the key of each Bopomofo symbols. But you must input the Bopomofo symbols in correct order[^order] (consonant, medial, rhyme, and tone) on them.
+Since there are 41 Bopomofo symbols (The first tone is generally not included.), if one want to input the Bopomofo symbols with only 26 letter keys, there must be some symbols sharing the same keys. Eten 26 Bopomofo and Hsu Bopomofo are two Bopomofo layouts that only use letter keys. They mainly use the sound or shape simularities between Bopomofo symbols and letters to decide the key of each Bopomofo symbols. But you must input the Bopomofo symbols in correct order[^order] (consonant, medial, rhyme, and tone) on them. 
 
 They are not built-in Bopomofo layouts, so you may need to find some third-party Bopomofo IMEs that support these layouts.
 
@@ -113,5 +113,4 @@ For example, under Pinyin input method, you can assign the 1~5 keys to the A1 la
 Another example is that you can use a whole layer (such as A3 layer) for your Chinese typing layout, so you can keep A1 layer for English typing. I set up a Standard Bopomofo layout at the A3 layer of my CC1 and CC2, and it is mentioned in the [V2.1 update of the TanChord 36 Bopomofo input method](https://hackmd.io/0NC95sTxTSOwhPaleCynyw#V21).
 
 [^built_in]: **Built-in** here means that the IME is built-in on MacOS and Windows. (It's hard to define built-in for Unix-like system, and it's highly possible to find the corresponding package of some well-known IMEs.)
-
 [^order]: On some Bopomofo IMEs or Bopomofo layouts, you can input the Bopomofo of a Chinese character out of order. Also they can be input at the same time. I call it Bopomofo chord, and it's called 聲韻並擊 in Chinese. But because different types of Bopomofo symbols aren't separated to different keys on Eten 26 and Hsu Bopomofo, we can't do Bopomofo chord on them.

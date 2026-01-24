@@ -25,7 +25,7 @@ So in this article, I would explain both the English and Chinese names that I gi
 
 For the translation to "CharaChorder", I choose 「流弦」.
 
-[「流」](https://en.wiktionary.org/wiki/%E6%B5%81#Definitions) means fuild or flow, so it can be linked to the "Fuild Chord/Character Entry" feature of CharaChorder's devices, and it can mean that the thought is flowing inside this device. (Yes, type at the speed of thought!) The translation to the [Flow State](<https://en.wikipedia.org/wiki/Flow_(psychology)>), 「心流」, also have this word.
+[「流」](https://en.wiktionary.org/wiki/%E6%B5%81#Definitions) means fuild or flow, so it can be linked to the "Fuild Chord/Character Entry" feature of CharaChorder's devices, and it can mean that the thought is flowing inside this device. (Yes, type at the speed of thought!) The translation to the [Flow State](https://en.wikipedia.org/wiki/Flow_(psychology)), 「心流」, also have this word.
 
 「弦」 is taken from the translation to the "chord", 「和弦」, since the chording feature plays an important part in CharaChorder's devices.
 
@@ -51,6 +51,7 @@ Its Chinese name is [「方程」](https://en.wiktionary.org/wiki/%E6%96%B9%E7%A
 
 ![下載](https://hackmd.io/_uploads/rk5f2LXX1e.png)[^semi_cursive_script]
 
+
 ## Master Forge
 
 For Master Forge, I translate it to 「匠鍛」. [「匠」](https://en.wiktionary.org/wiki/%E5%8C%A0#Definitions) can mean master, craftsman, artisan or workman. [「鍛」](https://en.wiktionary.org/wiki/%E9%8D%9B#Definitions) can mean forge, temper or refine. Yes, it's a direct translation and already a powerful name in Chinese.
@@ -59,7 +60,7 @@ For Master Forge, I translate it to 「匠鍛」. [「匠」](https://en.wiktion
 
 Though at the writing time, I haven't received my M4G, its name has been decided to be "Exelion". Same as "Estrea", it's also a word that appears in my favorite anime. And it is also the name of a heavily-armed near-lightspeed craft in another anime. Continue the imagination above, I imagine that I were driving this powerful spaceship, Exelion, developed by the aliens on that planet, having a space trip to unknown spaces of digital world. [The one side of M4G](https://youtu.be/M3Xik3drspA?feature=shared&t=548) also look like a spaceship.
 
-It's Chinese name is 「翔空」. It means flying in the sky. I think it's a good match with the name "Exelion".
+It's Chinese name is 「翔空」. It means flying in the sky. I think it's a good match with the name "Exelion". 
 
 ![下載 (3)](https://hackmd.io/_uploads/B198Jn_ZJg.png)[^semi_cursive_script]
 

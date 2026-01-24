@@ -17,9 +17,9 @@ otherLanguages:
 
 ## Introduction
 
-TanChord Code Library (TCCL) language is a language used to describe a chord library in [TanChord Code (TC Code)](https://andy23512.com/tccode/) editor. This reference will explain the language's syntax.
+TanChord Code Library (TCCL) language is a language used to describe a chord library in [TanChord Code (TC Code)](https://andy23512.github.io/tccode/) editor. This reference will explain the language's syntax.
 
-It's recommended to read [the chords page in the official CharaChorder document](https://docs.charachorder.com/Chords.html) and know about "chord", "chord input", "chord output", and "chord notation" before reading this language reference.
+It's recommended to read [the chords page in the official CharaChorder document](https://docs.charachorder.com/Chords.html) and know about "chord", "chord input", "chord output", and "chord notation" before reading this language reference. 
 
 ## Key Notation
 
@@ -29,23 +29,23 @@ For English letters (upper and lowercase), numbers, and a few supported symbols,
 
 In the chord output, the space character is the right space key, but you cannot use this character at chord input.
 
-For other keys or actions, you can use the [CCOS action code](https://andy23512.com/ccos-meta-viewer/#/?device=two_s3&version=2.1.1&meta=actions.json) number enclosed in angle brackets to specify any of them. For example, `<558>` is the action that activates a dynamic library, and `<559>` is the action that returns to the base library.
+For other keys or actions, you can use the [CCOS action code](https://andy23512.github.io/ccos-meta-viewer/#/?device=two_s3&version=2.1.1&meta=actions.json) number enclosed in angle brackets to specify any of them. For example, `<558>` is the action that activates a dynamic library, and `<559>` is the action that returns to the base library.
 
 Below is a table of these keys for reference.
 
-| Type              | Syntax                  | Example          | Remark                               |
-| ----------------- | ----------------------- | ---------------- | ------------------------------------ |
-| Letter Key        | `[a-zA-Z]`              | `a`, `A` , `b`   |                                      |
-| Number key        | `[0-9]`                 | `1`, `2`, `3`    |                                      |
-| Symbol key        | `[`, `]`, `.`, `/`, `-` | `[`, `-`         |                                      |
-| (Right) Space key | ` `                     | ` `              | It can only be used in chord output. |
-| Action code       | `<ACTION_CODE_NUMBER>`  | `<558>`, `<559>` |                                      |
+|Type|Syntax|Example|Remark|
+|-|-|-|-|
+|Letter Key|`[a-zA-Z]`|`a`, `A` , `b`||
+|Number key|`[0-9]`|`1`, `2`, `3`||
+|Symbol key|`[`, `]`, `.`, `/`, `-`|`[`, `-`||
+|(Right) Space key|` `|` `|It can only be used in chord output.|
+|Action code|`<ACTION_CODE_NUMBER>`|`<558>`, `<559>`||
 
 ## Chord Notation
 
 Next, we will learn how to describe a chord.
 
-First, let's look at a simple example. Here is a chord whose input keys are b and c, and its output is `because`.
+First, let's look at a simple example. Here is a chord whose input keys are b and c, and its output is `because`. 
 
 ```typescript
 b + c = because
@@ -81,7 +81,7 @@ It is a chord library with five chords.
 ## Compound Chord and Dynamic Chord Library
 
 {% blockquote %}
-:information_source: Dynamic chord library activation chord is a special kind of compound parent chord that will hold its input in the background, so you can access its children chord after it is activated. TCCL uses the same way to describe them.
+  :information_source: Dynamic chord library activation chord is a special kind of compound parent chord that will hold its input in the background, so you can access its children chord after it is activated. TCCL uses the same way to describe them.
 {% endblockquote %}
 
 In the official CharaChorder document, the pipe symbol (`|`) is used to separate sequential chord inputs in a compound chord. For example, `w + b + s + t | c + h + a + r = www.charachorder.com` means you need to chord w+b+s+t and then chord c+h+a+r, to get the output "www.charachorder.com".
