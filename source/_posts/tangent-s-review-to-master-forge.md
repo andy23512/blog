@@ -2,7 +2,7 @@
 title: Tangent's Review to Master Forge
 description: Tangent shares his review to Master Forge in this article.
 date: 2025-07-13T04:14:28.593Z
-updated: 2025-12-02T12:40:38.006Z
+updated: 2026-01-28T00:25:21.654Z
 categories: [Article, Experience]
 alias:
   - /2025/07/11/tangent-s-review-to-master-forge/
@@ -48,17 +48,24 @@ Its sound is like a stress-relief toy to me.
 
 ## Switch orientation
 
-![20250719_152938 (1)](https://hackmd.io/_uploads/Syt43TOIex.jpg)
+![upload_a45280e7fdf4afcba42c893752ed8bda](https://hackmd.io/_uploads/r1XjXCIIZg.jpg)
 
-On CC1 and CC2, the orientation of the switches almost matches the direction of my corresponding fingers on them. It makes them much intuitive to use.
+On CC1 and CC2, the orientation of the switches (red lines on the photo above) almost matches the direction of my corresponding fingers on them. It makes them much intuitive to use.
 
-![20250717_085103 (1)](https://hackmd.io/_uploads/ByPinadUxg.jpg)
+![image (1)](https://hackmd.io/_uploads/r1T6-Uhb-x.png)
 
-But on M4G, the orientation of non-thumb switches and the direction of my corresponding fingers on them have a big difference. Therefore, it is less intuitive to use than CC1 and CC2, and I would make many mistakes if I applied the muscle memory from CC1 and CC2 to the M4G. For example, I might accidentally press the west key when I intend to press the south key with my left index finger.
+But on M4G, according to some videos showing the M4G circuit board, like [this one](https://youtu.be/gu8rpQNdFg4?feature=shared), the orientation of the non-thumb switches aligns with the digitizer (half device), as shown with the red lines on the photo above.
 
-([Refer to Appendix A for a more detailed explanation of this problem.](#A-More-details-about-the-switch-orientation))
+You can see there is about a 45-degree angle between my non-thumb fingers and the switch orientation, so I need to move my finger diagonally to hit the keys correctly, such as moving my left index finger to NE for the `r` key and to SE for the `e` key. It is not really intuitive to me. Moreover, you can imagine how non-intuitive it is for me to use the arrow or mouse movement. Additionally, I would make many mistakes if I applied the muscle memory from CC1 and CC2 to the M4G. For example, I might accidentally press the west key when I intend to press the south key with my left index finger.
 
-Due to this, I still choose CC2 as my daily device. There is still room for improvement here for M4G.
+As a result, I still choose CC2 as my daily device. There is still room for improvement here for M4G.
+
+### Notes
+
+![image (2)](https://hackmd.io/_uploads/ByKBz83bZl.png)
+
+The layout preview above is from the [layout viewer](https://andy23512.github.io/alnitak/layout-viewer) I developed. You can adjust the rotation angle to make the layout preview match the direction of your finger movement. You can access it at the left-side menu > `Settings` page > `Misc` > `Rotation Angle for Non-Thumb Switches`.
+
 
 
 ## Removal of the third thumb switches
@@ -79,16 +86,3 @@ The snap-action switch provides a great typing experience. It offers better tact
 
 CharaChorder attempted some changes and improvements on M4G based on CC1 and CC2. Some of them are great to me, such as the unboxing experience, the snap-action switch, and the removal of third thumb switches. However, the problem of switch orientation affects my typing experience. Although M4G won't be my daily device, it's still an interesting one to try.
 
-## Appendix
-
-### A. More details about the switch orientation
-
-According to some videos showing the M4G circuit board, like [this one](https://youtu.be/gu8rpQNdFg4?feature=shared), the orientation of the non-thumb switches aligns with the digitizer (half device). If I draw the four directions as a red cross mark on the previous photo, it would look like this.
-
-![image (1)](https://hackmd.io/_uploads/r1T6-Uhb-x.png)
-
-You can see there is about a 45-degree angle between my non-thumb finger and the switch direction, so I need to move my finger diagonally to hit the keys correctly, such as moving my left index finger to NE for the `r` key and to SE for the `e` key. It is not really intuitive to me. Moreover, you can imagine how non-intuitive it is for me to use the arrow or mouse movement.
-
-![image (2)](https://hackmd.io/_uploads/ByKBz83bZl.png)
-
-The layout preview above is from the [layout viewer](https://andy23512.github.io/alnitak/layout-viewer) I developed. You can adjust the rotation angle to make the layout preview match the direction of your finger movement. You can access it at the left-side menu > `Settings` page > `Misc` > `Rotation Angle for Non-Thumb Switches`.
