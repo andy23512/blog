@@ -2,7 +2,7 @@
 title: Tangent's Unofficial Spec Comparison Note of CharaChorder Devices, Master Forge and Svalboard
 description: Tangent collects the specs of CharaChorder devices, Master Forge, and Svalboard in this unofficial note for comparing them.
 date: 2024-10-20T12:48:20.585Z
-updated: 2025-12-25T04:55:44.870Z
+updated: 2026-01-29T01:33:31.949Z
 categories: [Note, Comparison]
 alias:
   - /2024/10/18/tangent-s-unofficial-spec-comparison-note-of-charachorder-devices-master-forge-and-svalboard/
@@ -24,6 +24,11 @@ Notice:
 4. You could further confirm the specs on their Discord server if you have any questions.
 5. `???` are the specs which I am not sure about or cannot find information about. If you know of any helpful resources, please message me on Discord (Tangent Chang, @andy23512).
 6. This comparison note has [a web application version](https://andy23512.github.io/device-comparator/).
+7. If you prefer a comparison from my experience, check out my review articles.
+    - <a href="{% post_path tangent-s-review-to-charachorder-one %}">Review to CC1</a>
+    - <a href="{% post_path tangent-s-review-to-charachorder-two %}">Review to CC2</a>
+    - <a href="{% post_path tangent-s-review-to-key-caps-of-charachorder-one-and-charachorder-two %}">Review to Key Caps of CC1 and CC2</a>
+    - <a href="{% post_path tangent-s-review-to-master-forge %}">Review to M4G</a>
  
 |                                                               | [Master Forge (M4G)](https://forgekeyboard.com/products/master-forge)                                                                | [CCU](https://www.charachorder.com/products/ccu)                                    |[CharaChorder Two (CC2.1)](https://www.charachorder.com/products/cc2) | CharaChorder Two (CC2)                 | CharaChorder One (CC1)                                                              | [CharaChorder Lite (CCL)](https://www.charachorder.com/products/charachorder-lite) | [CharaChorder X (CCX)](https://www.charachorder.com/products/charachorder-x) | [Svalboard (Sval)](https://svalboard.com/)    | Market Leading Keyboard              |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | --- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------- | ------------------------------------ |
