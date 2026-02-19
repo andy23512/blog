@@ -12,7 +12,7 @@ alias:
   - /2023/05/10/tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.com/blog-zh-tw/tangent-在-charachorder-one-上的注音輸入鍵盤佈局/
+    path: https://andy23512.github.io/blog-zh-tw/tangent-在-charachorder-one-上的注音輸入鍵盤佈局/
 ---
 {% blockquote %}
 :information_source: For anyone who would like to know what Bopomofo or Zhuyin is, here is [an article](https://speechling.com/blog/the-ultimate-guide-to-zhuyin-bopomofo-and-how-to-learn-it/) with a detailed explanation.

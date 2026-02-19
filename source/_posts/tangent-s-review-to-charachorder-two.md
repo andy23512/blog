@@ -12,7 +12,7 @@ alias:
   - /2025/01/01/tangent-s-review-to-charachorder-two/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.com/blog-zh-tw/tangent-對-charachorder-two-的評價/
+    path: https://andy23512.github.io/blog-zh-tw/tangent-對-charachorder-two-的評價/
 ---
 
 ### Preface
@@ -32,7 +32,7 @@ I found that the metal key caps of CC1, especially the gray ones, are a bit cold
 Moreover, the rubber rings add friction between the key caps and fingers. They make the key caps more controllable.
 
 {% blockquote %}
-:information_source: I have <a href="{% post_path tangent-s-review-to-key-caps-of-charachorder-one-and-charachorder-two %}">another article about my review to key caps of CC1 and CC2</a>.
+:information_source: I have [another article about my review to key caps of CC1 and CC2](/@andy23512/H1e7-2y8lg).
 {% endblockquote %}
 
 ### Quietness

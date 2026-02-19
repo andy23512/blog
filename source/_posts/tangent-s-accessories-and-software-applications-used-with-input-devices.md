@@ -12,7 +12,7 @@ alias:
   - /2024/12/27/tangent-s-accessories-and-software-applications-used-with-input-devices/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.com/blog-zh-tw/tangent-的輸入裝置周邊配件和軟體應用程式/
+    path: https://andy23512.github.io/blog-zh-tw/tangent-的輸入裝置周邊配件和軟體應用程式/
 ---
 
 ### Accessories
