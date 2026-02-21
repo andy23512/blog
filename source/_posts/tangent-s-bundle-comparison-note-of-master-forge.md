@@ -12,7 +12,7 @@ alias:
   - /2024/10/12/tangent-s-bundle-comparison-note-of-master-forge/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.com/blog-zh-tw/tangent-的-master-forge-套組比較筆記/
+    path: https://andy23512.github.io/blog-zh-tw/tangent-的-master-forge-套組比較筆記/
 ---
 ## Comparison Table
 
@@ -50,9 +50,9 @@ Notice:
 
 - [Screenshot of Master Forge product page (Pre-KS Preorder)](https://discord.com/channels/861730583092658206/1176366370678653010/1278000103965200384)
 - Screenshot of Master Forge product page at 2024/10/10 (Post-KS Preorder)
-![image](https://hackmd.io/_uploads/r1gfT9Vry1l.png)
+![image](/blog/images/r1gfT9Vry1l.png)
 - Screenshot of Master Forge Premium product page at 2024/10/23 (Post-KS Preorder)
-![image](https://hackmd.io/_uploads/B103PELe1x.png)
+![image](/blog/images/B103PELe1x.png)
 - [Master Forge Kickstarter reward page](https://www.kickstarter.com/projects/charachorder/the-master-forge-a-keyboard-built-for-you/rewards)
 - [Discord message](https://discord.com/channels/861730583092658206/1282698538144497755/1282699704416735272)
 - [Master Forge Official Documentation](https://docs.charachorder.com/Master%20Forge.html#master-forge-configurations)

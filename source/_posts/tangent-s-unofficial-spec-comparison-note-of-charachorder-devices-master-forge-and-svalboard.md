@@ -27,8 +27,8 @@ Notice:
 7. If you prefer a comparison from my experience, check out my review articles.
     - <a href="{% post_path tangent-s-review-to-charachorder-one %}">Review to CC1</a>
     - <a href="{% post_path tangent-s-review-to-charachorder-two %}">Review to CC2</a>
-    - [Review to Key Caps of CC1 and CC2](/@andy23512/H1e7-2y8lg)
-    - [Review to M4G](/@andy23512/SJaiz3eLgl)
+    - <a href="{% post_path tangent-s-review-to-key-caps-of-charachorder-one-and-charachorder-two %}">Review to Key Caps of CC1 and CC2</a>
+    - <a href="{% post_path tangent-s-review-to-master-forge %}">Review to M4G</a>
  
 |                                                               | [Master Forge (M4G)](https://forgekeyboard.com/products/master-forge)                                                                | [CCU](https://www.charachorder.com/products/ccu)                                    |[CharaChorder Two (CC2.1)](https://www.charachorder.com/products/cc2) | CharaChorder Two (CC2)                 | CharaChorder One (CC1)                                                              | [CharaChorder Lite (CCL)](https://www.charachorder.com/products/charachorder-lite) | [CharaChorder X (CCX)](https://www.charachorder.com/products/charachorder-x) | [Svalboard (Sval)](https://svalboard.com/)    | Market Leading Keyboard              |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | --- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------- | ------------------------------------ |

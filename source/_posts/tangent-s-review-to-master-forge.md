@@ -12,7 +12,7 @@ alias:
   - /2025/07/15/tangent-s-review-to-master-forge/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.com/blog-zh-tw/tangent-對-master-forge-的評價/
+    path: https://andy23512.github.io/blog-zh-tw/tangent-對-master-forge-的評價/
 ---
 
 ## Preface
@@ -48,11 +48,11 @@ Its sound is like a stress-relief toy to me.
 
 ## Switch orientation
 
-![upload_a45280e7fdf4afcba42c893752ed8bda](https://hackmd.io/_uploads/r1XjXCIIZg.jpg)
+![upload_a45280e7fdf4afcba42c893752ed8bda](/blog/images/r1XjXCIIZg.jpg)
 
 On CC1 and CC2, the orientation of the switches (red lines on the photo above) almost matches the direction of my corresponding fingers on them. It makes them much intuitive to use.
 
-![image (1)](https://hackmd.io/_uploads/r1T6-Uhb-x.png)
+![image (1)](/blog/images/r1T6-Uhb-x.png)
 
 But on M4G, according to some videos showing the M4G circuit board, like [this one](https://youtu.be/gu8rpQNdFg4?feature=shared), the orientation of the non-thumb switches aligns with the digitizer (half device), as shown with the red lines on the photo above.
 
@@ -62,7 +62,7 @@ As a result, I still choose CC2 as my daily device. There is still room for impr
 
 ### Notes
 
-![image (2)](https://hackmd.io/_uploads/ByKBz83bZl.png)
+![image (2)](/blog/images/ByKBz83bZl.png)
 
 The layout preview above is from the [layout viewer](https://andy23512.github.io/alnitak/layout-viewer) I developed. You can adjust the rotation angle to make the layout preview match the direction of your finger movement. You can access it at the left-side menu > `Settings` page > `Misc` > `Rotation Angle for Non-Thumb Switches`.
 

@@ -32,7 +32,7 @@ I found that the metal key caps of CC1, especially the gray ones, are a bit cold
 Moreover, the rubber rings add friction between the key caps and fingers. They make the key caps more controllable.
 
 {% blockquote %}
-:information_source: I have [another article about my review to key caps of CC1 and CC2](/@andy23512/H1e7-2y8lg).
+:information_source: I have <a href="{% post_path tangent-s-review-to-key-caps-of-charachorder-one-and-charachorder-two %}">another article about my review to key caps of CC1 and CC2</a>.
 {% endblockquote %}
 
 ### Quietness
