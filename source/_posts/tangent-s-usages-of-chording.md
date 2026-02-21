@@ -47,7 +47,7 @@ Keeping the chording feature of CC1 opens a new possibility, using CC1 chord to 
 
 For example, This is the `ㄑ+ㄜ -> 企鵝` chord in work. (企鵝 is penguin in Chinese.)
 
-![未命名](https://hackmd.io/_uploads/SkBHwn2_T.gif)
+![未命名](/blog/images/SkBHwn2_T.gif)
 
 And this is the sequence chart of how it works.
 
@@ -77,7 +77,7 @@ Though I don't type a lot of Japanese, I try to make a CC1 chord for Japanese. S
 
 For example, this is the `s+h -> すし(寿司)` chord in work. (same as CC1 Chinese chord, the trailing space need to be removed.)
 
-![c3c22ac745ad2320](https://hackmd.io/_uploads/HkPjpxeCa.gif)
+![c3c22ac745ad2320](/blog/images/HkPjpxeCa.gif)
 
 And this is the sequence chart of how it works.
 

@@ -18,7 +18,7 @@ otherLanguages:
 :information_source: Disclaimer: This tool is not affiliated, associated, authorized, endorsed by, or in any way officially connected with CharaChorder.
 {% endblockquote %}
 
-![截圖 2025-02-19 23.15.27](https://hackmd.io/_uploads/HJR3BOX51l.png)
+![截圖 2025-02-19 23.15.27](/blog/images/HJR3BOX51l.png)
 
 
 ## Links

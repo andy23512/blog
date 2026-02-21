@@ -19,7 +19,7 @@ otherLanguages:
 
 Last year (2022) some pain occurred sometimes on my index fingers and wrists, and I found out the main problem was the keyboard. I have relatively small hands so I need to move my entire hand to type on a normal keyboard, and keys are hit mostly by my index fingers. It's nearly impossible to change these 20+ years of bad typing habits, so I thought a possible way is changing the keyboard! I did some searches such as `no hand keyboard`, and `carpal tunnel keyboard` at that time, and I found the **One** with the keyword `fastest keyboard` at a news site.
 
-![](https://hackmd.io/_uploads/ry1FbX_8n.png)
+![](/blog/images/ry1FbX_8n.png)
 
 (Of course, I don't remember this now but Google remembers it forever...) I did some search about CC1 and purchased it the next day! (2022/07/22, Order #1195)
 
@@ -27,7 +27,7 @@ Last year (2022) some pain occurred sometimes on my index fingers and wrists, an
 
 I received CC1 about two months later (2022/09/13) and started practicing when off-work. Practicing chentry and chord on CC1 is just like enjoying a relaxing finger exercise. It really helps me reduce the finger and mental fatigue caused by typing and programming when working as a software engineer. My typing speed on CC1 slowly grew higher at this time, and I tried to use CC1 at work a few times because I know there is a huge gap between practicing and using it. But I was interrupted by lots of emergency tasks to do at that time so I could not help but switched back to QWERTY when speed is required. Furthermore, I also need to practice programming and typing in my input method of my native language, Chinese Bopomofo (Zhuyin), on CC1. Both are different from pure English typing. Nice, I really chose a really tough road. But my hands will finally get broken by QWERTY if I give up! I still want to write more useful and interesting programs! With this determined mind and lots of practicing, despite lots of tasks and lots of bad things happening at that time, I reached 40 WPM (English typing) this February, learned a layout (Eten Bopomofo, which keys are highly linked to English key so they are easier to memorize) for my language, and started to write some small piece of the program with CC1. The time with full CC1 is coming?
 
-![](https://hackmd.io/_uploads/BJ5o-QdUn.png)
+![](/blog/images/BJ5o-QdUn.png)
 
 ## 3. Sudden Death and New Comer
 
@@ -37,7 +37,7 @@ When everything seems to be fine, I accidentally broke a switch on CC1, (I stron
 
 During those 10 days, I kept thinking about if there is any improvement space to the layout for my language since the English typing and programming were enough for use. (Of course, speed is still much slower than on QWERTY, 20+ years of muscle memory is as hard as a diamond.) Before that I had already known that my input method, Bopomofo, is possible to chord if the 41 symbols are distributed in different keys (Need to use some number keys with Bopomofo Eten, so it's not an option, but it is still an easier solution although the layout isn't optimized.), so the problems are "How to distribute 41 char keys on CC1 A1 layer with fewer changes to alphabet keys and non-char keys?" and "How to change the mapping between char and Bopomofo symbol of input method?" At first, as a trivial idea, I used 1~9 to replace some non-char keys in the A1 layer. But later, concerning the use case of programming, I moved some frequently used chars in programming instead. As a result, I got this layout.
 
-![](https://hackmd.io/_uploads/HJ8gzXd83.png)
+![](/blog/images/HJ8gzXd83.png)
 
 (Below is the remapped layout and above is the corresponding Bopomofo layout. Pinky and arrow switches are unmodified so they are not rendered. )
 
@@ -53,7 +53,7 @@ Since it’s dependent on the QWERTY layout and the standard Bopomofo layout, it
 
 So after some search, I found an Unicode Keyboard Layout Editor for Mac, [Ukelele](https://software.sil.org/ukelele/), and created a keyboard layout for the mapping between CC1 output and Bopomofo password. (for example, for mapping CC1 output `/` -> Bopomofo ㄅ -> Bopomofo password `1`, `/` key should output character `1`) Then I can type out the Bopomofo password normally on CC1 and my Bopomofo layout.
 
-![](https://hackmd.io/_uploads/B1R87-Awh.png)
+![](/blog/images/B1R87-Awh.png)
 
 ## 6. Further Research on Chinese typing methods for improvement
 

@@ -74,36 +74,36 @@ Unlike a website, a browser extension requires additional images, such as an ico
 
 Since Keybr CC Extension is for Keybr, I was inspired by the simple design of Keybr's own logo, which features a section of tilted keyboard layout. The first logo I created for this extension was simply a screenshot of the tilted device layout as shown by this extenion.
 
-![image](https://hackmd.io/_uploads/S1J5rvnkbe.png)
+![image](/blog/images/S1J5rvnkbe.png)
 
 However, when displayed on the browser toolbar, this logo becomes quite small and difficult to recognize, especially using the browser's dark theme.
 
 To address this, I designed a second logo (and now current). This new logo features just a switch, with the north, west and south keys highlighted. The design forms a "C" shape, representing the CharaChorder, and it is recognizable at small sizes.
 
-![icon-128](https://hackmd.io/_uploads/r1QCPP31Zx.png)
+![icon-128](/blog/images/r1QCPP31Zx.png)
 
 For the Monkeytype CC Extension, I created a similar one with Monkeytype's theme.
 
-![icon-128](https://hackmd.io/_uploads/SJyL5eRy-e.png)
+![icon-128](/blog/images/SJyL5eRy-e.png)
 
 
 ### Layout design
 
 When developing the layout component, my initial approach was to copy the SVG from the layout on [Alnitak](https://andy23512.github.io/alnitak/), a practice tool I built for CC 3D input devices, to create a proof-of-concept version. Below is a screenshot from that stage. At this point, the extension could detect the current character in Keybr and highlight the corresponding key in the layout.
 
-![image](https://hackmd.io/_uploads/S11QFOhkZl.png)
+![image](/blog/images/S11QFOhkZl.png)
 
 As shown, the layout style did not match Keybr's aesthetic. After researching Keybr's theme and styling, I found that the website uses CSS variables for its theme colors and fonts. I decided to adopt these CSS variables and apply them to the layout component. This approach allows the layout to adapt to Keybr's theme settings and ensures visual consistency with the rest of Keybr's elements.
 
-![screenshot-dark-cc1](https://hackmd.io/_uploads/H1p6TO2yZx.png)
+![screenshot-dark-cc1](/blog/images/H1p6TO2yZx.png)
 
-![screenshot-m4g-light](https://hackmd.io/_uploads/Bkj0a_2JZe.png)
+![screenshot-m4g-light](/blog/images/Bkj0a_2JZe.png)
 
 For Monkeytype, since it also uses CSS variables for theme colors and fonts, I applied the same approach in the Monkeytype CC Extension.
 
-![screenshot-dark-cc1](https://hackmd.io/_uploads/By-ZogCybx.png)
+![screenshot-dark-cc1](/blog/images/By-ZogCybx.png)
 
-![screenshot-light-m4g](https://hackmd.io/_uploads/HyLbix0yWx.png)
+![screenshot-light-m4g](/blog/images/HyLbix0yWx.png)
 
 ### Reason for choosing React
 

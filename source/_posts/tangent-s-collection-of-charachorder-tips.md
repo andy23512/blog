@@ -41,7 +41,7 @@ By default, the layout viewer shows the CC1/CC2 default layout. If your device i
 
 Some symbols may be complex to type because you need to hold down both Num-Shift and Shift. You can remap these keys to locations that are easier for you to reach. For example, you could swap the number keys on one side of the numeric layer with their corresponding symbol keys.
 
-![image](https://hackmd.io/_uploads/B11CXHd--e.png)
+![image](/blog/images/B11CXHd--e.png)
 
 ### Layer shift, lock and rotator
 

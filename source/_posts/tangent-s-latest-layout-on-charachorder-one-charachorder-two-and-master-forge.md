@@ -25,10 +25,10 @@ However, it may be hard to trace the reason behind each remapped keys on my layo
 
 #### Placing Symbols on Home Row
 
-![localhost_4200_layouts (3)](https://hackmd.io/_uploads/SJh3sUV-ke.png)
+![localhost_4200_layouts (3)](/blog/images/SJh3sUV-ke.png)
 
 Corresponding Bopomofo layout:
-![localhost_4200_layouts](https://hackmd.io/_uploads/ByF157m7kx.png)
+![localhost_4200_layouts](/blog/images/ByF157m7kx.png)
 
 
 The Bopomofo IME can only map character keys (alphabets, numbers, and symbols) to Bopomofo symbols, so some non-character keys on the home row are replaced with symbol keys. Those symbol keys don't hold shift, so that they won't affect the chords (both CC chords and Bopomofo chords).
@@ -37,7 +37,7 @@ These symbol keys are also useful when programming.
 
 #### Placing the Replaced Non-character Keys
 
-![localhost_4200_layouts (2)](https://hackmd.io/_uploads/S1HFjUNbyg.png)
+![localhost_4200_layouts (2)](/blog/images/S1HFjUNbyg.png)
 
 Then I should find places for the non-character keys replaced by symbols. Similar to the default layout of M4G, I place them on the ring middle switches.
 
@@ -45,7 +45,7 @@ Then I should find places for the non-character keys replaced by symbols. Simila
 
 #### Numeric Layer Lock
 
-![localhost_4200_layouts (4)](https://hackmd.io/_uploads/HkIfT8E-Jg.png)
+![localhost_4200_layouts (4)](/blog/images/HkIfT8E-Jg.png)
 
 Since the mouse switches on the primary layer are occupied by some non-character keys, I use the mouse actions on the numeric layer instead. I remap a numeric layer lock key to lock the device to the numeric layer. (And the original num-shift keys are used to unlock.)
 
@@ -53,13 +53,13 @@ Since the mouse switches on the primary layer are occupied by some non-character
 
 #### Placing Function Keys to Left Half
 
-![localhost_4200_layouts (3)](https://hackmd.io/_uploads/B1wp0YtMWg.png)
+![localhost_4200_layouts (3)](/blog/images/B1wp0YtMWg.png)
 
 To make the function keys more accessible, I remap them to the left half of the numeric layer.
 
 #### Placing Mouse Actions
 
-![localhost_4200_layouts (4)](https://hackmd.io/_uploads/HyMARFtf-g.png)
+![localhost_4200_layouts (4)](/blog/images/HyMARFtf-g.png)
 
 - M(arrow): mouse move
 - S(arrow): mouse scroll

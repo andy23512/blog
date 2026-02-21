@@ -21,7 +21,7 @@ Master Forge (M4G), the successor of CC1, will not have the thumb3 switches, so 
 
 Adapted from the <a href="{% post_path tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one %}#V5-Latest">TC41.V5</a>, here is a possible Bopomofo layout design on M4G.
 
-![localhost_4200_layouts](https://hackmd.io/_uploads/B16h42R2T.png)
+![localhost_4200_layouts](/blog/images/B16h42R2T.png)
 
 But as you see, some keys on pinky switches would be occupied by the Bopomofo symbols. It means that num-shift, shift, and mirror keys would lose their original position. It makes this layout difficult to coexist with the English layout.
 
@@ -39,9 +39,9 @@ But a possible drawback is that the number of possible Chinese words of a set of
 
 To decide which Bopomofo symbols to put together in a key, I used a list of all Bopomofo combinations from [this Chinese dictionary](https://www.zdic.net/zd/zy/), and calculated the overlap counts in every two consonants and every two rhymes, respectively. For example, both `ㄅ` and `ㄐ` have combinations with `ㄧ`, `ㄧㄝ`, `ㄧㄠ`, `ㄧㄢ`, `ㄧㄣ`, and `ㄧㄥ`, so their overlap count is 6. Then I plotted the counts on contingency tables as below.
 
-![localhost_5173_](https://hackmd.io/_uploads/H1v5hWQkC.png)
+![localhost_5173_](/blog/images/H1v5hWQkC.png)
 
-![localhost_5173_ (1)](https://hackmd.io/_uploads/BJbjnWQ1R.png)
+![localhost_5173_ (1)](/blog/images/BJbjnWQ1R.png)
 
 ### Progress of designing the layout
 
@@ -55,7 +55,7 @@ I chose:
 
 And I modified the layout as shown in the image below.
 
-![localhost_4200_layouts (1)](https://hackmd.io/_uploads/rk4ygGQJR.png)
+![localhost_4200_layouts (1)](/blog/images/rk4ygGQJR.png)
 
 I tried to implement this at my fork of McBopomofo IME, and would reconsider ordering M4G if this works well finally.
 
@@ -63,11 +63,11 @@ I tried to implement this at my fork of McBopomofo IME, and would reconsider ord
 
 After I implemented it, I found that McBopomofo seemed to have problems with the `ㄛ-ㄜ-ㄝ` group since they have some overlaps between them, so I changed the layout as below.
 
-![localhost_4200_layouts (2)](https://hackmd.io/_uploads/BkX_157yR.png)
+![localhost_4200_layouts (2)](/blog/images/BkX_157yR.png)
 
 The right mirror key was replaced with `/` key.
 
-![localhost_4200_layouts (3)](https://hackmd.io/_uploads/r17pyqX10.png)
+![localhost_4200_layouts (3)](/blog/images/r17pyqX10.png)
 
 After some more tests on this, it seems that this layout and McBopomofo don't work well together for Bopomofo chords, since McBopomofo expects the symbols to be input in the correct order to correctly choose which symbol to use for a keystroke. So I modified the logic to make it work. I name this layout TanChord 36 Bopomofo to distinguish it with the TanChord 41 Bopomofo layout.
 
@@ -99,7 +99,7 @@ That's why it is confusing at first, but it can be gotten used to with practice.
 
 After some tests, I found that words with `ㄩㄝ` are hard to type under the V1 layout, so I adjusted the layout like this.
 
-![localhost_4200_layouts](https://hackmd.io/_uploads/B1tK9B_kA.png)
+![localhost_4200_layouts](/blog/images/B1tK9B_kA.png)
 
 The `ㄩ` and `ㄝ` are in the same direction, so it's easier to type `ㄩㄝ`. I seldom use `ㄧㄛ` words, so it's okay to let `ㄧ` and `ㄛ` be in opposite directions.
 
@@ -109,8 +109,8 @@ I may have to use a notebook from my company to work in the future, but my McBop
 
 The following is the Bopomofo layout and the corresponding A3 layer.
 
-![localhost_4200_layouts](https://hackmd.io/_uploads/B16h42R2T.png)
-![localhost_4200_layouts (1)](https://hackmd.io/_uploads/rkWFRZEdA.png)
+![localhost_4200_layouts](/blog/images/B16h42R2T.png)
+![localhost_4200_layouts (1)](/blog/images/rkWFRZEdA.png)
 
 ##### V2.2
 
@@ -118,7 +118,7 @@ To balance the workload on both hands when I click on CC1, I decided to remap al
 
 The following is the numeric layer after changes.
 
-![localhost_4200_layouts (1)](https://hackmd.io/_uploads/HJn_mFv0A.png)
+![localhost_4200_layouts (1)](/blog/images/HJn_mFv0A.png)
 
 - ②: numeric layer key
 - M(arrow): mouse move
@@ -131,7 +131,7 @@ The following is the numeric layer after changes.
 2. I find that I can use the original num-shift key to unlock the numeric layer, so I drop the numeric layer key on the left thumb middle switch.
 
 (Numeric layer)
-![localhost_4200_layouts](https://hackmd.io/_uploads/HyGW_X8-1e.png)
+![localhost_4200_layouts](/blog/images/HyGW_X8-1e.png)
 
 ##### V2.4
 
@@ -139,7 +139,7 @@ I swapped the mouse scroll switches and mouse movement switches. I felt that usi
 
 (Numeric layer)
 
-![localhost_4200_layouts (5)](https://hackmd.io/_uploads/SJhn45Yf-x.png)
+![localhost_4200_layouts (5)](/blog/images/SJhn45Yf-x.png)
 
 ## (Not used) Approach 3: Try the 3D presses on M4G
 

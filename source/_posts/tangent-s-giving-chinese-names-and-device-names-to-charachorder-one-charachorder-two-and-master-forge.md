@@ -41,7 +41,7 @@ Its Chinese name is 「初星」. [「初」](https://en.wiktionary.org/wiki/%E5
 
 To me, this is the first special keyboard I've ever bought. It's like I were landing on a special planet for the first time. There are [some alien technologies](https://youtu.be/A6WvP191mrk?feature=shared) for typing and chording on that planet.
 
-![下載 (2)](https://hackmd.io/_uploads/BkkVkh_bye.png)[^semi_cursive_script]
+![下載 (2)](/blog/images/BkkVkh_bye.png)[^semi_cursive_script]
 
 ### Name of my CharaChorder Two
 
@@ -49,7 +49,7 @@ Though at the writing time, I haven't received my CC2, it is named as "Formula".
 
 Its Chinese name is [「方程」](https://en.wiktionary.org/wiki/%E6%96%B9%E7%A8%8B), which is a direct translation of "Formula".
 
-![下載](https://hackmd.io/_uploads/rk5f2LXX1e.png)[^semi_cursive_script]
+![下載](/blog/images/rk5f2LXX1e.png)[^semi_cursive_script]
 
 
 ## Master Forge
@@ -62,7 +62,7 @@ Though at the writing time, I haven't received my M4G, its name has been decided
 
 It's Chinese name is 「翔空」. It means flying in the sky. I think it's a good match with the name "Exelion". 
 
-![下載 (3)](https://hackmd.io/_uploads/B198Jn_ZJg.png)[^semi_cursive_script]
+![下載 (3)](/blog/images/B198Jn_ZJg.png)[^semi_cursive_script]
 
 ## Bonus 1: Elvish Language (Font) for the Names
 
@@ -72,20 +72,20 @@ The "Elvish Language"(精靈文) font is really popular now in my country. It ma
 And here are the names above in "Elvish Language".
 
 流弦·壹 初星：
-![elffont](https://hackmd.io/_uploads/SJIo1idZye.png)
+![elffont](/blog/images/SJIo1idZye.png)
 
 流弦·貳 方程：
-![elffont](https://hackmd.io/_uploads/BJxA3IXm1x.png)
+![elffont](/blog/images/BJxA3IXm1x.png)
 
 匠鍛 翔空：
-![elffont (1)](https://hackmd.io/_uploads/H1Bxxiu-yx.png)
+![elffont (1)](/blog/images/H1Bxxiu-yx.png)
 
 ## Bonus 2: The Slogan
 
 By the way, I would translate the slogan of CharaChorder, "Type at the speed of thought", to "隨想即打". It's literal meaning is "Type as you think".
 
-![下載 (4)](https://hackmd.io/_uploads/H1IHAR_-1e.png)[^semi_cursive_script]
+![下載 (4)](/blog/images/H1IHAR_-1e.png)[^semi_cursive_script]
 
-![elffont](https://hackmd.io/_uploads/HJ3MRCuZyg.png)
+![elffont](/blog/images/HJ3MRCuZyg.png)
 
 [^semi_cursive_script]: This style of Chinese calligraphy is called ["semi-cursive script"](https://en.wikipedia.org/wiki/Semi-cursive_script)(行書). It's a style between "cursive script"(草書) and "regular script"(楷書). The cursive script is the fastest to write but difficult to read, and regular script is the most common style used in modern text. If we compare the cursive script to steno machines and the regular script to normal keyboards, the semi-cursive script is like CharaChorder and Forge devices. That's why I choose this style.

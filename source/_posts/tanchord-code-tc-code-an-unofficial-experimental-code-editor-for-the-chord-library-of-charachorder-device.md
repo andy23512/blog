@@ -18,7 +18,7 @@ otherLanguages:
 :information_source: Disclaimer: This editor is not affiliated, associated, authorized, endorsed by, or in any way officially connected with CharaChorder.
 {% endblockquote %}
 
-![localhost_4300_](https://hackmd.io/_uploads/SkO7J4xbZl.png)
+![localhost_4300_](/blog/images/SkO7J4xbZl.png)
 
 
 ## Links
@@ -56,7 +56,7 @@ For the name of this editor, I initially considered "Chord Studio Code" (a play 
 
 ### Logo design
 
-![andy23512.github.io_tccode_](https://hackmd.io/_uploads/r1DYsVgbbx.png)
+![andy23512.github.io_tccode_](/blog/images/r1DYsVgbbx.png)
 
 If you look at the strokes, the logo is composed of two circles and one line. The line is both a tangent of the inner circle and a chord of the outer circle. It echoes with the "TanChord" part in the name.
 

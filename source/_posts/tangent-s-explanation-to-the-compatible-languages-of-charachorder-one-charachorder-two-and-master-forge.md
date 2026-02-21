@@ -45,22 +45,22 @@ When you hit a key on a keyboard, it doesn't send the symbol on the key to the c
 
 Taking the second column (the column contains the `1` number) of a normal keyboard with [QWERTY](https://en.wikipedia.org/wiki/QWERTY) OS layout for example, the following GIF shows the scancode that a keyboard sends, the corresponding symbol on the OS layout and the output.
 
-{% collapsecard "Click to show the GIF" %}  ![螢幕錄影 2024-10-01 01.06.52](https://hackmd.io/_uploads/HyYci8dCA.gif)
+{% collapsecard "Click to show the GIF" %}  ![螢幕錄影 2024-10-01 01.06.52](/blog/images/HyYci8dCA.gif)
 {% endcollapsecard %}
 
 And when one switches the OS layout to [QWERTZ](https://en.wikipedia.org/wiki/QWERTZ), as shown in the following GIF, the scancodes of that column on the keyboard are unchanged, but the output character of the `1D` scancode becomes `y` instead of `z`, due to the change of OS layout.
 
-{% collapsecard "Click to show the GIF" %}  ![螢幕錄影 2024-10-01 08.47.58](https://hackmd.io/_uploads/SkAwv6OA0.gif)
+{% collapsecard "Click to show the GIF" %}  ![螢幕錄影 2024-10-01 08.47.58](/blog/images/SkAwv6OA0.gif)
 {% endcollapsecard %}
 
 Similar things would happen when using other OS layouts, such as [JCUKEN](https://en.wikipedia.org/wiki/JCUKEN).
 
-{% collapsecard "Click to show the GIF" %}  ![tmp](https://hackmd.io/_uploads/B1rWoiYRC.gif)
+{% collapsecard "Click to show the GIF" %}  ![tmp](/blog/images/B1rWoiYRC.gif)
 {% endcollapsecard %}
 
 And so do the OS layouts that need to be used with IME, such as [Standard Bopomofo](https://en.wikipedia.org/wiki/Bopomofo#Input_method).
 
-{% collapsecard "Click to show the GIF" %}  ![tmp2](https://hackmd.io/_uploads/rk2uMnFAR.gif)
+{% collapsecard "Click to show the GIF" %}  ![tmp2](/blog/images/rk2uMnFAR.gif)
 {% endcollapsecard %}
 
 ### 2. How can one type different languages on CC1, CC2 and M4G?
@@ -69,18 +69,18 @@ On CC1, CC2 and M4G (and other CC devices), you can assign characters or actions
 
 For example, if we assign the characters `1`, `q`, `a`, and `z` to the four directions of a switch on CC1, CC2 or M4G with the Device Manager, similar to the QWERTY example of a normal keyboard, the corresponding scancode will be `1E`, `14`, `04` and `1D`. The process after this is the same as the normal keyboard. The following GIF shows a side-by-side comparison of the process between a normal keyboard and CC1 / CC2 / M4G.
 
-{% collapsecard "Click to show the GIF" %}  ![output](https://hackmd.io/_uploads/SyFmKv111e.gif)
+{% collapsecard "Click to show the GIF" %}  ![output](/blog/images/SyFmKv111e.gif)
 {% endcollapsecard %}
 
 As you can expect, when one uses other OS layouts, the scancodes will be converted to the output characters in the same way as a normal keyboard. The following GIFs show the process on other OS layouts.
 
-{% collapsecard "Click to show the GIF (QWERTZ)" %}![output](https://hackmd.io/_uploads/SJWqJy7yJx.gif)
+{% collapsecard "Click to show the GIF (QWERTZ)" %}![output](/blog/images/SJWqJy7yJx.gif)
 {% endcollapsecard %}
 
-{% collapsecard "Click to show the GIF (JCUKEN)" %}![output](https://hackmd.io/_uploads/rySHgym1yx.gif)
+{% collapsecard "Click to show the GIF (JCUKEN)" %}![output](/blog/images/rySHgym1yx.gif)
 {% endcollapsecard %}
 
-{% collapsecard "Click to show the GIF (Standard Bopomofo)" %}![output](https://hackmd.io/_uploads/B1dMbyX1ye.gif)
+{% collapsecard "Click to show the GIF (Standard Bopomofo)" %}![output](/blog/images/B1dMbyX1ye.gif)
 {% endcollapsecard %}
 
 So similar to a normal keyboard, you are able to type different languages on CC1, CC2 or M4G by using different OS layouts.
@@ -93,7 +93,7 @@ So when you want CC1, CC2 or M4G to output a symbol on an OS layout other than `
 
 For example, assuming that we want a key to output `z` on the `QWERTZ - Germany` OS layout, then we should set `y` to that key on the Device Manager. Because `z` on the `QWERTZ - Germany` and `y` on the `QWERTY - US` are at the same position.
 
-![image](https://hackmd.io/_uploads/SkrdO7Nk1x.png)
+![image](/blog/images/SkrdO7Nk1x.png)
 
 It also works for the symbols on the Shift layer. Assuming that we want a key to output `"` on the `QWERTZ - Germany` OS layout, then we should set `@` to that key on the Device Manager.
 
@@ -105,11 +105,11 @@ Some OS layouts have some additional keys than `QWERTY - US`.
 
 ##### Non-US # and ~
 
-![image](https://hackmd.io/_uploads/Sk1IcJiskl.png)
+![image](/blog/images/Sk1IcJiskl.png)
 
 The corresponding action code on CC device of this key is `KSC_32 - Keyboard Non-US # and ~`.
 
-![image](https://hackmd.io/_uploads/ry8Wp1ijyx.png)
+![image](/blog/images/ry8Wp1ijyx.png)
 
 The corresponding symbols on this key under typical language OS layouts are listed below[^non_us_number_sign_and_tilde].
 
@@ -130,11 +130,11 @@ The corresponding symbols on this key under typical language OS layouts are list
 
 ##### Non-US \\ and |
 
-![image](https://hackmd.io/_uploads/r15FOyLGJx.png)
+![image](/blog/images/r15FOyLGJx.png)
 
 The corresponding action code on CC device of this key is `KSC_64 - Keyboard Non-US \ and |`.
 
-![image](https://hackmd.io/_uploads/ryNoc1IGke.png)
+![image](/blog/images/ryNoc1IGke.png)
 
 The corresponding symbols on this key under typical language OS layouts are listed below[^non_us_backslash_and_pipe].
 

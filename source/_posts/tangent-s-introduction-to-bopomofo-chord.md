@@ -33,7 +33,7 @@ We can type Chinese character with Bopomofo input method. For example, we have [
 
 For example, this is how `你好` is typed under a Bopomofo input method. The Bopomofo would be converted to Chinese character when it's finished with a tone, so you would not see the tone mark.
 
-![螢幕錄影 2024-09-14 09.43.49](https://hackmd.io/_uploads/BycXswz6C.gif)
+![螢幕錄影 2024-09-14 09.43.49](/blog/images/BycXswz6C.gif)
 
 ## What is Bopomofo chord?
 
@@ -43,6 +43,6 @@ It's called "聲韻並擊" in Chinese. Its literal translation is "typing the co
 
 For example, I can type `ㄋㄧ` and `ㄏㄠ` simultaneously for `你好`. This is how Bopomofo chord works.
 
-![未命名](https://hackmd.io/_uploads/HJHTmufTC.gif)
+![未命名](/blog/images/HJHTmufTC.gif)
 
 [^simultaneously]: This "simultaneous" of Bopomofo chord is pretty looser than CC's chord. Actually it doesn't have any timing interval (press/release tolerance) limitation as CC devices. It's just because one can input those three kinds of Bopomofo symbols in any order. Even if one misses or mistypes a symbol in the chord, they could fix it with additional keystrokes without redoing the chords. For example, one tries the `ㄑㄧㄢ` chord but misses the `ㄢ` key, and they can trigger the `ㄢ` key later to fix this. In other word, one can type a word with either full chord, a partial chord + single keystroke(s), or full single keystrokes. It's some sort similar to the "Fluid Chord/Character Entry" of CC devices.

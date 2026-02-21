@@ -86,7 +86,7 @@ To move the mouse cursor faster on a dual-wide screen, I set several shortcuts f
 
 The mouse cursor will be moved to the corresponding line when `alt+shift+[1-5]` is triggered.
 
-![image](https://hackmd.io/_uploads/ryfRjCb06.png)
+![image](/blog/images/ryfRjCb06.png)
 
 ##### Switch to Application
 

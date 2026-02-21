@@ -43,7 +43,7 @@ Eten is another layout that is designed for users that are familiar with English
 
 As mentioned, there are some problems when using CC1 with existing Bopomofo layouts. To let it both easy to learn (easy to find key) and efficient (can do "Bopomofo chord"), a special Bopomofo layout should be designed for CC1, so I came up with the layout below.
 
-![](https://hackmd.io/_uploads/HJ4V6CjNh.png)
+![](/blog/images/HJ4V6CjNh.png)
 
 The design rules of this layout are:
 
@@ -61,7 +61,7 @@ Two things are required to do for implementing the layout. One is to remap keys 
 
 Bopomofo IME only can map character keys (alphabets, numbers, symbols) to Bopomofo symbols, so I need to replace some non-character keys with character keys if I want those keys to map to Bopomofo symbols in IME. Also considering usage for programming, I replace them with some frequently used symbols in codes. Below is the final CC1 layout after remapping. 
 
-![](https://hackmd.io/_uploads/HJWzu13Nn.png)
+![](/blog/images/HJWzu13Nn.png)
 
 And I put the CSV file of my layout here. https://raw.githubusercontent.com/andy23512/setting-files/master/CharaChorder/cc1-layout.csv
 
@@ -79,8 +79,8 @@ At this moment, I finally could have a better Bopomofo layout for my Chinese typ
 
 After some time using this layout, I found a few problems so I made a few adjustments to the layout.
 
-![](https://hackmd.io/_uploads/rywIbxeg6.png)
-![](https://hackmd.io/_uploads/Hk1ktlxxT.png)
+![](/blog/images/rywIbxeg6.png)
+![](/blog/images/Hk1ktlxxT.png)
 
 
 The adjustments are:
@@ -99,7 +99,7 @@ I found that some keys in shift layer in OS layout (such as `{`) would break Bop
 New CC1 layout file: https://raw.githubusercontent.com/andy23512/setting-files/master/CharaChorder/cc1-layout-v3.csv
 Update to McBopomofo: https://github.com/andy23512/McBopomofo/commit/e33883e3f7d189bf18d339c7a02d0072899848fc
 
-![localhost_4200_layouts (1)](https://hackmd.io/_uploads/Hk80ZYEEa.png)
+![localhost_4200_layouts (1)](/blog/images/Hk80ZYEEa.png)
 
 ##### V4
 
@@ -108,7 +108,7 @@ After some praticing, I found that putting the Tone2~Tone5 on the right middle s
 (No change on CC1 layout)
 Update to McBopomofo: https://github.com/andy23512/McBopomofo/commit/35b7eccbe94c184d9edee9d11471076702660ec2
 
-![image](https://hackmd.io/_uploads/r1sZj6tSp.png)
+![image](/blog/images/r1sZj6tSp.png)
 
 ##### V5 (Latest)
 
@@ -117,7 +117,7 @@ I found that typing ㄌ(`/`) would trigger the slash command at ClickUp, so I ch
 New CC1 layout file: https://raw.githubusercontent.com/andy23512/setting-files/master/CharaChorder/cc1-layout-v5.csv
 Update to McBopomofo: https://github.com/andy23512/McBopomofo/commit/fe53eda098250384d600af04d44e2139dc492fef
 
-![localhost_4200_layouts](https://hackmd.io/_uploads/S1seckdIp.png)
+![localhost_4200_layouts](/blog/images/S1seckdIp.png)
 
 ##### V5.1 (Adjustment for mouse actions)
 
@@ -127,11 +127,11 @@ Since the mouse switch at primary layer has been remapped to other keys, I decid
 
 ###### Primary Layer
 
-![localhost_4200_layouts](https://hackmd.io/_uploads/By-7Cw_j6.png)
+![localhost_4200_layouts](/blog/images/By-7Cw_j6.png)
 
 ###### Numeric Layer
 
-![localhost_4200_layouts (1)](https://hackmd.io/_uploads/HkzXE__ia.png)
+![localhost_4200_layouts (1)](/blog/images/HkzXE__ia.png)
 
 - ②: numeric layer key
 - M(arrow): mouse move
@@ -146,7 +146,7 @@ To make the functional keys more accessible (for me), I remap some keys at the l
 
 ###### Numeric Layer
 
-![localhost_4200_layouts](https://hackmd.io/_uploads/rkWnAPlyA.png)
+![localhost_4200_layouts](/blog/images/rkWnAPlyA.png)
 
 Device Manager Backup file https://github.com/andy23512/setting-files/blob/master/CharaChorder/backup-ONE-v5.2.json
 
@@ -185,7 +185,7 @@ Bopomofo password is a kind of password that we can make with several Chinese wo
 As it's dependent on the QWERTY layout, I cannot directly type it with my Bopomofo layout, so I made a new OS layout for Bopomofo password with [Ukelele](https://software.sil.org/ukelele/) to mapping between CC1 output and Bopomofo password.
 
 The corresponding OS layout for Bopomofo password on TC41.V5 is as below:
-![image](https://hackmd.io/_uploads/HyVN_pdpp.png)
+![image](/blog/images/HyVN_pdpp.png)
 
 It looks like someone shuffle the positions of all keys on your keyboard, but it's actually the combination of TC41.V5 and the Standard Bopomofo layout. 
 
@@ -216,7 +216,7 @@ Reversed Standard BPMF->>Output: 1qaz... (BPMF password)
 
 So the output of `7890` keys should be `1qaz` on the OS layout respectively, which is the result after doing TC41.V5 mapping and Reversed Standard Bopomofo mapping.
 
-![upload_b72eeab34a7f164d74dcf73a19b18b3c](https://hackmd.io/_uploads/ByoFE7l0p.png)
+![upload_b72eeab34a7f164d74dcf73a19b18b3c](/blog/images/ByoFE7l0p.png)
 
 ### Custom Keyboard Shortcut
 
@@ -234,7 +234,7 @@ I found that CC's punctuation arpeggiate feature is also possible to conflict wi
 
 For example, at my <a href="{% post_path tangent-s-progress-for-finding-a-bopomofo-solution-on-master-forge %}#V2">TC36.V2</a> layout, when I type `問（ㄨㄣ、）`, I chord `ㄨ+ㄣ`(corresponding keys is `t+d`) and then hit the Tone4 `、`(corresponding key is `;`) immediately after the chord. The `;` keystroke would trigger the punctuation arpeggiate feature, so CC device seemed to emit `Space`, `;`, `Arrow Left`, `Backspace` and `Arrow Right` keys.
 
-![](https://hackmd.io/_uploads/S1zHh4VVC.gif)
+![](/blog/images/S1zHh4VVC.gif)
 
 (`ㄨㄣ` + `Space`(Tone1) is the Bopomofo of the `溫` word. And the `Backspace` keystroke delete that word.
 

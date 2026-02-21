@@ -67,7 +67,7 @@ Cangjie only need 26 keys (letter keys), and its mapping doesn't depend on the Q
 
 Here is the keyboard layout of Cangjie on CC1, CC2 and M4G.
 
-![localhost_4200_layouts (2)](https://hackmd.io/_uploads/rkwmh3I_0.png)
+![localhost_4200_layouts (2)](/blog/images/rkwmh3I_0.png)
 
 
 #### Pinyin (拼音) [Phonetic-based] [Built-in]
@@ -98,11 +98,11 @@ They are not built-in Bopomofo layouts, so you may need to find some third-party
 
 Below is the Eten 26 Bopomofo layout on CC1, CC2 or M4G.
 
-![localhost_4200_layouts](https://hackmd.io/_uploads/rySzmWh_0.png)
+![localhost_4200_layouts](/blog/images/rySzmWh_0.png)
 
 And below is the Hsu Bopomofo layout on CC1, CC2 or M4G.
 
-![localhost_4200_layouts (1)](https://hackmd.io/_uploads/rkZvjZ2dC.png)
+![localhost_4200_layouts (1)](/blog/images/rkZvjZ2dC.png)
 
 ### Device modification + No IME modification
 

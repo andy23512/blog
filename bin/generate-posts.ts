@@ -1,6 +1,6 @@
 import * as cheerio from "cheerio";
 import moment from "moment";
-import { readFileSync, writeFileSync } from "node:fs";
+import { existsSync, readFileSync, writeFileSync } from "node:fs";
 import { Note } from "../model/hackmd.model.js";
 import { NoteTableEntry } from "../model/note-table-entry.model.js";
 import { slugify } from "../util/slugify.js";
@@ -32,10 +32,27 @@ const notes = rawNotes.filter(
     n.title !== "Tangent's CharaChorder and Forge Note List",
 );
 const urlToFileName: Record<string, string> = {};
+const imageUrls = new Set<string>();
 for (const note of rawNotes) {
   const url = note.publishLink.replace("https://hackmd.io", "");
   const fileName = slugify(note.title);
   urlToFileName[url] = fileName;
+}
+for (const note of notes) {
+  const regExp = /!\[.*?\]\((https:\/\/hackmd\.io\/_uploads\/[^)]+)\)/g;
+  let match;
+  while ((match = regExp.exec(note.content)) !== null) {
+    imageUrls.add(match[1]);
+  }
+}
+for (const url of imageUrls) {
+  const fileName = url.split("/").pop() as string;
+  if (existsSync(`source/images/${fileName}`)) {
+    continue;
+  }
+  const response = await fetch(url);
+  const buffer = await response.arrayBuffer();
+  writeFileSync(`source/images/${fileName}`, Buffer.from(buffer));
 }
 for (const note of notes) {
   const url = note.publishLink.replace("https://hackmd.io", "");
@@ -99,7 +116,8 @@ ${replaceNoteUrl(
     .replaceAll(":::warning", "{% blockquote %}")
     .replaceAll(":::", "{% endblockquote %}")
     .replaceAll(/\[^\w+\]/g, " $0")
-    .replaceAll(":heavy_check_mark:", '<div class="check"></div>'),
+    .replaceAll(":heavy_check_mark:", '<div class="check"></div>')
+    .replaceAll("https://hackmd.io/_uploads/", "/blog/images/"),
   urlToFileName,
 )}
 `;
