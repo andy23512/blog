@@ -2,7 +2,7 @@
 title: Tangent's Collection of CharaChorder Tips
 description: Tangent collect some tips from himself, CharaChorder Discord server and other related website in this note.
 date: 2025-11-26T12:42:54.546Z
-updated: 2026-01-21T08:58:26.519Z
+updated: 2026-03-08T13:31:21.954Z
 categories: [Note, Resource]
 alias:
   - /2025/11/24/tangent-s-collection-of-charachorder-tips/
@@ -124,7 +124,7 @@ gantt
     A1: 3, 2s
 ```
 
-The last kind is the two-way layer lock. For example, the key has ② on A1, and ① on A2.
+The third kind is the two-way layer lock. For example, the key has ② on A1, and ① on A2.
 
 This kind of key acts like the Caps Lock key on standard keyboards. The device switches to the target layer when you press it, and switches to the primary when you press it again.
 
