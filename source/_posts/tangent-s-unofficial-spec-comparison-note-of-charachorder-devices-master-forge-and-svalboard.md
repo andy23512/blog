@@ -2,7 +2,7 @@
 title: Tangent's Unofficial Spec Comparison Note of CharaChorder Devices, Master Forge and Svalboard
 description: Tangent collects the specs of CharaChorder devices, Master Forge, and Svalboard in this unofficial note for comparing them.
 date: 2024-10-20T12:48:20.585Z
-updated: 2026-03-20T13:42:27.213Z
+updated: 2026-03-20T13:49:51.853Z
 categories: [Note, Comparison]
 alias:
   - /2024/10/18/tangent-s-unofficial-spec-comparison-note-of-charachorder-devices-master-forge-and-svalboard/
@@ -153,4 +153,4 @@ Notice:
 
 [^ccu_key_cap_dependence]: You can customize the key caps of CCU, and this spec will depend on the shape of the key caps.
 
-[^m4g_key_cap]: The key caps on M4G was made of rubber X-ring and 3D-printed plastic. The latest ones are made of molded and textured rubber
+[^m4g_key_cap]: The key caps on M4G was made of rubber X-ring and 3D-printed plastic. The latest ones are made of molded and textured rubber.
