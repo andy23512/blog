@@ -2,7 +2,7 @@
 title: Tangent's layout for using Bopomofo Chinese input method with CharaChorder One
 description: Tangent shares the layout he designed for using Bopomofo Chinese input method on CharaChorder One in this article.
 date: 2023-05-07T16:27:01.862Z
-updated: 2025-12-20T07:23:19.820Z
+updated: 2026-03-23T11:13:40.096Z
 categories: [Article, Layout]
 alias:
   - /2023/05/06/tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one/
@@ -50,7 +50,7 @@ The design rules of this layout are:
 1. Bopomofo symbols are placed according to the order of the Bopomofo table as possible.
 2. Positions of consonants (red keys on image), medials (green keys on image), and rhymes (blue keys on image) are placed in a way that makes all Bopomofo chords possible. (Left hand -> consonant,  Right index/middle finger -> medial. Right thumb/ring finger -> rhyme)
 3. Position of the `Dup` key is kept since it cannot be mapped to a Bopomofo symbol in IME and I don't want to affect already-learned English typing on CC1.
-4. Positions of frequently used keys are kept as possible, such as `ctrl` (mapped to `command` in Karabiner on my Mac), `backspace`, `enter`, and `(right) space`.
+4. Positions of frequently used keys are kept as possible, such as `ctrl` (swapped with `command` using the `Command Control Swap` setting on CC devices), `backspace`, `enter`, and `(right) space`.
 5. Frequently used symbols (`ㄐㄑㄒㄓㄔㄕ一ㄨㄩ`) are placed at the switches of the index and middle fingers.
 
 #### Implementation (V1)

@@ -2,7 +2,7 @@
 title: Tangent's Accessories and Software Applications used with input devices
 description: Tangent shares the accessories and the software applications he uses with his input devices, including keyboards and CharaChorder devices.
 date: 2024-12-24T16:25:20.667Z
-updated: 2026-01-06T12:07:12.019Z
+updated: 2026-03-23T11:09:00.503Z
 categories: [Article, Other]
 alias:
   - /2024/12/23/tangent-s-accessories-and-software-applications-used-with-input-devices/
@@ -38,11 +38,13 @@ However, it can only be shipped to places in Taiwan. You can probably find simil
 
 ### Software Applications (on MacOS)
 
-#### Karabiner
+#### ==(No longer used)== Karabiner
 
-[Karabiner](https://karabiner-elements.pqrs.org/) is the application I use to remap the key on the software side.
+[Karabiner](https://karabiner-elements.pqrs.org/) was the application I use to remap the key on the software side.
 
-With it, I swap the command keys and ctrl keys on my CC2, and remap the right option key to ctrl key on my normal keyboards.
+With it, I swapped the command keys and ctrl keys on my CC2, and remap the right option key to ctrl key on my normal keyboards.
+
+But Karabiner has some conflicts with CCOS 3.0.0, it will break the capitalization chord modifier. Due to this trouble, I no longer use Karabiner, but use the `Command Control Swap` setting on the CC2 instead.
 
 #### Hammerspoon
 
