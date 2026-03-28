@@ -2,7 +2,7 @@
 title: Tangent's giving Chinese names and device names to CharaChorder One, CharaChorder Two, and Master Forge
 description: Tangent talks about the English and Chinese names he gives to CharaChorder One, CharaChorder Two and Master Forge.
 date: 2024-07-26T04:33:11.558Z
-updated: 2025-03-01T05:32:12.322Z
+updated: 2026-03-28T10:27:13.659Z
 categories: [Article, Creation]
 alias:
   - /2024/07/24/tangent-s-giving-chinese-names-and-device-names-to-charachorder-one-charachorder-two-and-master-forge/
@@ -87,5 +87,19 @@ By the way, I would translate the slogan of CharaChorder, "Type at the speed of 
 ![下載 (4)](/blog/images/H1IHAR_-1e.png)[^semi_cursive_script]
 
 ![elffont](/blog/images/HJ3MRCuZyg.png)
+
+## Bonus 3: Chinese product names for CharaChorder Lite, CharaChorder X and CCU
+
+### CharaChorder Lite
+
+I would translate "CharaChorder Lite" to 「流弦・簡」. [「簡」](https://en.wiktionary.org/wiki/%E7%B0%A1) can mean simple, since the learning curve of CC Lite is less steeper than other CC 3D input devices.
+
+### CharaChorder X
+
+"CharaChorder X" is translated to 「流弦・容」 by me. [「容」](https://en.wiktionary.org/wiki/%E5%AE%B9) can mean "to allow", since CCX is compatible with different keyboards.
+
+### CCU
+
+I choose 「流弦・由你」as the translation of "CCU". [「由」](https://en.wiktionary.org/wiki/%E7%94%B1)'s pronunciation is similar to U, and it can mean "let one determine". [「你」](https://en.wiktionary.org/wiki/%E4%BD%A0) means "you". So 「由你」 means "let you determine", and it fits what you can do with a CCU kit.
 
 [^semi_cursive_script]: This style of Chinese calligraphy is called ["semi-cursive script"](https://en.wikipedia.org/wiki/Semi-cursive_script)(行書). It's a style between "cursive script"(草書) and "regular script"(楷書). The cursive script is the fastest to write but difficult to read, and regular script is the most common style used in modern text. If we compare the cursive script to steno machines and the regular script to normal keyboards, the semi-cursive script is like CharaChorder and Forge devices. That's why I choose this style.
