@@ -2,7 +2,7 @@
 title: Tangent's Latest Chord List
 description: Tangent shares his latest chord list in this article.
 date: 2024-03-14T02:39:04.889Z
-updated: 2025-12-11T02:57:20.099Z
+updated: 2026-04-13T13:46:37.877Z
 categories: [Article, Chord]
 alias:
   - /2024/03/12/tangent-s-latest-chord-list/
@@ -27,6 +27,9 @@ P.S. 3: FSE = Full-stack engineer, CS = customer service
 |Input|Output|Description|
 |-|-|-|
 |`[`+`]`|`- [ ]`|It's a [task list item](https://www.markdownguide.org/extended-syntax/#task-lists) in markdown extended syntax. I use it very frequently in my FSE work.|
+|o+s+a|/opsx-apply|A frequently used [OpenSpec](https://openspec.dev/) command|
+|o+s+p|/opsx-propose|A frequently used [OpenSpec](https://openspec.dev/) command|
+|o+s+x|/opsx-archive|A frequently used [OpenSpec](https://openspec.dev/) command|
 |a+n+o|annotation|"annotation" is a frequently used word in my FSE work.|
 |b+n|backend|Backend is a frequently used word in my FSE works.|
 |b+l|boolean|`boolean` is a frequently used type in `TypeScript`|
