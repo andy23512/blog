@@ -2,7 +2,7 @@
 title: Tangent's UNOFFICIAL Playlist of CharaChorder and Forge Update Videos
 description: Tangent made a video playlist for the CharaChorder and Forge update videos. This is the note for the video playlist.
 date: 2024-07-30T07:30:32.769Z
-updated: 2025-12-05T22:55:26.278Z
+updated: 2026-04-14T22:47:33.431Z
 categories: [Note, Resource]
 alias:
   - /2024/07/28/tangent-s-unofficial-playlist-of-charachorder-and-forge-update-videos/
@@ -195,8 +195,8 @@ All videos are collected from the sources listed above. NONE of my accounts, my 
 |W74*|[The Game Where You Level Up IRL --- CCIO 1st Look!](https://youtu.be/ONBJlWfzzaQ?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-06-07 19:15:41||
 |W77*|[Type 1 Word = Donate 1 Day of Clean Water](https://youtu.be/PvhKvJeRadA?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-08-01 16:39:57||
 |W94*|[Introducing CC2.1](https://youtu.be/geRvMmrd5n0?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-11-28 05:04:16||
-|W94*|[How It's Made: CC2.1](https://youtu.be/VPhJi8vLAX0?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-11-29 20:00:06||
 |W95*|[Joe Rogan Reacts to CharaChorder](https://youtu.be/xKtHFAkxX5Q?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-12-05 12:01:17||
+|W113*|[Our BIGGEST Announcement Ever - CharaChorder is now community owned.](https://youtu.be/6kwy6dXkLqs?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2026-04-14 12:00:16||
 
 [^serial]: If "Day XX" or "Week XX" is mentioned in the title or the content of the video, that serial number would be used. Otherwise, it would be decided from the uploaded time and the serial number of adjacent video, and it would be postfixed with a `*`. `D` means day and `W` means week.
 [^timezone]: North American Central Time Zone (CST/CDT) is used.
