@@ -2,7 +2,7 @@
 title: Alnitak - a practice tool of CharaChorder 3D input devices developed by Tangent
 description: Tangent introduces Alnitak, the unofficial practice tool for CharaChorder 3D input devices that he developed, in this article.
 date: 2024-05-01T11:10:38.698Z
-updated: 2025-12-14T08:03:48.569Z
+updated: 2026-04-15T14:25:44.257Z
 categories: [Article, Creation]
 alias:
   - /2024/04/29/alnitak-a-practice-tool-of-charachorder-3d-input-devices-developed-by-tangent/
@@ -107,6 +107,7 @@ Finally, I added the song and lyrics to the layout song page on Alnitak. Additio
 - Operating System Logo Icon: [font-logos](https://github.com/lukas-w/font-logos)
 - Tooltip Library: [@webed/angular-tooltip](https://www.npmjs.com/package/@webed/angular-tooltip)
 - Internationalization (i18n) Library: [ngx-translate](https://ngx-translate.org/)
+- Loading Bar: [ngx-loading-bar](https://aitboudad.github.io/ngx-loading-bar/)
 
 #### Layout Song
 
