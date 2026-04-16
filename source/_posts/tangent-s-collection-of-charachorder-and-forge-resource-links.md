@@ -2,7 +2,7 @@
 title: Tangent's Collection of CharaChorder and Forge Resource Links
 description: Tangent collects some links to useful resources related to CharaChorder / Forge in this note.
 date: 2023-03-29T13:16:09.346Z
-updated: 2026-03-06T14:18:38.610Z
+updated: 2026-04-16T10:01:25.774Z
 categories: [Note, Resource]
 alias:
   - /2023/03/27/tangent-s-collection-of-charachorder-and-forge-resource-links/
@@ -221,7 +221,7 @@ GitHub Repo: https://github.com/typing-tech/monkeytype
 - [Device Comparator](https://andy23512.github.io/device-comparator/) - an unofficial website for comparing the specs of CharaChorder devices, Master Forge and Svalboard
 - [TanChord Cone (TC Code)](https://andy23512.github.io/tccode/) - an unofficial, experimental code editor for the chord library of CharaChorder device
 - [CCOS Meta Viewer](https://andy23512.github.io/ccos-meta-viewer/) - an unofficial data viewer for the official CharaChorder Firmware Meta API
-- [CharaChronicle](https://andy23512.github.io/chara-chronicle/) - an unofficial chronicle for CharaChorder
+- [CharaChronus](https://andy23512.github.io/chara-chronus/) - an unofficial chronicle for CharaChorder
 
 #### Browser Extension
 
