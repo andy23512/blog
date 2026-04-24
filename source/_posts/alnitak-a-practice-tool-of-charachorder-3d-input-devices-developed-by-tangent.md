@@ -2,7 +2,7 @@
 title: Alnitak - a practice tool of CharaChorder 3D input devices developed by Tangent
 description: Tangent introduces Alnitak, the unofficial practice tool for CharaChorder 3D input devices that he developed, in this article.
 date: 2024-05-01T11:10:38.698Z
-updated: 2026-04-15T14:25:44.257Z
+updated: 2026-04-24T10:57:22.405Z
 categories: [Article, Creation]
 alias:
   - /2024/04/29/alnitak-a-practice-tool-of-charachorder-3d-input-devices-developed-by-tangent/
@@ -34,7 +34,7 @@ otherLanguages:
 - Device Layout View
   - only show the labels of keys in the current lesson
   - highlight the current key(s) required to type out the character
-  - can load the custom layout via the backup json file from device manager website
+  - can load the custom layout from a file (backup file from device manager website) or directly from a input device
 - Widgets
   - combo counter that counts the number of consecutive correct keystrokes
   - speedometer that shows the current typing speed
