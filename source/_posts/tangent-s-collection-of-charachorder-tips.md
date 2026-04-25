@@ -2,7 +2,7 @@
 title: Tangent's Collection of CharaChorder Tips
 description: Tangent collect some tips from himself, CharaChorder Discord server and other related website in this note.
 date: 2025-11-26T12:42:54.546Z
-updated: 2026-03-08T13:31:21.954Z
+updated: 2026-04-25T05:44:57.327Z
 categories: [Note, Resource]
 alias:
   - /2025/11/24/tangent-s-collection-of-charachorder-tips/
@@ -255,6 +255,16 @@ When you connect your CC device to a Mac for the first time, your Mac will attem
 If you want to use a CC 3D input device in an OS keyboard layout other than QWERTY-US or a language other than English, you can check <a href="{% post_path tangent-s-explanation-to-the-compatible-languages-of-charachorder-one-charachorder-two-and-master-forge %}">my article about it</a>.
 
 I also made a [layout viewer](https://andy23512.github.io/alnitak/layout-viewer) to view the final output across different OS layouts. It shows the CC1/CC2 default layout by default, and you can change it to the Master Forge (M4G) default layout on the settings page.
+
+### One-handed operation
+
+#### Ambidextrous throwover
+
+For temporarily one-handed operation, such as when one of your hands is doing another thing, you could use the [Ambidextrous Throwover key](https://docs.charachorder.com/Glossary.html#term-Ambidextrous-Throwover-aka-Mirror-Mode) to access the keys on the opposite half. For example, on the default layout, `left Ambi key + c` would output `d`.
+
+#### One-handed layouts
+
+However, the previous method makes it difficult to use some key combinations. For long-term one-handed operation, it’s recommended to configure the device layout instead. On the official CharaChorder Discord server, there is [a one-handed layout that the CharaChorder team once built for a user](https://discord.com/channels/861730583092658206/897269135145328650/897270846094188566). Based on this layout, I’ve made the layout files for [left-hand only](https://raw.githubusercontent.com/andy23512/setting-files/920c4f1bdf7c7d8a9a28b30e6767728c3c6bb426/CharaChorder/cc1-cc2-left-hand-only.json) and [right-hand only](https://raw.githubusercontent.com/andy23512/setting-files/920c4f1bdf7c7d8a9a28b30e6767728c3c6bb426/CharaChorder/cc1-cc2-right-hand-only.json), respectively. You can also view them in [the layout viewer on Alnitak](https://andy23512.github.io/alnitak/layout-viewer).
 
 ## Tip list on other websites
 
