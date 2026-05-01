@@ -1,8 +1,8 @@
 ---
 title: Tangent's suggestions for learning English character entry on CharaChorder 3D input devices
-description: Tangent shares his suggestions for learning English character entry on CharaChorder 3D input devices (CharaChorder One, CharaChorder Two, and Master Forge).
+description: Tangent shares his suggestions for learning English character entry on CharaChorder 3D input devices (CharaChorder One, CharaChorder Two, CCU, and Master Forge).
 date: 2025-06-30T11:38:13.283Z
-updated: 2025-12-26T12:49:49.581Z
+updated: 2026-05-01T14:42:22.762Z
 categories: [Article, Language]
 alias:
   - /2025/06/28/tangent-s-suggestions-for-learning-english-character-entry-on-charachorder-3d-input-devices/
@@ -39,7 +39,7 @@ gantt
   - You can recall where any key is without any visual guide.
   
 {% collapsecard "Explanations" %}
-[Anki](https://apps.ankiweb.net/) offers a feature called [Image Occlusion](https://docs.ankiweb.net/editing.html?highlight=image#image-occlusion). Download the default layout image ([CC1/2](https://docs.charachorder.com/_images/CCEnglish2.png) or [Master Forge](https://docs.charachorder.com/_images/M4-Layout.png)) and create cards that hide specific parts of the layout to help you memorize it. I also made a deck for the letter keys on the default layout, and you can [access it here](https://ankiweb.net/shared/info/1396809787).
+[Anki](https://apps.ankiweb.net/) offers a feature called [Image Occlusion](https://docs.ankiweb.net/editing.html?highlight=image#image-occlusion). Download the default layout image ([CC1/2/U](https://docs.charachorder.com/_images/CCEnglish2.png) or [Master Forge](https://docs.charachorder.com/_images/M4-Layout.png)) and create cards that hide specific parts of the layout to help you memorize it. I also made a deck for the letter keys on the default layout, and you can [access it here](https://ankiweb.net/shared/info/1396809787).
 
 Air typing involves mimicking typing gestures with your fingers, either in the air, on a table, or even on your hand or leg. The practice tool I developed, [Alnitak](https://andy23512.github.io/alnitak), also features an air mode setting. It automatically advances lessons at the speed you set, allowing you to follow along and move your fingers as if typing on a real device.
 
@@ -64,11 +64,11 @@ Additionally, there is [an AI-generated layout song at Alnitak](https://andy2351
   - All the letters become green at [Keybr](https://www.keybr.com/)
   - Reach 13 WPM at English set at [Monkeytype](https://monkeytype.com/)
 
-{% collapsecard "Explanations" %}Unlike standard keyboards, CharaChorder 3D input devices, including CharaChorder One, CharaChorder Two, and Master Forge, don't have key labels on them, so learning touch typing is crucial for practical use. Therefore, the first thing we need to get familiar with is the positions of each key.
+{% collapsecard "Explanations" %}Unlike standard keyboards, CharaChorder 3D input devices, including CharaChorder One, CharaChorder Two, CCU, and Master Forge, don't have key labels on them, so learning touch typing is crucial for practical use. Therefore, the first thing we need to get familiar with is the positions of each key.
 
 The official training applications ([dot i/o](https://www.iq-eq.io/#/) and [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/)) have corresponding tiers for this. You can follow the visual guide and practice all the letters there.
 
-Dot i/o and CharaChorder LaunchPad only have device previews for CC1 and CCL. However, the default layout of CC2 is the same as CC1, and most of the keys they support are positioned the same as in the default layouts for CC1/2 and M4G. As a result, you can still use them with CC2 or M4G.
+Dot i/o and CharaChorder LaunchPad only have device previews for CC1 and CCL. However, the default layouts of CC2 and CCU are the same as CC1, and most of the keys they support are positioned the same as in the default layouts for CC1/2/U and M4G. As a result, you can still use them with CC2/U or M4G.
 
 Besides, [Alnitak](https://andy23512.github.io/alnitak/) is a tool specially designed for practicing device layout on CharaChorder 3D input devices. Character keys, including numbers, letters, and symbols, are divided into small lessons, allowing users to focus on a small set of keys at a time. Moreover, the visual guide fades out when users reach 20 combos, and it reappears when there is a mistake. It helps users memorize the location and prevents them from simply following the guide.
 
