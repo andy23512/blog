@@ -2,7 +2,7 @@
 title: Tangent's Collection of CharaChorder Tips
 description: Tangent collect some tips from himself, CharaChorder Discord server and other related website in this note.
 date: 2025-11-26T12:42:54.546Z
-updated: 2026-04-25T05:44:57.327Z
+updated: 2026-05-02T15:36:50.600Z
 categories: [Note, Resource]
 alias:
   - /2025/11/24/tangent-s-collection-of-charachorder-tips/
@@ -265,6 +265,8 @@ For temporarily one-handed operation, such as when one of your hands is doing an
 #### One-handed layouts
 
 However, the previous method makes it difficult to use some key combinations. For long-term one-handed operation, it’s recommended to configure the device layout instead. On the official CharaChorder Discord server, there is [a one-handed layout that the CharaChorder team once built for a user](https://discord.com/channels/861730583092658206/897269135145328650/897270846094188566). Based on this layout, I’ve made the layout files for [left-hand only](https://raw.githubusercontent.com/andy23512/setting-files/920c4f1bdf7c7d8a9a28b30e6767728c3c6bb426/CharaChorder/cc1-cc2-left-hand-only.json) and [right-hand only](https://raw.githubusercontent.com/andy23512/setting-files/920c4f1bdf7c7d8a9a28b30e6767728c3c6bb426/CharaChorder/cc1-cc2-right-hand-only.json), respectively. You can also view them in [the layout viewer on Alnitak](https://andy23512.github.io/alnitak/layout-viewer).
+
+(The original layout doesn't have the minus key, so I set the index 3D press action to that key.)
 
 ## Tip list on other websites
 
