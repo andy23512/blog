@@ -2,7 +2,7 @@
 title: Tangent's Collection of CharaChorder and Forge Resource Links
 description: Tangent collects some links to useful resources related to CharaChorder / Forge in this note.
 date: 2023-03-29T13:16:09.346Z
-updated: 2026-04-16T10:01:25.774Z
+updated: 2026-05-05T10:51:17.995Z
 categories: [Note, Resource]
 alias:
   - /2023/03/27/tangent-s-collection-of-charachorder-and-forge-resource-links/
@@ -95,9 +95,9 @@ Use the "Hex Parser" tab to understand the conversion between chord input keys a
 {% collapsecard "Show Detail" %}Try CharaChorder is a free CharaChorder emulator that you can try some features of CharaChorder devices directly on your browser with any keyboard. Check [the introduction video of Try CharaChorder](https://youtu.be/ZIzdo_hLbJw?feature=shared) for more detailed explanation and demostration.
 {% endcollapsecard %}
 
-##### [Master Forge Estimator](https://wheresmyforge.charachorder.com/)
+##### ==(Outdated)== [Master Forge Estimator](https://wheresmyforge.charachorder.com/)
 
-{% collapsecard "Show Detail" %}It's a web tool that estimates the fulfillment date for your Master Forge order.
+{% collapsecard "Show Detail" %}It was a web tool that estimates the fulfillment date for your Master Forge pre-order or backer reward.
 {% endcollapsecard %}
 
 ##### [VoiceBox](https://voicebox.iq-eq.us/)
