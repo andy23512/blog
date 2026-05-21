@@ -2,7 +2,7 @@
 title: Tangent's suggestions for learning English character entry on CharaChorder 3D input devices
 description: Tangent shares his suggestions for learning English character entry on CharaChorder 3D input devices (CharaChorder One, CharaChorder Two, CCU, and Master Forge).
 date: 2025-06-30T11:38:13.283Z
-updated: 2026-05-01T14:42:22.762Z
+updated: 2026-05-21T16:19:30.010Z
 categories: [Article, Language]
 alias:
   - /2025/06/28/tangent-s-suggestions-for-learning-english-character-entry-on-charachorder-3d-input-devices/
@@ -53,6 +53,7 @@ Additionally, there is [an AI-generated layout song at Alnitak](https://andy2351
 - Recommended WPM: 0~13
 - Recommended tool:
   - Letters tier at [dot i/o](https://www.iq-eq.io/#/)
+    - P.S. Click the "Show Device" dropdown at the right bottom and select "CharaChorder One" to show the visual guide.
   - Alphabetic tier at [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/)
   - Number, letter, and symbol lessons at [Alnitak](https://andy23512.github.io/alnitak/)
   - Guided, source code and numbers lessons at [Keybr](https://www.keybr.com/) with Keybr CC Extension ([Chrome Web Store](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg) / [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/))
