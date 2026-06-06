@@ -2,7 +2,7 @@
 title: Tangent's suggestions for learning English character entry on CharaChorder 3D input devices
 description: Tangent shares his suggestions for learning English character entry on CharaChorder 3D input devices (CharaChorder One, CharaChorder Two, CCU, and Master Forge).
 date: 2025-06-30T11:38:13.283Z
-updated: 2026-05-21T16:19:30.010Z
+updated: 2026-06-06T10:11:25.815Z
 categories: [Article, Language]
 alias:
   - /2025/06/28/tangent-s-suggestions-for-learning-english-character-entry-on-charachorder-3d-input-devices/
@@ -32,7 +32,7 @@ gantt
 
 - Purpose: Memorize the locations of each key when the device is not at your fingertips, such as when you are waiting for the shipment.
 - Recommended tool:
-  - [My Anki deck for letter keys on the default device layout](https://ankiweb.net/shared/info/1396809787)
+  - [My Anki deck for letter keys on the default device layout](https://github.com/andy23512/setting-files/raw/refs/heads/master/CharaChorder/Anki/CharaChorder%203D%20Input%20Device%20-%20Default%20Layout%20-%20Letter%20Keys.apkg)
   - Air typing with Number, letter, and symbol lessons at [Alnitak](https://andy23512.github.io/alnitak/) with its air mode setting on
   - [Layout song at Alnitak](https://andy23512.github.io/alnitak/layout-song)
 - Recommended goal:
