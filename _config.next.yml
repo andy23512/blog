@@ -107,7 +107,7 @@ menu:
   #schedule: /schedule/ || fa fa-calendar
   sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
-  繁體中文版: https://andy23512.github.io/blog-zh-tw/ || fa fa-language
+  繁體中文版: https://andy23512.gitlab.io/blog-zh-tw/ || fa fa-language
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
@@ -161,6 +161,7 @@ site_state: true
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
   GitHub: https://github.com/andy23512 || fab fa-github
+  GitLab: https://gitlab.com/andy23512 || fab fa-gitlab
   LinkedIn: https://www.linkedin.com/in/tangent-chang-a5915586 || fab fa-linkedin
   #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo

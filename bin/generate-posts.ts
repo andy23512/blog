@@ -92,7 +92,7 @@ ${[-2, -1, 0, 1, 2]
   .join("\n")}
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/${
+    path: https://andy23512.gitlab.io/blog-zh-tw/${
       urlToFileName[noteTableEntry.zhTwNoteUrl.replace("https://hackmd.io", "")]
     }/
 ---
