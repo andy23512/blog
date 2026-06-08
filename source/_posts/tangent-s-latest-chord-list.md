@@ -12,7 +12,7 @@ alias:
   - /2024/03/16/tangent-s-latest-chord-list/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/tangent-的最新和弦列表/
+    path: https://andy23512.gitlab.io/blog-zh-tw/tangent-的最新和弦列表/
 ---
 {% blockquote %}
 :information_source: This chord list is based on my chording ways mentioned in <a href="{% post_path tangent-s-usages-of-chording %}">this article</a>.

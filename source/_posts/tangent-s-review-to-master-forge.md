@@ -12,7 +12,7 @@ alias:
   - /2025/07/15/tangent-s-review-to-master-forge/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.github.io/blog-zh-tw/tangent-對-master-forge-的評價/
+    path: https://andy23512.gitlab.io/blog-zh-tw/tangent-對-master-forge-的評價/
 ---
 
 ## Preface
