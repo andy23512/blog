@@ -2,7 +2,7 @@
 title: CC Extensions - unofficial extensions that display the layout of CharaChorder 3D input devices on typing websites
 description: Tangent introduces CC Extensions, a set of unofficial browser extensions he developed. They can display the layout of CharaChorder 3D input devices (CharaChorder One, CharaChorder Two, and Master Forge) on Keybr and Monkeytype.
 date: 2025-10-19T10:02:03.861Z
-updated: 2026-01-06T00:43:58.614Z
+updated: 2026-06-08T02:12:24.417Z
 categories: [Article, Creation]
 alias:
   - /2025/10/17/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-3d-input-devices-on-typing-websites/
@@ -25,14 +25,14 @@ otherLanguages:
 
 - [Chrome Web Store](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg)
 - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/)
-- [GitHub](https://github.com/andy23512/keybr-cc-extension)
+- [GitLab](https://gitlab.com/andy23512/keybr-cc-extension)
 - [Demonstration Video](https://youtu.be/IQWf4IuekFQ)
 
 ### Monkeytype CC Extension
 
 - [Chrome Web Store](https://chromewebstore.google.com/detail/monkeytype-cc-extension/mhfjhmegecimjbohhdbflkhdfnaadple)
 - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/monkeytype-cc-extension/)
-- [GitHub](https://github.com/andy23512/monkeytype-cc-extension)
+- [GitLab](https://gitlab.com/andy23512/monkeytype-cc-extension)
 - [Demonstration Video](https://youtu.be/nwbKUjUmwD4)
 
 ## Feature

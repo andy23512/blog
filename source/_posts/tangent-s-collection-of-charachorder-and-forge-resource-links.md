@@ -2,7 +2,7 @@
 title: Tangent's Collection of CharaChorder and Forge Resource Links
 description: Tangent collects some links to useful resources related to CharaChorder / Forge in this note.
 date: 2023-03-29T13:16:09.346Z
-updated: 2026-06-06T10:11:52.659Z
+updated: 2026-06-08T02:13:46.494Z
 categories: [Note, Resource]
 alias:
   - /2023/03/27/tangent-s-collection-of-charachorder-and-forge-resource-links/
@@ -209,7 +209,7 @@ GitHub Repo: https://github.com/typing-tech/monkeytype
 #### Blog
 
 - [My CharaChorder and Forge Note List at HackMD](https://hackmd.io/@andy23512/B1e97aNl0)
-- [My Blog](https://andy23512.github.io/blog/) (A mirror site of my HackMD notes)
+- [My Blog](https://andy23512.gitlab.io/blog/) (A mirror site of my HackMD notes)
 
 #### Anki Deck
 
