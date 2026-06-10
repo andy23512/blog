@@ -2,7 +2,7 @@
 title: Tangent's Collection of CharaChorder and Forge Resource Links
 description: Tangent collects some links to useful resources related to CharaChorder / Forge in this note.
 date: 2023-03-29T13:16:09.346Z
-updated: 2026-06-08T02:13:46.494Z
+updated: 2026-06-10T04:27:33.938Z
 categories: [Note, Resource]
 alias:
   - /2023/03/27/tangent-s-collection-of-charachorder-and-forge-resource-links/
@@ -213,7 +213,7 @@ GitHub Repo: https://github.com/typing-tech/monkeytype
 
 #### Anki Deck
 
-- [CharaChorder 3D Input Device - Default Layout - Letter Keys](https://github.com/andy23512/setting-files/raw/refs/heads/master/CharaChorder/Anki/CharaChorder%203D%20Input%20Device%20-%20Default%20Layout%20-%20Letter%20Keys.apkg)
+- [CharaChorder 3D Input Device - Default Layout - Letter Keys](https://drive.google.com/drive/folders/1JPRS0mbXw095RJwyFwgCyDRM8DuNusnb?usp=drive_link)
 
 #### Web Application
 
