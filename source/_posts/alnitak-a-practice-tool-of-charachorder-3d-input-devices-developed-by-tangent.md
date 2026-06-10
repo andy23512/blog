@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.gitlab.io/blog-zh-tw/alnitak-參宿一-tangent-所開發的-charachorder-3d-輸入裝置練習工具/
+hackMDUrl: https://hackmd.io/@andy23512/SywN7okfC
 ---
 {% blockquote %}
 :information_source: Disclaimer: This tool is not affiliated, associated, authorized, endorsed by, or in any way officially connected with CharaChorder.

@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.gitlab.io/blog-zh-tw/tangent-對-charachorder-one、charachorder-two-和-master-forge-的相容語言的說明/
+hackMDUrl: https://hackmd.io/@andy23512/B116kIdAC
 ---
 
 ### TL;DR

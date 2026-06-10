@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.gitlab.io/blog-zh-tw/tangent-的-charachorder-和-forge-更新影片非官方播放清單/
+hackMDUrl: https://hackmd.io/@andy23512/B1WsLGLYC
 ---
 ## YouTube Playlists
 

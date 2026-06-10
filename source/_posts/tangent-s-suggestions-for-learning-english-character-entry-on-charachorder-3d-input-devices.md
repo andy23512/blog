@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.gitlab.io/blog-zh-tw/tangent-對學習使用-charachorder-3d-輸入裝置英打（逐字輸入）的建議/
+hackMDUrl: https://hackmd.io/@andy23512/Sy6XveeBgx
 ---
 
 ```mermaid

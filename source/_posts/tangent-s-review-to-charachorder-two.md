@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.gitlab.io/blog-zh-tw/tangent-對-charachorder-two-的評價/
+hackMDUrl: https://hackmd.io/@andy23512/BkJDa4xLkg
 ---
 
 ### Preface

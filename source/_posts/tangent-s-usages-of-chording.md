@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.gitlab.io/blog-zh-tw/tangent-的和弦用法/
+hackMDUrl: https://hackmd.io/@andy23512/H1OmcBzfye
 ---
 
 ### Preface

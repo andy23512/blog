@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.gitlab.io/blog-zh-tw/tanchord-code-library-tccl-語言參考文件/
+hackMDUrl: https://hackmd.io/@andy23512/B13nameb-e
 ---
 
 ## Introduction

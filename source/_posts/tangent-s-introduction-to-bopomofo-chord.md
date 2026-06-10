@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.gitlab.io/blog-zh-tw/tangent-對注音和弦的介紹/
+hackMDUrl: https://hackmd.io/@andy23512/rywyCLGa0
 ---
 
 ## Preface

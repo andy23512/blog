@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.gitlab.io/blog-zh-tw/tangent-的最新和弦列表/
+hackMDUrl: https://hackmd.io/@andy23512/BJ-I7kx0T
 ---
 {% blockquote %}
 :information_source: This chord list is based on my chording ways mentioned in <a href="{% post_path tangent-s-usages-of-chording %}">this article</a>.

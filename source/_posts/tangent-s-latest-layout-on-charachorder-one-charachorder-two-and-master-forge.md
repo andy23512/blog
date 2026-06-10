@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.gitlab.io/blog-zh-tw/tangent-在-charachorder-one、charachorder-two-和-master-forge-上的最新佈局/
+hackMDUrl: https://hackmd.io/@andy23512/rJrX6HEWJe
 ---
 
 ### Preface

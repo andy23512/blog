@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.gitlab.io/blog-zh-tw/tangent-的-charachorder-裝置喚醒問題相關資訊收集/
+hackMDUrl: https://hackmd.io/@andy23512/rkCYCKyV-x
 ---
 # TL;DR
 

@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.gitlab.io/blog-zh-tw/tangent-的-charachorder-和-forge-資源連結收集/
+hackMDUrl: https://hackmd.io/@andy23512/HJWXq3-Z2
 ---
 {% blockquote %}
   :information_source: [The official list of Web tools is here.](https://discord.com/channels/861730583092658206/1300503878495637624)

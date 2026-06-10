@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.gitlab.io/blog-zh-tw/tangent-的-charachorder-one、charachorder-two-和-master-forge-使用歷程/
+hackMDUrl: https://hackmd.io/@andy23512/BkUQx7uU2
 ---
 
 ## 1. How I Meet CharaChorder One (CC1)

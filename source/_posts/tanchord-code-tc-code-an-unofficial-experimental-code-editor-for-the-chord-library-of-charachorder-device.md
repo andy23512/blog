@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.gitlab.io/blog-zh-tw/tanchord-code-tc-code-非官方的、實驗性的-charachorder-和弦庫代碼編輯器/
+hackMDUrl: https://hackmd.io/@andy23512/H1LpamlW-e
 ---
 {% blockquote %}
 :information_source: Disclaimer: This editor is not affiliated, associated, authorized, endorsed by, or in any way officially connected with CharaChorder.

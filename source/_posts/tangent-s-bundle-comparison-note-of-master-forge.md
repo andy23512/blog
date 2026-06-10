@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.gitlab.io/blog-zh-tw/tangent-的-master-forge-套組比較筆記/
+hackMDUrl: https://hackmd.io/@andy23512/BkZKQVrJ1l
 ---
 ## Comparison Table
 

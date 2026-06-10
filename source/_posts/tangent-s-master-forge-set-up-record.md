@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.gitlab.io/blog-zh-tw/tangent-的-master-forge-設置紀錄/
+hackMDUrl: https://hackmd.io/@andy23512/r1ct2Ix3Jx
 ---
 
 ## Out of the Box (==Pre-Kickstarter Pre-Order==)

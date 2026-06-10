@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.gitlab.io/blog-zh-tw/tangent-對在-charachorder-one、charachorder-two-或-master-forge-上打中文的建議/
+hackMDUrl: https://hackmd.io/@andy23512/Hy0-7a7dA
 ---
 
 ## TL;DR

@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.gitlab.io/blog-zh-tw/tangent-尋找在-master-forge-上的注音輸入方式的歷程/
+hackMDUrl: https://hackmd.io/@andy23512/r1tvdWQ1R
 ---
 
 ## (Not used) Approach 1: Adaptation from TanChord 41 Bopomofo

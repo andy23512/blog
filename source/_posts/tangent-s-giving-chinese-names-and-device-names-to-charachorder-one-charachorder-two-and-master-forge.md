@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.gitlab.io/blog-zh-tw/tangent-為-charachorder-one、charachorder-two-和-master-forge-取名字/
+hackMDUrl: https://hackmd.io/@andy23512/SJlMDilFA
 ---
 
 ## Preface

@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.gitlab.io/blog-zh-tw/tangent-對-charachorder-one-和-charachorder-two-的鍵帽的評價/
+hackMDUrl: https://hackmd.io/@andy23512/H1e7-2y8lg
 ---
 
 ## Preface

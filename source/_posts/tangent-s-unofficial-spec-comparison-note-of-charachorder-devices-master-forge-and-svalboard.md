@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.gitlab.io/blog-zh-tw/tangent-的-charachorder-裝置、master-forge-和-svalboard-非官方規格比較筆記/
+hackMDUrl: https://hackmd.io/@andy23512/rJTf2dzlJl
 ---
 ## Comparison Table
 

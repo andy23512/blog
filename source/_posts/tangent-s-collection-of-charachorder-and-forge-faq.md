@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: 繁體中文版
     path: https://andy23512.gitlab.io/blog-zh-tw/tangent-的-charachorder-和-forge-常見問答收集/
+hackMDUrl: https://hackmd.io/@andy23512/HJMlcmSy1l
 ---
 Note: You could also check [the FAQ on the official CharaChorder document](https://docs.charachorder.com/FAQs.html).
 
