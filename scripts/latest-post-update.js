@@ -11,7 +11,7 @@ hexo.extend.filter.register("theme_inject", function (injects) {
 
     // Create a standard NexT menu item structure
     const htmlContent = `
-      <li class="menu-item menu-item-latest-update" style="margin-top: 5px;">
+      <li class="menu-item menu-item-latest-update">
         <a href="${hexo.config.root}${latestPost.path}" rel="section">
           <i class="fa fa-fw fa-history"></i> Last Updated: ${updatedDate}
         </a>
