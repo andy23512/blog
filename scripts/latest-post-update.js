@@ -8,6 +8,7 @@ hexo.extend.filter.register("theme_inject", function (injects) {
     const updatedDate = latestPost.updated.format(
       hexo.config.date_format || "YYYY-MM-DD",
     );
+    console.log(`Latest post updated date: ${updatedDate}`);
 
     // Create a standard NexT menu item structure
     const htmlContent = `
