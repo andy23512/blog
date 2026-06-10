@@ -2,7 +2,7 @@
 title: Tangent's suggestions for learning English character entry on CharaChorder 3D input devices
 description: Tangent shares his suggestions for learning English character entry on CharaChorder 3D input devices (CharaChorder One, CharaChorder Two, CCU, and Master Forge).
 date: 2025-06-30T11:38:13.283Z
-updated: 2026-06-06T10:11:25.815Z
+updated: 2026-06-10T04:14:24.365Z
 categories: [Article, Language]
 alias:
   - /2025/06/28/tangent-s-suggestions-for-learning-english-character-entry-on-charachorder-3d-input-devices/
@@ -39,7 +39,7 @@ gantt
   - You can recall where any key is without any visual guide.
   
 {% collapsecard "Explanations" %}
-[Anki](https://apps.ankiweb.net/) offers a feature called [Image Occlusion](https://docs.ankiweb.net/editing.html?highlight=image#image-occlusion). Download the default layout image ([CC1/2/U](https://docs.charachorder.com/_images/CCEnglish2.png) or [Master Forge](https://docs.charachorder.com/_images/M4-Layout.png)) and create cards that hide specific parts of the layout to help you memorize it. I also made a deck for the letter keys on the default layout, and you can [access it here](https://ankiweb.net/shared/info/1396809787).
+[Anki](https://apps.ankiweb.net/) offers a feature called [Image Occlusion](https://docs.ankiweb.net/editing.html?highlight=image#image-occlusion). Download the default layout image ([CC1/2/U](https://docs.charachorder.com/_images/CCEnglish2.png) or [Master Forge](https://docs.charachorder.com/_images/M4-Layout.png)) and create cards that hide specific parts of the layout to help you memorize it. I also made a deck for the letter keys on the default layout, and you can [access it here](https://github.com/andy23512/setting-files/raw/refs/heads/master/CharaChorder/Anki/CharaChorder%203D%20Input%20Device%20-%20Default%20Layout%20-%20Letter%20Keys.apkg).
 
 Air typing involves mimicking typing gestures with your fingers, either in the air, on a table, or even on your hand or leg. The practice tool I developed, [Alnitak](https://andy23512.github.io/alnitak), also features an air mode setting. It automatically advances lessons at the speed you set, allowing you to follow along and move your fingers as if typing on a real device.
 
