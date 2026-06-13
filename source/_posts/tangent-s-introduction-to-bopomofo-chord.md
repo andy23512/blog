@@ -12,7 +12,7 @@ alias:
   - /2024/09/16/tangent-s-introduction-to-bopomofo-chord/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.gitlab.io/blog-zh-tw/tangent-對注音和弦的介紹/
+    path: https://andy23512.github.io/blog-zh-tw/tangent-對注音和弦的介紹/
 hackMDUrl: https://hackmd.io/@andy23512/rywyCLGa0
 ---
 

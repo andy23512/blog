@@ -12,7 +12,7 @@ alias:
   - /2023/05/10/tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.gitlab.io/blog-zh-tw/tangent-在-charachorder-one-上的注音輸入鍵盤佈局/
+    path: https://andy23512.github.io/blog-zh-tw/tangent-在-charachorder-one-上的注音輸入鍵盤佈局/
 hackMDUrl: https://hackmd.io/@andy23512/HJRUbUH4n
 ---
 {% blockquote %}

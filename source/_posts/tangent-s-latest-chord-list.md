@@ -12,7 +12,7 @@ alias:
   - /2024/03/16/tangent-s-latest-chord-list/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.gitlab.io/blog-zh-tw/tangent-的最新和弦列表/
+    path: https://andy23512.github.io/blog-zh-tw/tangent-的最新和弦列表/
 hackMDUrl: https://hackmd.io/@andy23512/BJ-I7kx0T
 ---
 {% blockquote %}

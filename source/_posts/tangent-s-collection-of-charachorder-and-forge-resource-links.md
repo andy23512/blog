@@ -2,7 +2,7 @@
 title: Tangent's Collection of CharaChorder and Forge Resource Links
 description: Tangent collects some links to useful resources related to CharaChorder / Forge in this note.
 date: 2023-03-29T13:16:09.346Z
-updated: 2026-06-10T04:35:47.691Z
+updated: 2026-06-13T01:00:09.411Z
 categories: [Note, Resource]
 alias:
   - /2023/03/27/tangent-s-collection-of-charachorder-and-forge-resource-links/
@@ -12,7 +12,7 @@ alias:
   - /2023/03/31/tangent-s-collection-of-charachorder-and-forge-resource-links/
 otherLanguages:
   - text: 繁體中文版
-    path: https://andy23512.gitlab.io/blog-zh-tw/tangent-的-charachorder-和-forge-資源連結收集/
+    path: https://andy23512.github.io/blog-zh-tw/tangent-的-charachorder-和-forge-資源連結收集/
 hackMDUrl: https://hackmd.io/@andy23512/HJWXq3-Z2
 ---
 {% blockquote %}
@@ -210,7 +210,7 @@ GitHub Repo: https://github.com/typing-tech/monkeytype
 #### Blog
 
 - [My CharaChorder and Forge Note List at HackMD](https://hackmd.io/@andy23512/B1e97aNl0)
-- [My Blog](https://andy23512.gitlab.io/blog/) (A mirror site of my HackMD notes)
+- [My Blog](https://andy23512.github.io/blog/) (A mirror site of my HackMD notes)
 
 #### Anki Deck
 
