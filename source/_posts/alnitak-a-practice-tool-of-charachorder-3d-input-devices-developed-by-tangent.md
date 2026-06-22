@@ -2,7 +2,7 @@
 title: Alnitak - a practice tool of CharaChorder 3D input devices developed by Tangent
 description: Tangent introduces Alnitak, the unofficial practice tool for CharaChorder 3D input devices that he developed, in this article.
 date: 2024-05-01T11:10:38.698Z
-updated: 2026-04-24T10:57:22.405Z
+updated: 2026-06-22T10:00:24.398Z
 categories: [Article, Creation]
 alias:
   - /2024/04/29/alnitak-a-practice-tool-of-charachorder-3d-input-devices-developed-by-tangent/
@@ -35,7 +35,7 @@ hackMDUrl: https://hackmd.io/@andy23512/SywN7okfC
 - Device Layout View
   - only show the labels of keys in the current lesson
   - highlight the current key(s) required to type out the character
-  - can load the custom layout from a file (backup file from device manager website) or directly from a input device
+  - can load the custom layout from a file (backup file from device manager website) or directly from an input device
 - Widgets
   - combo counter that counts the number of consecutive correct keystrokes
   - speedometer that shows the current typing speed
@@ -79,7 +79,7 @@ The color of the meter chunk and the speed number are also changed in the same w
 
 ### Layout song
 
-Four days ago (2025-12-02), I watched a video. It was an AI-generated anime meme song in Taiwanese Hokkien (i.e., Taiwanese dialect). I was amazed by how well AI can generate music now. Later, I had an idea. How about using AI to make a song to help users memorize the default layout? It would definitely make learning more fun, since we've learnt many things with songs in our childhood, like The Alphabet Song, "Do-Re-Mi", etc.
+Four days ago (2025-12-02), I watched a video. It was an AI-generated anime meme song in Taiwanese Hokkien. I was amazed by how well AI can generate music now. Later, I had an idea. How about using AI to make a song to help users memorize the default layout? It would definitely make learning more fun, since we've learnt many things with songs in our childhood, like The Alphabet Song, "Do-Re-Mi", etc.
 
 First, I started with the lyrics. I made a layout image with only letter keys and sent the prompt "Generate a song that helps me memorize this device layout of a 3D input device" with the image attached to several LLMs. I chose the result of Kimi K2 Thinking because it was the only one that used words to link the keys together, such as "A Tall Ninja Jumps, Yes Sir!" for the "A-T-L-N-J-Y-S" keys at the top right of the default layout.
 
