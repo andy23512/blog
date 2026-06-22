@@ -2,7 +2,7 @@
 title: Chara - a chord practice tool of CharaChorder 3D input devices developed by Tangent
 description: Tangent introduces Chara, the unofficial chord practice tool for CharaChorder 3D input devices that he developed, in this article.
 date: 2026-06-22T00:47:21.055Z
-updated: 2026-06-22T10:27:23.009Z
+updated: 2026-06-22T11:37:11.905Z
 categories: [Article, Creation]
 alias:
   - /2026/06/20/chara-a-chord-practice-tool-of-charachorder-3d-input-devices-developed-by-tangent/
@@ -26,7 +26,7 @@ hackMDUrl: https://hackmd.io/@andy23512/SkWQUWUGMg
 
 - [Chara](https://andy23512.github.io/chara/)
 - [GitHub](https://github.com/andy23512/chara)
-- <a href="{% post_path tangent-s-suggestion-for-learning-english-chorded-entry-on-charachorder-devices %}#Whats-CHARA-cycle">CHARA cycle</a>
+- <a href="{% post_path tangent-s-suggestion-for-learning-english-chorded-entry-on-charachorder-devices %}#What-is-CHARA-cycle">CHARA cycle</a>
 
 ## Features
 

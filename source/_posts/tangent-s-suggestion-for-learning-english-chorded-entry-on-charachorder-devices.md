@@ -2,7 +2,7 @@
 title: Tangent's suggestion for learning English chorded entry on CharaChorder devices
 description: Tangent shares his suggestions for learning chorded entry on CharaChorder device.
 date: 2026-01-25T00:40:11.664Z
-updated: 2026-06-21T13:47:41.704Z
+updated: 2026-06-22T11:38:03.277Z
 categories: [Article, Chord]
 alias:
   - /2026/01/23/tangent-s-suggestion-for-learning-english-chorded-entry-on-charachorder-devices/
@@ -93,7 +93,7 @@ Unlike for character entry, where you can type out almost all the words after yo
 
 Since there is no clear destination for learning chord progressions, I introduce a learning cycle, called the “CHARA”, to become familiar with a small set of chords at a time.
 
-### What's CHARA cycle?
+### What is CHARA cycle?
 
 ```mermaid
 flowchart LR
