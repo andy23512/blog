@@ -2,7 +2,7 @@
 title: Tangent's Collection of CharaChorder Tips
 description: Tangent collect some tips from himself, CharaChorder Discord server and other related website in this note.
 date: 2025-11-26T12:42:54.546Z
-updated: 2026-05-02T15:36:50.600Z
+updated: 2026-06-25T00:42:16.713Z
 categories: [Note, Resource]
 alias:
   - /2025/11/24/tangent-s-collection-of-charachorder-tips/
@@ -42,7 +42,8 @@ By default, the layout viewer shows the CC1/CC2 default layout. If your device i
 
 Some symbols may be complex to type because you need to hold down both Num-Shift and Shift. You can remap these keys to locations that are easier for you to reach. For example, you could swap the number keys on one side of the numeric layer with their corresponding symbol keys.
 
-![image](/blog/images/B11CXHd--e.png)
+{% collapsecard "Layout example" %}  ![image](/blog/images/B11CXHd--e.png)
+{% endcollapsecard %}
 
 ### Layer shift, lock and rotator
 
