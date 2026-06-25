@@ -2,7 +2,7 @@
 title: Tangent's suggestion for learning English chorded entry on CharaChorder devices
 description: Tangent shares his suggestions for learning chorded entry on CharaChorder device.
 date: 2026-01-25T00:40:11.664Z
-updated: 2026-06-22T11:38:03.277Z
+updated: 2026-06-25T16:05:11.695Z
 categories: [Article, Chord]
 alias:
   - /2026/01/23/tangent-s-suggestion-for-learning-english-chorded-entry-on-charachorder-devices/
@@ -92,6 +92,8 @@ If you already have good muscle memory for a chord, I suggest not changing it wh
 Unlike for character entry, where you can type out almost all the words after you learn all the letter keys, the number of words and phrases you use chord entry to type is much larger, and it will progressively increase.
 
 Since there is no clear destination for learning chord progressions, I introduce a learning cycle, called the “CHARA”, to become familiar with a small set of chords at a time.
+
+According to the learning cycle, I have also developed a chord practice tool with the same name, and you can check out [the practice tool](https://andy23512.github.io/chara/) or <a href="{% post_path chara-a-chord-practice-tool-of-charachorder-3d-input-devices-developed-by-tangent %}">the article about it</a>.
 
 ### What is CHARA cycle?
 
