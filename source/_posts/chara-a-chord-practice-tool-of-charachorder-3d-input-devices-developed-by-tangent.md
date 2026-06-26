@@ -2,7 +2,7 @@
 title: Chara - a chord practice tool of CharaChorder 3D input devices developed by Tangent
 description: Tangent introduces Chara, the unofficial chord practice tool for CharaChorder 3D input devices that he developed, in this article.
 date: 2026-06-22T00:47:21.055Z
-updated: 2026-06-22T11:50:29.283Z
+updated: 2026-06-26T11:53:08.669Z
 categories: [Article, Creation]
 alias:
   - /2026/06/20/chara-a-chord-practice-tool-of-charachorder-3d-input-devices-developed-by-tangent/
@@ -67,3 +67,4 @@ Unlike Alnitak, the visual guide on Chara doesn’t have a text label. This is i
 - Internationalization (i18n) Library: [ngx-translate](https://ngx-translate.org/)
 - Loading Bar: [ngx-loading-bar](https://aitboudad.github.io/ngx-loading-bar/)
 - Table Module: [AG Grid](https://www.ag-grid.com/)
+- Speedometer Colormap: [colormap](https://www.npmjs.com/package/colormap)
