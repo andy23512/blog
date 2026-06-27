@@ -2,7 +2,7 @@
 title: Tangent's UNOFFICIAL Playlist of CharaChorder and Forge Update Videos
 description: Tangent made a video playlist for the CharaChorder and Forge update videos. This is the note for the video playlist.
 date: 2024-07-30T07:30:32.769Z
-updated: 2026-04-14T22:47:33.431Z
+updated: 2026-06-27T14:09:56.574Z
 categories: [Note, Resource]
 alias:
   - /2024/07/28/tangent-s-unofficial-playlist-of-charachorder-and-forge-update-videos/
@@ -198,6 +198,7 @@ All videos are collected from the sources listed above. NONE of my accounts, my 
 |W94*|[Introducing CC2.1](https://youtu.be/geRvMmrd5n0?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-11-28 05:04:16||
 |W95*|[Joe Rogan Reacts to CharaChorder](https://youtu.be/xKtHFAkxX5Q?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-12-05 12:01:17||
 |W113*|[Our BIGGEST Announcement Ever - CharaChorder is now community owned.](https://youtu.be/6kwy6dXkLqs?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2026-04-14 12:00:16||
+|W123*|[CharaChorder - Official WeFunder Launch Video](https://youtu.be/hDCfRM3jteQ?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2026-06-26 21:00:28||
 
 [^serial]: If "Day XX" or "Week XX" is mentioned in the title or the content of the video, that serial number would be used. Otherwise, it would be decided from the uploaded time and the serial number of adjacent video, and it would be postfixed with a `*`. `D` means day and `W` means week.
 [^timezone]: North American Central Time Zone (CST/CDT) is used.
