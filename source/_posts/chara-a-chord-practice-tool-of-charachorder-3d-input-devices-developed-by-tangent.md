@@ -2,7 +2,7 @@
 title: Chara - a chord practice tool of CharaChorder 3D input devices developed by Tangent
 description: Tangent introduces Chara, the unofficial chord practice tool for CharaChorder 3D input devices that he developed, in this article.
 date: 2026-06-22T00:47:21.055Z
-updated: 2026-06-26T13:44:13.167Z
+updated: 2026-06-28T13:53:50.564Z
 categories: [Article, Creation]
 alias:
   - /2026/06/20/chara-a-chord-practice-tool-of-charachorder-3d-input-devices-developed-by-tangent/
@@ -35,6 +35,7 @@ hackMDUrl: https://hackmd.io/@andy23512/SkWQUWUGMg
   - It can load the chord library and the device layout from an input device.
   - Chords can be bookmarked, so they would have a higher priority for entering the cycle.
   - Chords can be blocked, so they would not appear in any phase.
+  - You can select several chords and enter a custom practice session with them.
 - Adapt, Realize, Accumulate pages
   - They are practice phases aligning with the CHARA cycle⁠.
   - They automatically choose chords from your chord library into the practice cycle.
