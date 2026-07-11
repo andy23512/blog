@@ -2,7 +2,7 @@
 title: Alnitak - a practice tool of CharaChorder 3D input devices developed by Tangent
 description: Tangent introduces Alnitak, the unofficial practice tool for CharaChorder 3D input devices that he developed, in this article.
 date: 2024-05-01T11:10:38.698Z
-updated: 2026-06-22T10:00:24.398Z
+updated: 2026-07-11T07:37:25.513Z
 categories: [Article, Creation]
 alias:
   - /2024/04/29/alnitak-a-practice-tool-of-charachorder-3d-input-devices-developed-by-tangent/
@@ -26,6 +26,11 @@ hackMDUrl: https://hackmd.io/@andy23512/SywN7okfC
 
 - [Alnitak](https://andy23512.github.io/alnitak/)
 - [Github](https://github.com/andy23512/alnitak)
+
+### Alnilam - Companion project for CharaChorder Lite
+
+- [Alnilam](https://andy23512.github.io/alnilam/)
+- [Github](https://github.com/andy23512/alnilam)
 
 ## Features
 
