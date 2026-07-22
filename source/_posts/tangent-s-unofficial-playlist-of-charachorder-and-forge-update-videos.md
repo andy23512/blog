@@ -21,7 +21,7 @@ hackMDUrl: https://hackmd.io/@andy23512/B1WsLGLYC
 - My UNOFFICIAL playlist: [CharaChorder / Forge Update (UNOFFICIAL Playlist)](https://youtube.com/playlist?list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn&feature=shared)
 - CharaChorder's official paylist: [FORGE Development](https://youtube.com/playlist?list=PL5UG1PKtBJF6qldRdf6y9rBcPByl_0HS1&feature=shared)
 
-### Notes
+## Notes
 
 - I regard the video [ChorderCon 2023](https://youtu.be/fux9gU3M25E?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn) as #0 update since it's the debut of Forge Keyboard.
 - No video on Day 81, 82 and Week 41. (or I can't find them.)
@@ -44,7 +44,7 @@ hackMDUrl: https://hackmd.io/@andy23512/B1WsLGLYC
   - [The Master Forge: Official Kickstarter Video](https://youtu.be/nW7FGEtWnqE?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)
   - [CharaChorder Two - Official Launch Video](https://youtu.be/tYLHPH9uBXU?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)
 
-### Sources
+## Sources
 
 - [CharaChorder's YouTube channel](https://www.youtube.com/@CharaChorder)
 - [CharaChorder CEO's YouTube channel](https://www.youtube.com/@crash_often)
@@ -54,11 +54,11 @@ hackMDUrl: https://hackmd.io/@andy23512/B1WsLGLYC
 - [CharaChorder CEO's TikTok](https://www.tiktok.com/@rileyfordkeen)
 - [CharaChorder's X](https://x.com/CharaChorder/) 
 
-### Disclaimer
+## Disclaimer
 
 All videos are collected from the sources listed above. NONE of my accounts, my channel, my playlist is affiliated, associated, authorized, endorsed by, or in any way officially connected with CharaChorder. The official CharaChorder and Forge Keyboard website can be found at https://www.charachorder.com/ and https://forgekeyboard.com/.
 
-### Video List
+## Video List
 
 |#[^serial]|YouTube Video|Upload Time[^timezone]|Backup[^backup]|
 |-|-|-|-|

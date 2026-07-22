@@ -20,7 +20,6 @@ hackMDUrl: https://hackmd.io/@andy23512/ByE7wEMCle
 :information_source: Disclaimer: These extensions are not affiliated, associated, authorized, endorsed by, or in any way officially connected with CharaChorder, Keybr or Monkeytype.
 {% endblockquote %}
 
-
 ## Link
 
 ### Keybr CC Extension

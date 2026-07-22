@@ -16,7 +16,6 @@ otherLanguages:
     path: https://andy23512.github.io/blog-zh-tw/tangent-的-charachorder-one、charachorder-two-和-master-forge-使用歷程/
 hackMDUrl: https://hackmd.io/@andy23512/BkUQx7uU2
 ---
-
 ## 1. How I Meet CharaChorder One (CC1)
 
 Last year (2022) some pain occurred sometimes on my index fingers and wrists, and I found out the main problem was the keyboard. I have relatively small hands so I need to move my entire hand to type on a normal keyboard, and keys are hit mostly by my index fingers. It's nearly impossible to change these 20+ years of bad typing habits, so I thought a possible way is changing the keyboard! I did some searches such as `no hand keyboard`, and `carpal tunnel keyboard` at that time, and I found the **One** with the keyword `fastest keyboard` at a news site.

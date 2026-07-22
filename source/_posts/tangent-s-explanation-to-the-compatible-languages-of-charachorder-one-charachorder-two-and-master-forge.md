@@ -16,7 +16,6 @@ otherLanguages:
     path: https://andy23512.github.io/blog-zh-tw/tangent-對-charachorder-one、charachorder-two-和-master-forge-的相容語言的說明/
 hackMDUrl: https://hackmd.io/@andy23512/B116kIdAC
 ---
-
 ## TL;DR
 
 1. A normal keyboard sends the scancodes of the keystrokes, and the operating system transforms them into the actual characters according to the keyboard layout settings on it. That's how a normal keyboard can support the input languages supported by the operating system.

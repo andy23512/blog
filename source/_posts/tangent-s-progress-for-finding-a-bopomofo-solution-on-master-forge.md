@@ -16,7 +16,6 @@ otherLanguages:
     path: https://andy23512.github.io/blog-zh-tw/tangent-尋找在-master-forge-上的注音輸入方式的歷程/
 hackMDUrl: https://hackmd.io/@andy23512/r1tvdWQ1R
 ---
-
 ## (Not used) Approach 1: Adaptation from TanChord 41 Bopomofo
 
 Master Forge (M4G), the successor of CC1, will not have the thumb3 switches, so it's impossible to directly use TanChord 41 Bopomofo on M4G. And to have all the Bopomofo symbols placed on the home row of M4G, some more non-character keys on the home row have to be sacrificed, or we need to use a whole layer (such as the functional layer) for Bopomofo input.

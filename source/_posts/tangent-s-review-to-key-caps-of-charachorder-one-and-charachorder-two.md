@@ -16,7 +16,6 @@ otherLanguages:
     path: https://andy23512.github.io/blog-zh-tw/tangent-對-charachorder-one-和-charachorder-two-的鍵帽的評價/
 hackMDUrl: https://hackmd.io/@andy23512/H1e7-2y8lg
 ---
-
 ## Preface
 
 Key caps are the parts that we would always touch when using the CharaChorder 3D devices, so they would significantly affect the user experience. Having used CharaChorder One (CC1) with its metal caps and CharaChorder Two (CC2) with its hybrid (plastic + rubber band) caps in both summer and winter weather[^weather], I decided to write a review article for their key caps.

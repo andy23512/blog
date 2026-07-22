@@ -2,6 +2,7 @@ import * as cheerio from "cheerio";
 import { readFileSync, writeFileSync } from "node:fs";
 import puppeteer from "puppeteer";
 import { NoteTableEntry } from "../model/note-table-entry.model.js";
+import { siteConfig } from "../site.config.js";
 
 const config: { noteTableUrl: string } = JSON.parse(
   readFileSync("./config.json", { encoding: "utf8" })
@@ -34,16 +35,18 @@ const noteTableData: NoteTableEntry[] = [];
 rows.each((_, row) => {
   const cells = $(row).find("td");
   const category = cells.eq(0).text().trim();
-  if (!["Note", "Article"].includes(category)) {
+  if (!siteConfig.noteCategories.includes(category)) {
     return;
   }
+  // Each edition's sheet lists its own note in column 2 and the translated one
+  // in column 4, so the same column indices work for both.
   const data: NoteTableEntry = {
-    category: cells.eq(0).text().trim(),
+    category,
     subCategory: cells.eq(1).text().trim(),
-    enNoteUrl: extractNoteUrlFromGoogleUrl(
+    selfNoteUrl: extractNoteUrlFromGoogleUrl(
       cells.eq(2).find("a").attr("href") as string
     ) as string,
-    zhTwNoteUrl: extractNoteUrlFromGoogleUrl(
+    otherNoteUrl: extractNoteUrlFromGoogleUrl(
       cells.eq(4).find("a").attr("href") as string
     ) as string,
   };

@@ -22,13 +22,13 @@ Although some combinations of OS version and CCOS version might not have this pr
 
 Still actively collecting the related information of this waking-up issue from the Internet. If you have any useful information, especially some working / not working environments with Windows or Linux platforms, please contact me via Discord (Tangent Chang, @andy23512).
 
-### Other things to try for troubleshooting
+## Other things to try for troubleshooting
 
-#### Check if related wake-up or power settings in your computer are correctly configured
+### Check if related wake-up or power settings in your computer are correctly configured
 
-##### Windows
+#### Windows
 
-###### OS setting - Allow this device to wake the computer
+##### OS setting - Allow this device to wake the computer
 
 - **Open Device Manager**: Right-click the Start button (Windows icon) and select "Device Manager".
 - **Locate Your Device**: Expand the "Keyboards" category.
@@ -37,25 +37,25 @@ Still actively collecting the related information of this waking-up issue from t
 - **Enable Wake Feature**: Check the box next to "Allow this device to wake the computer".
 - **Confirm**: Click OK to save the changes. 
 
-###### BIOS setting - "Wake on USB," "USB Power Delivery," or "PCIe Devices Power On"
+##### BIOS setting - "Wake on USB," "USB Power Delivery," or "PCIe Devices Power On"
 
-#### Upgrade OS version
+### Upgrade OS version
 
-#### Upgrade CCOS version (also try beta)
+### Upgrade CCOS version (also try beta)
 
-#### Try a different USB port or hub.
+### Try a different USB port or hub.
 
-#### (Mac) Reset SMC
+### (Mac) Reset SMC
 
-### My tries
+## My tries
 
-#### Windows
+### Windows
 
 * Windows PC (Windows 10 22H2) with my CC2 (CCOS 3.0.0-gamma.4)
   * Any keystrokes on my CC2 cannot wake up the PC when the PC is sleeping.
   * My CC2 is not waked up after the PC is waked up, and works again after unpluging and repluging
 
-#### Mac
+### Mac
 
 * On my Mac Mini with the latest MacOS (26 Tahoe), when the computer is sleeping, a keystroke on my CC2 (CCOS 2.1.0) can wake it up without problem.
 * Previously, on my Mac Pro with previous MacOS versions (<=25), the computer could not wake up with any keystrokes on my CC1 or CC2.
@@ -70,13 +70,13 @@ Still actively collecting the related information of this waking-up issue from t
 |MacBook Pro|26|CC2|2.1.0|USB-C Hub|:x:|
 |MacBook Pro|26|CC2|3.0.0-gamma.4|USB-C Hub|<div class="check"></div>|
 
-### Related Information
+## Related Information
 
-#### Windows
+### Windows
 
 * [Enable or Disable Device to Wake Computer in Windows 11](https://www.elevenforum.com/t/enable-or-disable-device-to-wake-computer-in-windows-11.6964/)
 
-#### Mac
+### Mac
 
 * [Power on USB ports after sleeping mode](https://discussions.apple.com/thread/251131637?sortBy=rank)
 * [Fixing USB disconnects on sleep on macOS](https://tosbourn.com/usb-disconnects-macos/)

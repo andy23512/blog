@@ -16,7 +16,6 @@ otherLanguages:
     path: https://andy23512.github.io/blog-zh-tw/tangent-為-charachorder-one、charachorder-two-和-master-forge-取名字/
 hackMDUrl: https://hackmd.io/@andy23512/SJlMDilFA
 ---
-
 ## Preface
 
 In my place, if a product that doesn't have an official or general Chinese name, we often use the original name no matter what language it is in, so I may still call CharaChorder One, CharaChorder Two and Master Forge when I introduce the devices to others. But I think it would be interesting to give them a Chinese name on my own.

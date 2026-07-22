@@ -16,7 +16,6 @@ otherLanguages:
     path: https://andy23512.github.io/blog-zh-tw/tangent-對-charachorder-one-的評價/
 hackMDUrl: https://hackmd.io/@andy23512/rJJQ3D0tA
 ---
-
 ## Preface
 
 I received my first CC1 almost two years ago. (2022/09/13. I started to write this article on 2024/08/05.) I've spent much time on CC1, practicing typing and chording, finding solutions for using the Bopomofo input method to type Chinese, and finally working daily with CC1. Since the next device, M4G is coming soon, I think it's a good time to write a review for CC1.

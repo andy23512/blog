@@ -22,7 +22,6 @@ hackMDUrl: https://hackmd.io/@andy23512/H1LpamlW-e
 
 ![localhost_4300_](/blog/images/SkO7J4xbZl.png)
 
-
 ## Links
 
 - [TanChord Code](https://andy23512.github.io/tccode/)

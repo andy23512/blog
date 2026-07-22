@@ -16,7 +16,6 @@ otherLanguages:
     path: https://andy23512.github.io/blog-zh-tw/tangent-對-charachorder-two-的評價/
 hackMDUrl: https://hackmd.io/@andy23512/BkJDa4xLkg
 ---
-
 ## Preface
 
 I switched from CC1 to CC2 two days ago (2024/12/28. I started writing this article on 2024/12/30). Though I had only used CC2 briefly, I could sense many improvements in this upgrade, so I decided to start writing a review for CC2.

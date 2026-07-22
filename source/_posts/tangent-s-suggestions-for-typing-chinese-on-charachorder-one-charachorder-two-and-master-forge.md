@@ -16,7 +16,6 @@ otherLanguages:
     path: https://andy23512.github.io/blog-zh-tw/tangent-對在-charachorder-one、charachorder-two-或-master-forge-上打中文的建議/
 hackMDUrl: https://hackmd.io/@andy23512/Hy0-7a7dA
 ---
-
 ## TL;DR
 
 - No device layout and IME modification + Built-in[^built_in]

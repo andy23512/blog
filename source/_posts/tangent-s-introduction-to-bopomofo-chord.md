@@ -16,7 +16,6 @@ otherLanguages:
     path: https://andy23512.github.io/blog-zh-tw/tangent-對注音和弦的介紹/
 hackMDUrl: https://hackmd.io/@andy23512/rywyCLGa0
 ---
-
 ## Preface
 
 I found that it's quite hard to search things on the internet with English about Bopomofo chord mentioned in my other articles. Maybe there is no official or general translation for this thing, so I decided to write this article to explain Bopomofo chord in detail.

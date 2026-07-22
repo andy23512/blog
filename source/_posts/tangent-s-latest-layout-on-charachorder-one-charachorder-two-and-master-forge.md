@@ -16,7 +16,6 @@ otherLanguages:
     path: https://andy23512.github.io/blog-zh-tw/tangent-在-charachorder-one、charachorder-two-和-master-forge-上的最新佈局/
 hackMDUrl: https://hackmd.io/@andy23512/rJrX6HEWJe
 ---
-
 ## Preface
 
 I wrote two articles about <a href="{% post_path tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one %}">how I designed the layout for Bopomofo input method on CC1</a> and <a href="{% post_path tangent-s-progress-for-finding-a-bopomofo-solution-on-master-forge %}">M4G</a>. They are like progress notes for my layout, including what problems I faced and how I solved them.

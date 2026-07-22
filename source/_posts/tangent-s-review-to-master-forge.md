@@ -16,7 +16,6 @@ otherLanguages:
     path: https://andy23512.github.io/blog-zh-tw/tangent-對-master-forge-的評價/
 hackMDUrl: https://hackmd.io/@andy23512/SJaiz3eLgl
 ---
-
 ## Preface
 
 I received my Master Forge (M4G) on March 5, 2025. I've learned how to use M4G now (I started writing this article with my M4G on July 13, 2025).

@@ -18,7 +18,6 @@ hackMDUrl: https://hackmd.io/@andy23512/HJMlcmSy1l
 ---
 Note: You could also check [the FAQ on the official CharaChorder document](https://docs.charachorder.com/FAQs.html).
 
-
 ## All (Master Forge and CharaChorder One/Two)
 
 ### Design of default layout

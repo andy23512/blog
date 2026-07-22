@@ -48,7 +48,7 @@ Notice:
   * GTM Immortalization
   * Digitizer Exoskeleton signed by Riley Keen, Founder and CEO of CharaChorder
 
-### References
+## References
 
 - [Screenshot of Master Forge product page (Pre-KS Preorder)](https://discord.com/channels/861730583092658206/1176366370678653010/1278000103965200384)
 - Screenshot of Master Forge product page at 2024/10/10 (Post-KS Preorder)

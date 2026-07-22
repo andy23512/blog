@@ -20,7 +20,6 @@ hackMDUrl: https://hackmd.io/@andy23512/B1rzK9qP1e
    :information_source: [The official CharaChorder Speed Tracker is here.](https://docs.google.com/spreadsheets/d/1LYi3Y6Ombi1V5bWt-75SnHn9ONvl1KOFugYUBTVNgjM/edit?gid=0#gid=0)
 {% endblockquote %}
 
-
 ## Preface
 
 Curious about the real learning curve of Charachorder devices, I try to mine data from the share-your-progress channel of the CharaChorder Discord server and summarize them into charts and tables below.

@@ -16,7 +16,6 @@ otherLanguages:
     path: https://andy23512.github.io/blog-zh-tw/tangent-的輸入裝置周邊配件和軟體應用程式/
 hackMDUrl: https://hackmd.io/@andy23512/HyY_ewOByl
 ---
-
 ## Accessories
 
 ### Hand Protection

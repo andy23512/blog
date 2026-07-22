@@ -69,9 +69,9 @@ Notice:
 | **Quietness Ranking**                                         | 4th                                                                                                                                  | N/A[^ccu_externals_dependence]                                                                                 | 1st    | 2nd                                                                                 | 3rd                                                                                 | ???                                                                                | N/A[^ccx_dependence]                                                                          | ???                                           | ???                                  |
 |**LED**|<div class="check"></div>|:x:|:x:|:x:|:x:|<div class="check"></div>|:x:|:x:|???|
 
-### References
+## References
 
-#### CharaChorder and Forge
+### CharaChorder and Forge
 
 - ["Master Forge: Specs Reveal" Video](https://youtu.be/x2swE9URxeA?feature=shared)
 - [CC2 Product Page](https://www.charachorder.com/products/cc2)
@@ -80,7 +80,7 @@ Notice:
 - [CharaChorder Official Documentation](https://docs.charachorder.com)
 - [CharaChorder Discord Server](https://discord.gg/charachorder)
 
-#### Svalboard
+### Svalboard
 
 - [Svalboard Product Page](https://svalboard.com/products/lightly)
 - [Svalboard Manual](https://docs.google.com/document/d/1Um4EAIK-GLQGw-9xHUFe-aCtHJDENYUSzhcqQi9ppwU/edit?tab=t.0)

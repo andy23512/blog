@@ -20,7 +20,6 @@ hackMDUrl: https://hackmd.io/@andy23512/HJRUbUH4n
 :information_source: For anyone who would like to know what Bopomofo or Zhuyin is, here is [an article](https://speechling.com/blog/the-ultimate-guide-to-zhuyin-bopomofo-and-how-to-learn-it/) with a detailed explanation.
 {% endblockquote %}
 
-
 ## Bopomofo Layout on CharaChorder One (CC1)
 
 In this section, I will explain some existing Bopomofo layouts and their problems with CC1 first, and then the design, implementation, and updates of my Bopomofo layout.

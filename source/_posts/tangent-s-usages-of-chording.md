@@ -16,7 +16,6 @@ otherLanguages:
     path: https://andy23512.github.io/blog-zh-tw/tangent-的和弦用法/
 hackMDUrl: https://hackmd.io/@andy23512/H1OmcBzfye
 ---
-
 ## Preface
 
 Several types of chords can be used under the combinations of CC1 and my Bopomofo input method, and they may conflict with each other when they share the same key set. In this article, I would explain each type of chord and how I prevent the conflict between them.

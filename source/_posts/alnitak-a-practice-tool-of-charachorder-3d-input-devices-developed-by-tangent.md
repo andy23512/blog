@@ -22,7 +22,6 @@ hackMDUrl: https://hackmd.io/@andy23512/SywN7okfC
 
 ![截圖 2025-02-19 23.15.27](/blog/images/HJR3BOX51l.png)
 
-
 ## Links
 
 - [Alnitak](https://andy23512.github.io/alnitak/)

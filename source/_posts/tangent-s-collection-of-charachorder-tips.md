@@ -16,7 +16,6 @@ otherLanguages:
     path: https://andy23512.github.io/blog-zh-tw/tangent-的-charachorder-秘訣收集/
 hackMDUrl: https://hackmd.io/@andy23512/HJvCHdEWZl
 ---
-
 ## Preface
 
 This note collects many CharaChorder tips. Most of them are from the CharaChorder Discord server.
