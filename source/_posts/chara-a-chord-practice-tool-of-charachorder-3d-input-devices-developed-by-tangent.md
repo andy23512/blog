@@ -12,6 +12,7 @@ alias:
   - /2026/06/24/chara-a-chord-practice-tool-of-charachorder-3d-input-devices-developed-by-tangent/
 otherLanguages:
   - text: 繁體中文版
+    lang: zh-TW
     path: https://andy23512.github.io/blog-zh-tw/chara-常陳四-tangent-所開發的-charachorder-3d-輸入裝置和弦練習工具/
 hackMDUrl: https://hackmd.io/@andy23512/SkWQUWUGMg
 ---

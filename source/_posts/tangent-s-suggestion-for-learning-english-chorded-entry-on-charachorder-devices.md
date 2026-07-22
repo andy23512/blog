@@ -12,6 +12,7 @@ alias:
   - /2026/01/27/tangent-s-suggestion-for-learning-english-chorded-entry-on-charachorder-devices/
 otherLanguages:
   - text: 繁體中文版
+    lang: zh-TW
     path: https://andy23512.github.io/blog-zh-tw/tangent-對學習使用-charachorder-輸入裝置英文和弦輸入的建議/
 hackMDUrl: https://hackmd.io/@andy23512/SkNOUJQ8-x
 ---

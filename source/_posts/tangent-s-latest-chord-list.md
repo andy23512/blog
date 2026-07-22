@@ -12,6 +12,7 @@ alias:
   - /2024/03/16/tangent-s-latest-chord-list/
 otherLanguages:
   - text: 繁體中文版
+    lang: zh-TW
     path: https://andy23512.github.io/blog-zh-tw/tangent-的最新和弦列表/
 hackMDUrl: https://hackmd.io/@andy23512/BJ-I7kx0T
 ---
@@ -23,7 +24,7 @@ P.S. 1: The :no_entry_sign: in the chord output is the [KSC_00] action, which is
 P.S. 2: The latest backup file of my chords is at [this url](https://raw.githubusercontent.com/andy23512/setting-files/master/CharaChorder/chords.json).
 P.S. 3: FSE = Full-stack engineer, CS = customer service
 
-### Current chords
+## Current chords
 
 |Input|Output|Description|
 |-|-|-|
@@ -57,7 +58,7 @@ P.S. 3: FSE = Full-stack engineer, CS = customer service
 |v+i|viewer|"viewer" is a frequently used word in my FSE work.|
 |w+r|Warranty Replacement|It a frequently used term in my CS work.|
 
-### Abandoned chords
+## Abandoned chords
 
 |Input|Output|Description|
 |-|-|-|

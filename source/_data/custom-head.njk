@@ -1,0 +1,21 @@
+{#- Tell search engines that the two language editions of a post are the same
+    content, so a reader searching in one language is not served the other. -#}
+{%- if page.otherLanguages and page.otherLanguages.length %}
+  {%- set self_url = full_url_for(page.path) %}
+  <link rel="alternate" hreflang="{{ config.language }}" href="{{ self_url }}">
+  {%- for lang in page.otherLanguages %}
+    {%- if lang.lang %}
+  <link rel="alternate" hreflang="{{ lang.lang }}" href="{{ lang.path }}">
+    {%- endif %}
+  {%- endfor %}
+  {#- English is the default edition for readers whose language we do not match. -#}
+  {%- if config.language.startsWith('en') %}
+  <link rel="alternate" hreflang="x-default" href="{{ self_url }}">
+  {%- else %}
+    {%- for lang in page.otherLanguages %}
+      {%- if lang.lang and lang.lang.startsWith('en') %}
+  <link rel="alternate" hreflang="x-default" href="{{ lang.path }}">
+      {%- endif %}
+    {%- endfor %}
+  {%- endif %}
+{%- endif %}

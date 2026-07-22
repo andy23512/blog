@@ -12,6 +12,7 @@ alias:
   - /2024/08/01/tangent-s-unofficial-playlist-of-charachorder-and-forge-update-videos/
 otherLanguages:
   - text: 繁體中文版
+    lang: zh-TW
     path: https://andy23512.github.io/blog-zh-tw/tangent-的-charachorder-和-forge-更新影片非官方播放清單/
 hackMDUrl: https://hackmd.io/@andy23512/B1WsLGLYC
 ---

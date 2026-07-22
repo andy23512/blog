@@ -12,6 +12,7 @@ alias:
   - /2024/10/12/tangent-s-bundle-comparison-note-of-master-forge/
 otherLanguages:
   - text: 繁體中文版
+    lang: zh-TW
     path: https://andy23512.github.io/blog-zh-tw/tangent-的-master-forge-套組比較筆記/
 hackMDUrl: https://hackmd.io/@andy23512/BkZKQVrJ1l
 ---

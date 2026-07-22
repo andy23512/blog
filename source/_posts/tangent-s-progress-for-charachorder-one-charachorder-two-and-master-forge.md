@@ -12,6 +12,7 @@ alias:
   - /2023/06/05/tangent-s-progress-for-charachorder-one-charachorder-two-and-master-forge/
 otherLanguages:
   - text: 繁體中文版
+    lang: zh-TW
     path: https://andy23512.github.io/blog-zh-tw/tangent-的-charachorder-one、charachorder-two-和-master-forge-使用歷程/
 hackMDUrl: https://hackmd.io/@andy23512/BkUQx7uU2
 ---

@@ -12,6 +12,7 @@ alias:
   - /2025/01/09/tangent-s-unofficial-master-forge-fulfillment-statistic/
 otherLanguages:
   - text: 繁體中文版
+    lang: zh-TW
     path: https://andy23512.com/blog-zh-tw/tangent-的非官方-master-forge-訂單履行統計/
 ---
 {% blockquote %}

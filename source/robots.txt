@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://andy23512.github.io/blog/sitemap.xml
