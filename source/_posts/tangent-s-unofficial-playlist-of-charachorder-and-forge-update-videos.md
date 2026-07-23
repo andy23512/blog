@@ -2,7 +2,7 @@
 title: Tangent's UNOFFICIAL Playlist of CharaChorder and Forge Update Videos
 description: Tangent made a video playlist for the CharaChorder and Forge update videos. This is the note for the video playlist.
 date: 2024-07-30T07:30:32.769Z
-updated: 2026-07-07T23:46:11.143Z
+updated: 2026-07-23T11:52:36.802Z
 categories: [Note, Resource]
 alias:
   - /2024/07/28/tangent-s-unofficial-playlist-of-charachorder-and-forge-update-videos/
@@ -56,7 +56,7 @@ hackMDUrl: https://hackmd.io/@andy23512/B1WsLGLYC
 
 ## Disclaimer
 
-All videos are collected from the sources listed above. NONE of my accounts, my channel, my playlist is affiliated, associated, authorized, endorsed by, or in any way officially connected with CharaChorder. The official CharaChorder and Forge Keyboard website can be found at https://www.charachorder.com/ and https://forgekeyboard.com/.
+All videos are collected from the sources listed above. NONE of my accounts, my channel, my playlist is affiliated, associated, authorized, endorsed by, or in any way officially connected with CharaChorder. The official CharaChorder website can be found at https://www.charachorder.com/.
 
 ## Video List
 
