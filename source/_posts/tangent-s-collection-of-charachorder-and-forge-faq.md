@@ -2,7 +2,7 @@
 title: Tangent's Collection of CharaChorder and Forge FAQ
 description: Tangent collect some FAQs and their answers from CharaChorder Discord server in this note, so that is easier for management and copy-paste.
 date: 2024-10-10T10:18:17.622Z
-updated: 2026-01-20T11:15:02.248Z
+updated: 2026-07-23T11:30:13.534Z
 categories: [Note, Resource]
 alias:
   - /2024/10/08/tangent-s-collection-of-charachorder-and-forge-faq/
@@ -24,11 +24,9 @@ Note: You could also check [the FAQ on the official CharaChorder document](https
 
 https://docs.charachorder.com/Layout.html#design-of-the-layout
 
-### More layers
+### Layers
 
-CC and Forge devices runs on CCOS, which currently supports 3 layers. However, having more layers is a highly requested feature, so it's very possible that they'll implement more layers in the near future.
-
-==Source:== [Discord message](https://discord.com/channels/861730583092658206/1176366370678653010/1287904186473779322)
+CC and Forge devices runs on CCOS, which currently supports 4 layers. (CCOS >= 3.0.0 and device chipset is not M0.)
 
 ### Compatible languages 
 
@@ -39,7 +37,7 @@ Long answer: You could check out <a href="{% post_path tangent-s-explanation-to-
 
 ### Place to Order Master Forge
 
-Users can order from the product page of [Master Forge](https://forgekeyboard.com/products/master-forge) or [Master Forge Premium](https://forgekeyboard.com/products/master-forge-premium).
+Users can order from the product page of [Master Forge](https://www.charachorder.com/collections/forge-collection/products/master-forge-1) or [Master Forge Premium](https://www.charachorder.com/collections/forge-collection/products/master-forge-premium).
 
 ### Changes of Bundle Between pre Kickstarter, Kickstarter and post Kickstarter
 
