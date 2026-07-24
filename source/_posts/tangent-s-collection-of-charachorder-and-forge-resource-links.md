@@ -2,7 +2,7 @@
 title: Tangent's Collection of CharaChorder and Forge Resource Links
 description: Tangent collects some links to useful resources related to CharaChorder / Forge in this note.
 date: 2023-03-29T13:16:09.346Z
-updated: 2026-07-11T07:48:30.345Z
+updated: 2026-07-24T12:16:37.366Z
 categories: [Note, Resource]
 alias:
   - /2023/03/27/tangent-s-collection-of-charachorder-and-forge-resource-links/
@@ -226,6 +226,7 @@ GitHub Repo: https://github.com/typing-tech/monkeytype
 - [CCOS Meta Viewer](https://andy23512.github.io/ccos-meta-viewer/) - an unofficial data viewer for the official CharaChorder Firmware Meta API
 - [CharaChronus](https://andy23512.github.io/chara-chronus/) - an unofficial chronicle for CharaChorder
 - [Chara](https://andy23512.github.io/chara/) - an unofficial CharaChorder 3D input device chord practice tool
+- [Castor](https://andy23512.github.io/castor/) - See a CharaChorder device at its real, physical size on your screen
 
 ### Browser Extension
 
