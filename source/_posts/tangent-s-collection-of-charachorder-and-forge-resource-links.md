@@ -2,7 +2,7 @@
 title: Tangent's Collection of CharaChorder and Forge Resource Links
 description: Tangent collects some links to useful resources related to CharaChorder / Forge in this note.
 date: 2023-03-29T13:16:09.346Z
-updated: 2026-07-24T12:16:37.366Z
+updated: 2026-08-04T13:57:19.945Z
 categories: [Note, Resource]
 alias:
   - /2023/03/27/tangent-s-collection-of-charachorder-and-forge-resource-links/
@@ -236,6 +236,10 @@ GitHub Repo: https://github.com/typing-tech/monkeytype
 - Monkeytype CC Extension - An unofficial browser extension that displays the layout of CharaChorder 3D input devices on Monkeytype
   - [Chrome Web Store](https://chromewebstore.google.com/detail/monkeytype-cc-extension/mhfjhmegecimjbohhdbflkhdfnaadple)
   - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/monkeytype-cc-extension/)
+
+### Desktop Application
+
+- [Sirius](https://github.com/andy23512/sirius) - Unofficial cross-platform desktop layout viewer & key tester for CharaChorder 3D
 
 ### Statistics
 
