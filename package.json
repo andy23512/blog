@@ -7,6 +7,7 @@
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
+    "og": "tsx bin/generate-og-image.ts",
     "server": "hexo server -o",
     "start": "tsx bin/fetch-hackmd-notes.ts && tsx bin/fetch-note-table.ts && tsx bin/generate-posts.ts && hexo server -o"
   },

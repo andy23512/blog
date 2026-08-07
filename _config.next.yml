@@ -82,6 +82,8 @@ creative_commons:
 open_graph:
   enable: true
   options:
+    image: https://andy23512.github.io/blog/images/og-image.jpg
+    twitter_card: summary_large_image
     #twitter_card: <twitter:card>
     #twitter_id: <twitter:creator>
     #twitter_site: <twitter:site>

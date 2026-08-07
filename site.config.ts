@@ -17,4 +17,16 @@ export const siteConfig = {
   noteCategories: ["Note", "Article"],
   /** Label for a spoiler block that carries no title of its own. */
   spoilerFallbackTitle: "Show Detail",
+  /**
+   * Site-wide Open Graph image. The JPG is rendered by `yarn og` and committed;
+   * `url` is what the meta tags point at. See bin/generate-og-image.ts.
+   */
+  ogImage: {
+    url: "https://andy23512.github.io/blog/images/og-image.jpg",
+    kicker: "TANGENT CHANG · 🐰📐",
+    title: "Tangent's Blog",
+    titleSize: 92,
+    subtitle: ["Unofficial CharaChorder & Forge", "articles and notes"],
+    footer: "andy23512.github.io/blog",
+  },
 };
