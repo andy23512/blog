@@ -2,7 +2,7 @@
 title: Tangent's Collection of CharaChorder and Forge Resource Links
 description: Tangent collects some links to useful resources related to CharaChorder / Forge in this note.
 date: 2023-03-29T13:16:09.346Z
-updated: 2026-08-08T11:04:06.123Z
+updated: 2026-08-09T09:42:10.201Z
 categories: [Note, Resource]
 alias:
   - /2023/03/27/tangent-s-collection-of-charachorder-and-forge-resource-links/
@@ -228,6 +228,7 @@ GitHub Repo: https://github.com/typing-tech/monkeytype
 - [Chara](https://andy23512.github.io/chara/) - an unofficial CharaChorder 3D input device chord practice tool
 - [Castor](https://andy23512.github.io/castor/) - See a CharaChorder device at its real, physical size on your screen
 - [Formosa](https://andy23512.github.io/formosa/) - an practice tool for Bopomofo chords
+- [Alnasl](https://andy23512.github.io/alnasl/) - an unofficial tool for the bulit-in mouse of CharaChorder 3D input device
 
 ### Browser Extension
 
