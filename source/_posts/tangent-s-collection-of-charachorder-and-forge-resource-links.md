@@ -2,7 +2,7 @@
 title: Tangent's Collection of CharaChorder and Forge Resource Links
 description: Tangent collects some links to useful resources related to CharaChorder / Forge in this note.
 date: 2023-03-29T13:16:09.346Z
-updated: 2026-08-09T09:42:10.201Z
+updated: 2026-08-16T10:37:43.192Z
 categories: [Note, Resource]
 alias:
   - /2023/03/27/tangent-s-collection-of-charachorder-and-forge-resource-links/
@@ -219,16 +219,17 @@ GitHub Repo: https://github.com/typing-tech/monkeytype
 
 ### Web Application
 
-- [Alnitak](https://andy23512.github.io/alnitak/) - an unoffical CharaChorder 3D input device practice tool
+- [Alnasl](https://andy23512.github.io/alnasl/) - an unofficial tool for the bulit-in mouse of CharaChorder 3D input device
 - [Alnilam](https://andy23512.github.io/alnilam/) - an unoffical CharaChorder Lite practice tool
-- [Device Comparator](https://andy23512.github.io/device-comparator/) - an unofficial website for comparing the specs of CharaChorder devices, Master Forge and Svalboard
-- [TanChord Cone (TC Code)](https://andy23512.github.io/tccode/) - an unofficial, experimental code editor for the chord library of CharaChorder device
+- [Alnitak](https://andy23512.github.io/alnitak/) - an unoffical CharaChorder 3D input device practice tool
+- [Arcturus](https://andy23512.github.io/arcturus/) - An unofficial "Your Life in Weeks" style chart that highlights how many weeks of your life you've spent typing with a CharaChorder
 - [CCOS Meta Viewer](https://andy23512.github.io/ccos-meta-viewer/) - an unofficial data viewer for the official CharaChorder Firmware Meta API
+- [Castor](https://andy23512.github.io/castor/) - See a CharaChorder device at its real, physical size on your screen
 - [CharaChronus](https://andy23512.github.io/chara-chronus/) - an unofficial chronicle for CharaChorder
 - [Chara](https://andy23512.github.io/chara/) - an unofficial CharaChorder 3D input device chord practice tool
-- [Castor](https://andy23512.github.io/castor/) - See a CharaChorder device at its real, physical size on your screen
+- [Device Comparator](https://andy23512.github.io/device-comparator/) - an unofficial website for comparing the specs of CharaChorder devices, Master Forge and Svalboard
 - [Formosa](https://andy23512.github.io/formosa/) - an practice tool for Bopomofo chords
-- [Alnasl](https://andy23512.github.io/alnasl/) - an unofficial tool for the bulit-in mouse of CharaChorder 3D input device
+- [TanChord Cone (TC Code)](https://andy23512.github.io/tccode/) - an unofficial, experimental code editor for the chord library of CharaChorder device
 
 ### Browser Extension
 
