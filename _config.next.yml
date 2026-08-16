@@ -162,6 +162,7 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
+  Star Chart: https://andy23512.github.io/ || fas fa-star
   GitHub: https://github.com/andy23512 || fab fa-github
   LinkedIn: https://www.linkedin.com/in/tangent-chang-a5915586 || fab fa-linkedin
   #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
