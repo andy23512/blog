@@ -2,7 +2,7 @@
 title: Tangent's Collection of CharaChorder and Forge Resource Links
 description: Tangent collects some links to useful resources related to CharaChorder / Forge in this note.
 date: 2023-03-29T13:16:09.346Z
-updated: 2026-08-16T10:37:43.192Z
+updated: 2026-08-16T11:39:38.510Z
 categories: [Note, Resource]
 alias:
   - /2023/03/27/tangent-s-collection-of-charachorder-and-forge-resource-links/
@@ -207,6 +207,10 @@ GitHub Repo: https://github.com/typing-tech/monkeytype
 - ["Key-Test" - keyboard test online](https://en.key-test.ru/)
 
 ## My Resource
+
+### Portal
+
+- [Tangent's Star Chart](https://andy23512.github.io) - An index page linking to all of my unofficial CharaChorder web tools, apps, and extensions
 
 ### Blog
 
