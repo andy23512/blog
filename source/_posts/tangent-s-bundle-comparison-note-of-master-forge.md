@@ -2,7 +2,7 @@
 title: Tangent's Bundle Comparison Note of Master Forge
 description: Tangent collect and compare the content of the Master Forge bundles across different phases.
 date: 2024-10-10T10:59:04.561Z
-updated: 2026-07-23T11:10:51.268Z
+updated: 2026-08-21T01:52:33.862Z
 categories: [Note, Comparison]
 alias:
   - /2024/10/08/tangent-s-bundle-comparison-note-of-master-forge/
@@ -26,20 +26,18 @@ Notice:
 
 |Item|Pre-KS Preorder|[KS - Basic](https://www.kickstarter.com/projects/charachorder/the-master-forge-a-keyboard-built-for-you/rewards#reward-UmV3YXJkLVVtVjNZWEprTFRFd01URXlNRFV5)|[KS - Premium](https://www.kickstarter.com/projects/charachorder/the-master-forge-a-keyboard-built-for-you/rewards#reward-UmV3YXJkLVVtVjNZWEprTFRFd01ETTVNelEx)|[Post-KS Order - Basic](https://www.charachorder.com/collections/forge-collection/products/master-forge-1)|[Post-KS Order - Premium](https://www.charachorder.com/collections/forge-collection/products/master-forge-premium)|
 |-|-|-|-|-|-|
-|Left Digitizer|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
-|Right Digtitizer|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
+|Left & Right Digitizers with rubberized keycaps|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |Electrical Bridge Connector|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |Mechanical Bridge Bolt-On|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |USB-A to USB-C Power Cable [^cable]|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |USB-C to USB-C Cable [^cable]|<div class="check"></div>||<div class="check"></div>||<div class="check"></div>|
 |[Ergo Bolt-On](https://www.charachorder.com/collections/forge-collection/products/forge-ergo-bolt-on-set) (4)|<div class="check"></div>||<div class="check"></div>||<div class="check"></div>|
-|Forge Trackball Bolt-On[^trackball]|<div class="check"></div> (2)||<div class="check"></div> (1)||<div class="check"></div>(1)|
+|Forge Trackball Bolt-On[^trackball]|<div class="check"></div> (2)||<div class="check"></div> (1)|||
 |Tactical Carrying Case|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |[Forge Cleat](https://www.charachorder.com/collections/forge-collection/products/forge-cleat)|<div class="check"></div>||<div class="check"></div>||<div class="check"></div>|
 |M3 Allen Wrench|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |[Original Backer Deskmat](https://www.charachorder.com/collections/forge-collection/products/master-forge-deskmat-1)|<div class="check"></div>||<div class="check"></div>||<div class="check"></div>|
 |Inbuilt Platinum CharaChorder Engine Core|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
-|Digitizer Custom Keycaps (2 Sets)|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |Unlimited Forge CAD Access|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |VIP Membership (2 Years)|<div class="check"></div>||<div class="check"></div>||
 
@@ -55,6 +53,8 @@ Notice:
 ![image](/blog/images/r1gfT9Vry1l.png)
 - Screenshot of Master Forge Premium product page at 2024/10/23 (Post-KS Preorder)
 ![image](/blog/images/B103PELe1x.png)
+- Screenshot of Master Forge Preminm product page at 2026/08/21 on CharaChorder store
+![image](/blog/images/HyMPC7HPGg.png)
 - [Master Forge Kickstarter reward page](https://www.kickstarter.com/projects/charachorder/the-master-forge-a-keyboard-built-for-you/rewards)
 - [Discord message](https://discord.com/channels/861730583092658206/1282698538144497755/1282699704416735272)
 - [Master Forge Official Documentation](https://docs.charachorder.com/Master%20Forge.html#master-forge-configurations)
