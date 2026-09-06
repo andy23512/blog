@@ -1,19 +1,20 @@
 ---
-title: CC Extensions - unofficial extensions that display the layout of CharaChorder 3D input devices on typing websites
+title: CC Extensions - unofficial extensions that display the layout of CharaChorder input devices on typing websites
 description: Tangent introduces CC Extensions, a set of unofficial browser extensions he developed. They can display the layout of CharaChorder input devices on Keybr and Monkeytype.
 date: 2025-10-19T10:02:03.861Z
 updated: 2026-09-06T08:14:09.561Z
 categories: [Article, Creation]
 alias:
-  - /2025/10/17/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-3d-input-devices-on-typing-websites/
-  - /2025/10/18/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-3d-input-devices-on-typing-websites/
-  - /2025/10/19/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-3d-input-devices-on-typing-websites/
-  - /2025/10/20/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-3d-input-devices-on-typing-websites/
-  - /2025/10/21/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-3d-input-devices-on-typing-websites/
+  - /2025/10/17/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-input-devices-on-typing-websites/
+  - /2025/10/18/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-input-devices-on-typing-websites/
+  - /2025/10/19/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-input-devices-on-typing-websites/
+  - /2025/10/20/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-input-devices-on-typing-websites/
+  - /2025/10/21/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-input-devices-on-typing-websites/
+  - /cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-3d-input-devices-on-typing-websites/
 otherLanguages:
   - text: 繁體中文版
     lang: zh-TW
-    path: https://andy23512.github.io/blog-zh-tw/cc-extensions-能使打字網站顯示-charachorder-3d-輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們/
+    path: https://andy23512.github.io/blog-zh-tw/cc-extensions-能使打字網站顯示-charachorder-輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們/
 hackMDUrl: https://hackmd.io/@andy23512/ByE7wEMCle
 ---
 {% blockquote %}
