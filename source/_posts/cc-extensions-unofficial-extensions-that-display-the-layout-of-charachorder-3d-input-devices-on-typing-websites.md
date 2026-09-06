@@ -1,8 +1,8 @@
 ---
 title: CC Extensions - unofficial extensions that display the layout of CharaChorder 3D input devices on typing websites
-description: Tangent introduces CC Extensions, a set of unofficial browser extensions he developed. They can display the layout of CharaChorder 3D input devices (CharaChorder One, CharaChorder Two, and Master Forge) on Keybr and Monkeytype.
+description: Tangent introduces CC Extensions, a set of unofficial browser extensions he developed. They can display the layout of CharaChorder input devices on Keybr and Monkeytype.
 date: 2025-10-19T10:02:03.861Z
-updated: 2026-06-13T00:57:55.229Z
+updated: 2026-09-06T08:14:09.561Z
 categories: [Article, Creation]
 alias:
   - /2025/10/17/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-3d-input-devices-on-typing-websites/
@@ -38,7 +38,7 @@ hackMDUrl: https://hackmd.io/@andy23512/ByE7wEMCle
 
 ## Feature
 
-- Display the device layout of CharaChorder 3D input device on [Keybr](https://www.keybr.com/) or [Monkeytype](https://monkeytype.com/)
+- Display the device layout of CharaChorder input device on [Keybr](https://www.keybr.com/) or [Monkeytype](https://monkeytype.com/)
 - Allow uploading a custom device layout
 - Support changing the position, size and transparency of the device layout
 - Support setting for difference OS keyboard layout
@@ -47,9 +47,9 @@ hackMDUrl: https://hackmd.io/@andy23512/ByE7wEMCle
 
 ### Reason for making these extensions
 
-There are already a few practice tools that show the visual guide of CharaChorder 3D input devices, such as [dot i/o](https://www.iq-eq.io/#/) and [Alnitak](https://andy23512.github.io/alnitak/). These tools provide different strategies for learning the device layout. However, Keybr’s unique learning strategy stands out, which is why many CharaChorder users prefer it. However, there are some users who favor Monkeytype over Keybr.
+There are already a few practice tools that show the visual guide of CharaChorder input devices, such as [dot i/o](https://www.iq-eq.io/#/) and [Alnitak](https://andy23512.github.io/alnitak/). These tools provide different strategies for learning the device layout. However, Keybr’s unique learning strategy stands out, which is why many CharaChorder users prefer it. However, there are some users who favor Monkeytype over Keybr.
 
-To better meet the needs of CharaChorder users, I decided to enable Keybr and Monkeytype to display the layout of CharaChorder 3D input devices.
+To better meet the needs of CharaChorder users, I decided to enable Keybr and Monkeytype to display the layout of CharaChorder input devices.
 
  
 ### Reason for choosing to make a browser extension
