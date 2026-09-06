@@ -1,6 +1,6 @@
 import * as cheerio from "cheerio";
 import moment from "moment";
-import { existsSync, readFileSync, writeFileSync } from "node:fs";
+import { existsSync, readFileSync, unlinkSync, writeFileSync } from "node:fs";
 import { Note } from "../model/hackmd.model.js";
 import { NoteTableEntry } from "../model/note-table-entry.model.js";
 import { siteConfig } from "../site.config.js";
@@ -27,6 +27,12 @@ const rawNotes: Note[] = JSON.parse(
 const noteTableData: NoteTableEntry[] = JSON.parse(
   readFileSync("./res/note-table-data.json", { encoding: "utf8" }),
 );
+// Tracks every slug a note's title has ever produced, keyed by the note's
+// stable publish URL, so a title change can still redirect old links here.
+const slugHistoryPath = "./res/slug-history.json";
+const slugHistory: Record<string, string[]> = existsSync(slugHistoryPath)
+  ? JSON.parse(readFileSync(slugHistoryPath, { encoding: "utf8" }))
+  : {};
 // The note table is the source of truth for which notes belong to this edition.
 // Matching on it also excludes the notebook and note list, which are tagged like
 // the rest but are not posts.
@@ -82,6 +88,18 @@ for (const note of notes) {
     continue;
   }
   const fileName = urlToFileName[url];
+  const slugsForNote = slugHistory[url] ?? [];
+  if (!slugsForNote.includes(fileName)) {
+    slugsForNote.push(fileName);
+  }
+  slugHistory[url] = slugsForNote;
+  const legacySlugs = slugsForNote.filter((slug) => slug !== fileName);
+  for (const legacySlug of legacySlugs) {
+    const legacyPostPath = `source/_posts/${legacySlug}.md`;
+    if (existsSync(legacyPostPath)) {
+      unlinkSync(legacyPostPath);
+    }
+  }
   const markdownFileContent = `---
 title: ${note.title}
 description: ${description}
@@ -89,14 +107,15 @@ date: ${moment(note.createdAt).toISOString()}
 updated: ${moment(note.lastChangedAt).toISOString()}
 categories: [${noteTableEntry.category}, ${noteTableEntry.subCategory}]
 alias:
-${[-2, -1, 0, 1, 2]
-  .map(
+${[
+  ...[-2, -1, 0, 1, 2].map(
     (offset) =>
       moment(note.createdAt).add(offset, "days").format("  - /YYYY/MM/DD/") +
       fileName +
       "/",
-  )
-  .join("\n")}
+  ),
+  ...legacySlugs.map((slug) => `  - /${slug}/`),
+].join("\n")}
 otherLanguages:
   - text: ${siteConfig.otherLanguage.text}
     lang: ${siteConfig.otherLanguage.lang}
@@ -127,4 +146,5 @@ ${replaceNoteUrl(
   writeFileSync(`source/_posts/${fileName}.md`, markdownFileContent);
   written++;
 }
+writeFileSync(slugHistoryPath, `${JSON.stringify(slugHistory, null, 2)}\n`);
 console.log(`${written} post(s) written, ${skipped} note(s) skipped.`);
