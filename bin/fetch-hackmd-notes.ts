@@ -1,10 +1,16 @@
 import fetch from "node-fetch";
-import { readFileSync, writeFileSync } from "node:fs";
+import { existsSync, readFileSync, writeFileSync } from "node:fs";
 import { Note } from "../model/hackmd.model.js";
 
 const token: { hackmd: string } = JSON.parse(
   readFileSync("./token.json", { encoding: "utf8" })
 );
+
+const NOTE_DATA_PATH = "./res/hackmd-note-data.json";
+const existingNotes: Note[] = existsSync(NOTE_DATA_PATH)
+  ? JSON.parse(readFileSync(NOTE_DATA_PATH, { encoding: "utf8" }))
+  : [];
+const existingNoteById = new Map(existingNotes.map((n) => [n.id, n]));
 
 function sleep(ms: number) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -30,10 +36,12 @@ const ccAndForgeNotes = notes.filter(
 );
 const finalNoteData: Note[] = [];
 for (const note of ccAndForgeNotes) {
+  const existing = existingNoteById.get(note.id);
+  if (existing && existing.lastChangedAt === note.lastChangedAt) {
+    finalNoteData.push(existing);
+    continue;
+  }
   const noteWithContent = await callHackMdApi<Note>(`/notes/${note.id}`);
   finalNoteData.push(noteWithContent);
 }
-writeFileSync(
-  "./res/hackmd-note-data.json",
-  JSON.stringify(finalNoteData, null, 2)
-);
+writeFileSync(NOTE_DATA_PATH, JSON.stringify(finalNoteData, null, 2));
