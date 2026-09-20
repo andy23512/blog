@@ -2,7 +2,7 @@
 title: Tangent's progress for finding a Bopomofo solution on Master Forge 
 description: Tangent shares his progress for finding ways to use Bopomofo input method on Master Forge in this article.
 date: 2024-03-28T15:10:24.828Z
-updated: 2025-12-17T22:54:17.859Z
+updated: 2026-09-20T07:36:51.631Z
 categories: [Article, Layout]
 alias:
   - /2024/03/26/tangent-s-progress-for-finding-a-bopomofo-solution-on-master-forge/
@@ -141,6 +141,13 @@ I swapped the mouse scroll switches and mouse movement switches. I felt that usi
 (Numeric layer)
 
 ![localhost_4200_layouts (5)](/blog/images/SJhn45Yf-x.png)
+
+##### V2.5
+
+I need F13 for a custom hot key, so I put it to a remained space, left-thumb2-west.
+
+![localhost-layouts](/blog/images/Byf23WaFzx.png)
+
 
 ## (Not used) Approach 3: Try the 3D presses on M4G
 

@@ -2,7 +2,7 @@
 title: Tangent's Latest Layout on CharaChorder One, CharaChorder Two and Master Forge
 description: Tangent explains his latest layout on CharaChorder One, CharaChorder Two and Master Forge in this article.
 date: 2024-11-03T01:08:44.871Z
-updated: 2026-03-23T11:11:17.432Z
+updated: 2026-09-20T07:42:15.272Z
 categories: [Article, Layout]
 alias:
   - /2024/11/01/tangent-s-latest-layout-on-charachorder-one-charachorder-two-and-master-forge/
@@ -54,9 +54,11 @@ Since the mouse switches on the primary layer are occupied by some non-character
 
 ### Placing Function Keys to Left Half
 
-![localhost_4200_layouts (3)](/blog/images/B1wp0YtMWg.png)
+![localhost-layouts](/blog/images/BkAVRZTKfx.png)
 
 To make the function keys more accessible, I remap them to the left half of the numeric layer.
+
+I need F13 for a custom hot key so I also remap it.
 
 ### Placing Mouse Actions
 
