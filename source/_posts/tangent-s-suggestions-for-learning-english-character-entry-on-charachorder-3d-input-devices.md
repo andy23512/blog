@@ -2,7 +2,7 @@
 title: Tangent's suggestions for learning English character entry on CharaChorder 3D input devices
 description: Tangent shares his suggestions for learning English character entry on CharaChorder 3D input devices (CharaChorder One, CharaChorder Two, CCU, and Master Forge).
 date: 2025-06-30T11:38:13.283Z
-updated: 2026-06-10T04:27:02.293Z
+updated: 2026-09-20T02:18:28.430Z
 categories: [Article, Language]
 alias:
   - /2025/06/28/tangent-s-suggestions-for-learning-english-character-entry-on-charachorder-3d-input-devices/
@@ -74,7 +74,7 @@ Dot i/o and CharaChorder LaunchPad only have device previews for CC1 and CCL. Ho
 
 Besides, [Alnitak](https://andy23512.github.io/alnitak/) is a tool specially designed for practicing device layout on CharaChorder 3D input devices. Character keys, including numbers, letters, and symbols, are divided into small lessons, allowing users to focus on a small set of keys at a time. Moreover, the visual guide fades out when users reach 20 combos, and it reappears when there is a mistake. It helps users memorize the location and prevents them from simply following the guide.
 
-[Keybr](https://www.keybr.com/) doesn't have built-in visual guides for CharaChorder 3D input devices, but Keybr CC Extension ([Chrome Web Store](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg) / [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/)), a browser extension I developed, can add them to Keybr.
+[Keybr](https://www.keybr.com/) doesn't have built-in visual guides for CharaChorder 3D input devices, but Keybr CC Extension ([Chrome Web Store](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg) / [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/)), a browser extension I developed, can add them to Keybr. After clicking the gear icon in the top-right of the Keybr page, you can access the lesson and other settings. At this stage, I recommend using the "Guided lessons" with a 15 WPM target speed to practice letters, the "Source code" lesson for symbols, and the "Numbers" lesson for numbers.
 
 If you prefer to get familiar with the layout by typing real words, you can practice at [Monkeytype](https://monkeytype.com/) with Monkeytype CC Extension ([Chrome Web Store](https://chromewebstore.google.com/detail/monkeytype-cc-extension/mhfjhmegecimjbohhdbflkhdfnaadple) / [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/monkeytype-cc-extension/)). It's another browser extension I developed, similar to the Keybr CC Extension. Note that the default English set on Monkeytype only contains one word with 'j' and does not include words with 'q', 'x' or 'z'. You need to select a different set or use custom words to practice those letters.
 {% endcollapsecard %}
