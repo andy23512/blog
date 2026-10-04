@@ -1,8 +1,8 @@
 ---
 title: CC Extensions - unofficial extensions that display the layout of CharaChorder input devices on typing websites
-description: Tangent introduces CC Extensions, a set of unofficial browser extensions he developed. They can display the layout of CharaChorder input devices on Keybr and Monkeytype.
+description: Tangent introduces CC Extensions, a set of unofficial browser extensions he developed. They can display the layout of CharaChorder input devices on Keybr, Monkeytype and 10FastFingers.
 date: 2025-10-19T10:02:03.861Z
-updated: 2026-09-06T08:14:09.561Z
+updated: 2026-10-04T07:08:03.838Z
 categories: [Article, Creation]
 alias:
   - /2025/10/17/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-input-devices-on-typing-websites/
@@ -37,9 +37,15 @@ hackMDUrl: https://hackmd.io/@andy23512/ByE7wEMCle
 - [GitHub](https://github.com/andy23512/monkeytype-cc-extension)
 - [Demonstration Video](https://youtu.be/nwbKUjUmwD4)
 
+### 10FastFingers CC Extension
+
+- [Chrome Web Store](https://chromewebstore.google.com/detail/10fastfingers-cc-extensio/ijoddmekpnccpinjpfhgedbdplgdggli)
+- [GitHub](https://github.com/andy23512/10fastfingers-cc-extension)
+- [Demonstration Video](https://youtu.be/C4Pv2ujm76A)
+
 ## Feature
 
-- Display the device layout of CharaChorder input device on [Keybr](https://www.keybr.com/) or [Monkeytype](https://monkeytype.com/)
+- Display the device layout of CharaChorder input device on [Keybr](https://www.keybr.com/), [Monkeytype](https://monkeytype.com/) or [10FastFingers](https://10fastfingers.com/)
 - Allow uploading a custom device layout
 - Support changing the position, size and transparency of the device layout
 - Support setting for difference OS keyboard layout
@@ -48,27 +54,27 @@ hackMDUrl: https://hackmd.io/@andy23512/ByE7wEMCle
 
 ### Reason for making these extensions
 
-There are already a few practice tools that show the visual guide of CharaChorder input devices, such as [dot i/o](https://www.iq-eq.io/#/) and [Alnitak](https://andy23512.github.io/alnitak/). These tools provide different strategies for learning the device layout. However, Keybr’s unique learning strategy stands out, which is why many CharaChorder users prefer it. However, there are some users who favor Monkeytype over Keybr.
+There are already a few practice tools that show the visual guide of CharaChorder input devices, such as [dot i/o](https://www.iq-eq.io/#/) and [Alnitak](https://andy23512.github.io/alnitak/). These tools provide different strategies for learning the device layout. However, Keybr’s unique learning strategy stands out, which is why many CharaChorder users prefer it. However, there are some users who favor Monkeytype or 10FastFingers over Keybr.
 
-To better meet the needs of CharaChorder users, I decided to enable Keybr and Monkeytype to display the layout of CharaChorder input devices.
+To better meet the needs of CharaChorder users, I decided to enable Keybr, Monkeytype and 10FastFingers to display the layout of CharaChorder input devices.
 
  
 ### Reason for choosing to make a browser extension
 
-There are many ways to modify an existing open-sourced website like Keybr and Monkeytype, including:
+There are many ways to modify an existing open-sourced website like Keybr, Monkeytype and 10FastFingers, including:
 
 1. Directly contributing to its repo
 2. Forking it and hosting the modified website on our own
 3. Using extension like [Tampermonkey](https://www.tampermonkey.net/) to inject JavaScript to it
 4. Making a browser extension to modify and extend its functionality
 
-About the first way, I've looked into the source code of Keybr. The keyboard geometry logic in it is for 1D keyboards, as you can see in its [layouts page](https://www.keybr.com/layouts). It takes lots of work and review efforts to make it support the CharaChorder 3D keyboard directly. Not to mention the handling of the CharaChorder action codes to support a custom device layout JSON file. On the Monkeytype side, there’s not even basic support for displaying keyboard layouts.
+About the first way, I've looked into the source code of Keybr. The keyboard geometry logic in it is for 1D keyboards, as you can see in its [layouts page](https://www.keybr.com/layouts). It takes lots of work and review efforts to make it support the CharaChorder 3D keyboard directly. Not to mention the handling of the CharaChorder action codes to support a custom device layout JSON file. On the Monkeytype and 10FastFingers side, there’s not even basic support for displaying keyboard layouts.
 
 About the second way, besides the efforts to modify the source code, hosting and updating the website is a non-stop work, especially for websites that store users' information on the server. It's also bad for users to have two similar websites with different data.
 
 About the third way, the amount of code to show a dynamic device layout is not small. Also, we need to have a way to teach users from installing Tampermonkey to running the script. It's not a good choice for both the developer side and the user side.
 
-The last one, making a browser extension, is the way I chose. On the developer's side, this prevents me from studying tons of the source code of Keybr and Monkeytype. I just need to figure out how to get the current character, hide the original layout, and show my component on their websites, and I can write other things in this extension. Also, I can freely decide the tech stack and work individually. On the users' side, users only need to go to the web store page, add this extension to their browser, and everything gets done. It is a win-win solution.
+The last one, making a browser extension, is the way I chose. On the developer's side, this prevents me from studying tons of the source code of Keybr, Monkeytype and 10FastFingers. I just need to figure out how to get the current character, hide the original layout, and show my component on their websites, and I can write other things in this extension. Also, I can freely decide the tech stack and work individually. On the users' side, users only need to go to the web store page, add this extension to their browser, and everything gets done. It is a win-win solution.
 
 ### Logo and icon design
 
@@ -84,10 +90,11 @@ To address this, I designed a second logo (and now current). This new logo featu
 
 ![icon-128](/blog/images/r1QCPP31Zx.png)
 
-For the Monkeytype CC Extension, I created a similar one with Monkeytype's theme.
+For the Monkeytype CC Extension and 10FastFingers, I created a similar one with their theme.
 
 ![icon-128](/blog/images/SJyL5eRy-e.png)
 
+![icon-128](/blog/images/rJEo9dyiGx.png)
 
 ### Layout design
 
@@ -107,13 +114,20 @@ For Monkeytype, since it also uses CSS variables for theme colors and fonts, I a
 
 ![screenshot-light-m4g](/blog/images/HyLbix0yWx.png)
 
+For 10FastFingers, it doesn't use CSS variables, so I took colors from some elements from the website and set the corresponding CSS varible for the extension to work.
+
+![screenshot-dark-cc1](/blog/images/r197o_yjGl.png)
+
+![screenshot-light-m4g](/blog/images/H1X4sdJiMl.png)
+
+
 ### Reason for choosing React
 
 If you look at the tech stack I use in my other projects, you'll see that I primarily use [Angular](https://angular.dev/) as my frontend framework. Angular is the framework I'm most familiar with, and I use it in my full stack engineer role. However, I am still able to work with other options like [React](https://react.dev/) and [Vue](https://vuejs.org/).
 
 For this extension, I chose to use React instead and rewrote the layout component from Alnitak for two main reasons.
 
-First, Keybr itself is built with React, so using the same library helps avoid unexpected issues that could arise from introducing a different frontend framework or UI library. (Monkeytype is built without any frontend frameworks or UI libraries.)
+First, Keybr and 10FastFingers are built with React, so using the same library helps avoid unexpected issues that could arise from introducing a different frontend framework or UI library. (Monkeytype is built without any frontend frameworks or UI libraries.)
 
 The second reason is performance. While Angular is well-suited for building complex websites like Alnitak, it is too heavy for simply displaying a device layout component. Therefore, I prefer a lightweight option like React for CC extensions.
 
