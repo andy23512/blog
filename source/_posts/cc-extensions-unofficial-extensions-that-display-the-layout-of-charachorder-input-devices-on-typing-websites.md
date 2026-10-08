@@ -2,7 +2,7 @@
 title: CC Extensions - unofficial extensions that display the layout of CharaChorder input devices on typing websites
 description: Tangent introduces CC Extensions, a set of unofficial browser extensions he developed. They can display the layout of CharaChorder input devices on Keybr, Monkeytype and 10FastFingers.
 date: 2025-10-19T10:02:03.861Z
-updated: 2026-10-04T07:08:03.838Z
+updated: 2026-10-08T00:31:56.764Z
 categories: [Article, Creation]
 alias:
   - /2025/10/17/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-input-devices-on-typing-websites/
@@ -40,6 +40,7 @@ hackMDUrl: https://hackmd.io/@andy23512/ByE7wEMCle
 ### 10FastFingers CC Extension
 
 - [Chrome Web Store](https://chromewebstore.google.com/detail/10fastfingers-cc-extensio/ijoddmekpnccpinjpfhgedbdplgdggli)
+- [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/10fastfingers-cc-extension/)
 - [GitHub](https://github.com/andy23512/10fastfingers-cc-extension)
 - [Demonstration Video](https://youtu.be/C4Pv2ujm76A)
 
