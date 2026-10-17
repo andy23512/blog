@@ -26,7 +26,7 @@ export const siteConfig = {
     kicker: "TANGENT CHANG · 🐰📐",
     title: "Tangent's Blog",
     titleSize: 92,
-    subtitle: ["Unofficial CharaChorder & Forge", "articles and notes"],
+    subtitle: ["Unofficial CharaChorder", "articles and notes"],
     footer: "andy23512.github.io/blog",
   },
 };
