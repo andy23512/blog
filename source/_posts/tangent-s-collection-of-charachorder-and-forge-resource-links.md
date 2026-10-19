@@ -2,7 +2,7 @@
 title: Tangent's Collection of CharaChorder and Forge Resource Links
 description: Tangent collects some links to useful resources related to CharaChorder / Forge in this note.
 date: 2023-03-29T13:16:09.346Z
-updated: 2026-08-28T12:36:07.037Z
+updated: 2026-10-19T10:39:39.433Z
 categories: [Note, Resource]
 alias:
   - /2023/03/27/tangent-s-collection-of-charachorder-and-forge-resource-links/
@@ -230,8 +230,4 @@ GitHub Repo: https://github.com/typing-tech/monkeytype
 
 - [State of the Chorder (Google Form)](https://forms.gle/oLw6Wx4tBjFii3N88)
   - [State of the Chorder (Response) (Google Spreadsheet)](https://docs.google.com/spreadsheets/d/163hN9T4CpJ9bLHM7K_lch9bTDIxgqr82DkrEfWrnVmk/edit?usp=sharing)
-
-### Project Tracker
-
-- [My Trello Board of My CharaChorder Side Projects](https://trello.com/b/vU9RCh5P/tangents-board-of-his-charachorder-side-projects)
 
