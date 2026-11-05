@@ -2,7 +2,7 @@
 title: Tangent's UNOFFICIAL Playlist of CharaChorder and Forge Update Videos
 description: Tangent made a video playlist for the CharaChorder and Forge update videos. This is the note for the video playlist.
 date: 2024-07-30T07:30:32.769Z
-updated: 2026-07-23T11:52:36.802Z
+updated: 2026-11-05T01:29:30.067Z
 categories: [Note, Resource]
 alias:
   - /2024/07/28/tangent-s-unofficial-playlist-of-charachorder-and-forge-update-videos/
@@ -47,7 +47,7 @@ hackMDUrl: https://hackmd.io/@andy23512/B1WsLGLYC
 ## Sources
 
 - [CharaChorder's YouTube channel](https://www.youtube.com/@CharaChorder)
-- [CharaChorder CEO's YouTube channel](https://www.youtube.com/@crash_often)
+- [CharaChorder CEO's YouTube channel](https://www.youtube.com/@crash-often)
 - [CharaChorder's FaceBook](https://www.facebook.com/CharaChorder)
 - [CharaChorder's Instagram](https://www.instagram.com/charachorder/)
 - [CharaChorder CEO's LinkedIn](https://www.linkedin.com/in/rileykeen/)
@@ -201,6 +201,7 @@ All videos are collected from the sources listed above. NONE of my accounts, my 
 |W113*|[Our BIGGEST Announcement Ever - CharaChorder is now community owned.](https://youtu.be/6kwy6dXkLqs?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2026-04-14 12:00:16||
 |W123*|[CharaChorder - Official WeFunder Launch Video](https://youtu.be/hDCfRM3jteQ?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2026-06-26 21:00:28||
 |W125*|[Our 1st Public Shareholder Meeting!](https://youtu.be/YFofVmLQ6AI?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2026-07-07 12:05:06||
+| |[Introducing CC BALL -- Now Shipping](https://youtu.be/fGz3eYDmguY?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2026-11-04 10:00:00||
 
 [^serial]: If "Day XX" or "Week XX" is mentioned in the title or the content of the video, that serial number would be used. Otherwise, it would be decided from the uploaded time and the serial number of adjacent video, and it would be postfixed with a `*`. `D` means day and `W` means week.
 [^timezone]: North American Central Time Zone (CST/CDT) is used.
