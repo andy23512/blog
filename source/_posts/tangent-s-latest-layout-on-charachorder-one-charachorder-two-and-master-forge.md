@@ -2,7 +2,7 @@
 title: Tangent's Latest Layout on CharaChorder One, CharaChorder Two and Master Forge
 description: Tangent explains his latest layout on CharaChorder One, CharaChorder Two and Master Forge in this article.
 date: 2024-11-03T01:08:44.871Z
-updated: 2026-09-20T07:42:15.272Z
+updated: 2026-11-09T03:18:17.583Z
 categories: [Article, Layout]
 alias:
   - /2024/11/01/tangent-s-latest-layout-on-charachorder-one-charachorder-two-and-master-forge/
@@ -26,10 +26,10 @@ However, it may be hard to trace the reason behind each remapped keys on my layo
 
 ### Placing Symbols on Home Row
 
-![localhost_4200_layouts (3)](/blog/images/SJh3sUV-ke.png)
+![alhena-1-primary-symbols-on-home-row](/blog/images/ryrWsnATGx.png)
 
 Corresponding Bopomofo layout:
-![localhost_4200_layouts](/blog/images/ByF157m7kx.png)
+![alhena-2-primary-bopomofo](/blog/images/H1zQo306Mg.png)
 
 
 The Bopomofo IME can only map character keys (alphabets, numbers, and symbols) to Bopomofo symbols, so some non-character keys on the home row are replaced with symbol keys. Those symbol keys don't hold shift, so that they won't affect the chords (both CC chords and Bopomofo chords).
@@ -38,7 +38,7 @@ These symbol keys are also useful when programming.
 
 ### Placing the Replaced Non-character Keys
 
-![localhost_4200_layouts (2)](/blog/images/S1HFjUNbyg.png)
+![alhena-3-primary-replaced-non-character-keys](/blog/images/SJOBi2R6zx.png)
 
 Then I should find places for the non-character keys replaced by symbols. Similar to the default layout of M4G, I place them on the ring middle switches.
 
@@ -46,7 +46,7 @@ Then I should find places for the non-character keys replaced by symbols. Simila
 
 ### Numeric Layer Lock
 
-![localhost_4200_layouts (4)](/blog/images/HkIfT8E-Jg.png)
+![alhena-4-primary-numeric-layer-lock](/blog/images/BkILjnRpfe.png)
 
 Since the mouse switches on the primary layer are occupied by some non-character keys, I use the mouse actions on the numeric layer instead. I remap a numeric layer lock key to lock the device to the numeric layer. (And the original num-shift keys are used to unlock.)
 
@@ -54,7 +54,7 @@ Since the mouse switches on the primary layer are occupied by some non-character
 
 ### Placing Function Keys to Left Half
 
-![localhost-layouts](/blog/images/BkAVRZTKfx.png)
+![alhena-5-numeric-function-keys](/blog/images/r1EwihRTfe.png)
 
 To make the function keys more accessible, I remap them to the left half of the numeric layer.
 
@@ -62,7 +62,7 @@ I need F13 for a custom hot key so I also remap it.
 
 ### Placing Mouse Actions
 
-![localhost_4200_layouts (4)](/blog/images/HyMARFtf-g.png)
+![alhena-6-numeric-mouse-actions](/blog/images/BykKsnAafe.png)
 
 - M(arrow): mouse move
 - S(arrow): mouse scroll
