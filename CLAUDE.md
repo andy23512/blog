@@ -23,7 +23,7 @@ This repo has a sibling, `blog-zh-tw` (Traditional Chinese edition). Per the com
 - `yarn deploy` — `hexo deploy`
 - No test suite. Lint config exists (`.eslintrc.js`, TS + `eslint:recommended`) but there's no `lint` script in `package.json`; run `eslint` directly if needed.
 
-CI: `.github/workflows/pages.yml` runs `corepack enable`, then `yarn install --frozen-lockfile` and `yarn build` (so `yarn.lock` is honored), and deploys `public/` to GitHub Pages on push to `main`. There's also a `.gitlab-ci.yml` for GitLab Pages that still uses `npm install && npm run build` (not yarn, so it ignores `yarn.lock`).
+CI: `.github/workflows/pages.yml` runs `corepack enable`, then `yarn install --frozen-lockfile` and `yarn build` (so `yarn.lock` is honored), and deploys `public/` to GitHub Pages on push to `main`. There's also a `.gitlab-ci.yml` for GitLab Pages with the same yarn steps; it's only a fallback in case GitHub is unavailable and has not been test-run.
 
 ## Architecture / pipeline
 
