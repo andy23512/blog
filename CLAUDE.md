@@ -10,7 +10,7 @@ This repo has a sibling, `blog-zh-tw` (Traditional Chinese edition). Per the com
 
 - Hexo 7 (static site generator) with the `hexo-theme-next` theme
 - TypeScript build/fetch scripts run via `tsx`
-- Node 20, package manager `yarn` (see `packageManager` field in `package.json`)
+- Node 22 (per `.github/workflows/pages.yml` and `.gitlab-ci.yml`), package manager `yarn` (see `packageManager` field in `package.json`)
 
 ## Key commands
 
@@ -23,7 +23,7 @@ This repo has a sibling, `blog-zh-tw` (Traditional Chinese edition). Per the com
 - `yarn deploy` — `hexo deploy`
 - No test suite. Lint config exists (`.eslintrc.js`, TS + `eslint:recommended`) but there's no `lint` script in `package.json`; run `eslint` directly if needed.
 
-CI: `.github/workflows/pages.yml` runs `npm install && npm run build` and deploys `public/` to GitHub Pages on push to `main`. There's also a `.gitlab-ci.yml` doing the same for GitLab Pages.
+CI: `.github/workflows/pages.yml` runs `corepack enable`, then `yarn install --frozen-lockfile` and `yarn build` (so `yarn.lock` is honored), and deploys `public/` to GitHub Pages on push to `main`. There's also a `.gitlab-ci.yml` for GitLab Pages that still uses `npm install && npm run build` (not yarn, so it ignores `yarn.lock`).
 
 ## Architecture / pipeline
 
