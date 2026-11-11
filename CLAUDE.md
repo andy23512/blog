@@ -21,6 +21,7 @@ This repo has a sibling, `blog-zh-tw` (Traditional Chinese edition). Per the com
 - `yarn clean` — `hexo clean`
 - `yarn og` — regenerate the Open Graph image (`bin/generate-og-image.ts`), committed as `source/images/og-image.jpg`
 - `yarn deploy` — `hexo deploy`
+- `yarn check:sync` — run `bin/check-sibling-sync.ts`: verifies that the files meant to be identical across `blog` and `blog-zh-tw` (`bin/`, `model/`, `util/`, `scripts/`, `scaffolds/`, `package.json`, `yarn.lock`, `tsconfig.json`, `.eslintrc.js`, `.gitignore`, `.gitlab-ci.yml`, `.github/` workflows and dependabot config, `_config.landscape.yml`, `LICENSE`) really are; exits 1 and lists the differences otherwise. It compares the working trees of the two sibling directories, and does not check `_config.yml`, `_config.next.yml` or `site.config.ts`, which are expected to differ. Run it before committing changes to any of those files.
 - No test suite. Lint config exists (`.eslintrc.js`, TS + `eslint:recommended`) but there's no `lint` script in `package.json`; run `eslint` directly if needed.
 
 CI: `.github/workflows/pages.yml` runs `corepack enable`, then `yarn install --frozen-lockfile` and `yarn build` (so `yarn.lock` is honored), and deploys `public/` to GitHub Pages on push to `main`. There's also a `.gitlab-ci.yml` for GitLab Pages with the same yarn steps; it's only a fallback in case GitHub is unavailable and has not been test-run.

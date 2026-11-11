@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "build": "hexo generate",
+    "check:sync": "tsx bin/check-sibling-sync.ts",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "og": "tsx bin/generate-og-image.ts",
