@@ -2,7 +2,7 @@
 title: Tangent's suggestions for learning English character entry on CharaChorder 3D input devices
 description: Tangent shares his suggestions for learning English character entry on CharaChorder 3D input devices (CharaChorder One, CharaChorder Two, CCU, and Master Forge).
 date: 2025-06-30T11:38:13.283Z
-updated: 2026-11-13T12:50:23.278Z
+updated: 2026-11-13T13:19:41.028Z
 categories: [Article, Language]
 alias:
   - /2025/06/28/tangent-s-suggestions-for-learning-english-character-entry-on-charachorder-3d-input-devices/
@@ -35,6 +35,17 @@ Air typing involves mimicking typing gestures with your fingers, either in the a
 
 Additionally, there is [an AI-generated layout song at Alnitak](https://andy23512.github.io/alnitak/layout-song) that can help you memorize the default layout.
 
+{% endcollapsecard %}
+
+## Follow the tutorial
+
+- Purpose: Go through the device introduction and basic functionalities with the tutorial 
+- Recommended tool:
+  - [Capella](https://andy23512.github.io/capella/)
+- Recommended goal:
+  - Complete all chapters and all practices in Capella
+  
+{% collapsecard "Show Detail" %}[Capella](https://andy23512.github.io/capella/) is an unofficial tutorial site for CharaChorder 3D input devices. It walks you through how the hardware works and how to actually use it, including the standard keys, CharaChorder special keys, and basic chording. 
 {% endcollapsecard %}
 
 ## Practice device layout
