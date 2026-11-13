@@ -2,7 +2,7 @@
 title: Tangent's suggestions for learning English character entry on CharaChorder 3D input devices
 description: Tangent shares his suggestions for learning English character entry on CharaChorder 3D input devices (CharaChorder One, CharaChorder Two, CCU, and Master Forge).
 date: 2025-06-30T11:38:13.283Z
-updated: 2026-11-13T13:19:41.028Z
+updated: 2026-11-13T14:04:29.920Z
 categories: [Article, Language]
 alias:
   - /2025/06/28/tangent-s-suggestions-for-learning-english-character-entry-on-charachorder-3d-input-devices/
@@ -16,7 +16,7 @@ otherLanguages:
     path: https://andy23512.github.io/blog-zh-tw/tangent-對學習使用-charachorder-3d-輸入裝置英打（逐字輸入）的建議/
 hackMDUrl: https://hackmd.io/@andy23512/Sy6XveeBgx
 ---
-![learning-stages](/blog/images/HJRFwFERGg.png)
+![learning-stages](/blog/images/ryyetcVAGg.png)
 
 ## Memorize device layout without device
 
