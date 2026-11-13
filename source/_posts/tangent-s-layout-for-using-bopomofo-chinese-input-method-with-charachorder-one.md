@@ -2,7 +2,7 @@
 title: Tangent's layout for using Bopomofo Chinese input method with CharaChorder One
 description: Tangent shares the layout he designed for using Bopomofo Chinese input method on CharaChorder One in this article.
 date: 2023-05-07T16:27:01.862Z
-updated: 2026-03-23T11:13:40.096Z
+updated: 2026-11-13T12:48:53.925Z
 categories: [Article, Layout]
 alias:
   - /2023/05/06/tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one/
@@ -192,28 +192,15 @@ It looks like someone shuffle the positions of all keys on your keyboard, but it
 
 For example, when typing `ㄅㄆㄇㄈ...` at TC41.V5, the CC1 actually send out the `7890...` sequence.
 
-```mermaid
-sequenceDiagram
-CC1->>TC41.V5: 7890...
-TC41.V5->>Output: ㄅㄆㄇㄈ...
-```
+![bpmf-tc41-v5-mapping](/blog/images/H1S-vYERfx.png)
 
 But at Standard Bopomofo, the keyboard actually send out the `1qaz...` sequence. (This is the Bopomofo password of ㄅㄆㄇㄈ...)
 
-```mermaid
-sequenceDiagram
-Keyboard->>Standard BPMF: 1qaz...
-Standard BPMF->>Output: ㄅㄆㄇㄈ...
-```
+![bpmf-standard-layout](/blog/images/ByCzwFEAGx.png)
 
 So we just need a Bopomofo password layout to map the output from CC1 `7890...` to corresponding output `1qaz...`, so on this layout, `7890` keys would output `1qaz` respectively.
 
-```mermaid
-sequenceDiagram
-CC1->>TC41.V5: 7890...
-TC41.V5->>Reversed Standard BPMF: ㄅㄆㄇㄈ...
-Reversed Standard BPMF->>Output: 1qaz... (BPMF password)
-```
+![bpmf-reversed-standard-layout](/blog/images/ryvEwFNRfg.png)
 
 So the output of `7890` keys should be `1qaz` on the OS layout respectively, which is the result after doing TC41.V5 mapping and Reversed Standard Bopomofo mapping.
 

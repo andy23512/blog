@@ -2,7 +2,7 @@
 title: Tangent's Usages of Chording
 description: In this note, Tangent explains his several usages of chording, including Bopomofo chords and CharaChorder chords, and how he prevents the conflict between them.
 date: 2024-11-13T15:47:44.105Z
-updated: 2025-03-23T08:44:47.680Z
+updated: 2026-11-13T12:51:29.503Z
 categories: [Article, Chord]
 alias:
   - /2024/11/11/tangent-s-usages-of-chording/
@@ -52,13 +52,7 @@ For example, This is the `ㄑ+ㄜ -> 企鵝` chord in work. (企鵝 is penguin i
 
 And this is the sequence chart of how it works.
 
-```mermaid
-sequenceDiagram
-User->>CC1: e + 4 (ㄑ+ㄜ)
-CC1->>TC41 V5: eas4n
-TC41 V5->>BPMF IME: ㄑㄧˋㄜˊ
-BPMF IME->>Output: 企鵝
-```
+![chording-example-penguin](/blog/images/H1WaDY4AGl.png)
 
 So what I did is adding an `e + 4 -> eas4n[KSC_00]` chord in CC1. It is mapped to `ㄑ+ㄜ -> ㄑㄧˋㄜˊ[KSC_00]` under TC41 V5, and the output word `企鵝` is decided by the Bopomofo IME according to its dictionary.
 
@@ -82,12 +76,7 @@ For example, this is the `s+h -> すし(寿司)` chord in work. (same as CC1 Chi
 
 And this is the sequence chart of how it works.
 
-```mermaid
-sequenceDiagram
-    User->>CC1: s + h
-    CC1->>JP IME: susi
-    JP IME->>Output: 寿司 (or any homophones of すし)
-```
+![chording-example-sushi](/blog/images/H1NCwF4AMl.png)
 
 #### Limitation
 

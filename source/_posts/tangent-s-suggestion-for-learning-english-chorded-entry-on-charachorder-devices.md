@@ -2,7 +2,7 @@
 title: Tangent's suggestion for learning English chorded entry on CharaChorder devices
 description: Tangent shares his suggestions for learning chorded entry on CharaChorder device.
 date: 2026-01-25T00:40:11.664Z
-updated: 2026-06-25T16:05:11.695Z
+updated: 2026-11-13T12:49:36.254Z
 categories: [Article, Chord]
 alias:
   - /2026/01/23/tangent-s-suggestion-for-learning-english-chorded-entry-on-charachorder-devices/
@@ -97,15 +97,7 @@ According to the learning cycle, I have also developed a chord practice tool wit
 
 ### What is CHARA cycle?
 
-```mermaid
-flowchart LR
-    A["CH - CHoose CHords"] <--> B["A - Adapt"]
-    A <--> D["A - Accumulate"]
-    B & D <--> C["R - Realize"]
-    
-    linkStyle 1,3 marker-end:none;
-    linkStyle 0,2 marker-start:none;
-```
+![ch-a-r-cycle](/blog/images/B1MvvtNRMx.png)
 
 CHARA stands for 4 phases, CHoose CHords, Adapt, Realize, and Accumulate.
 

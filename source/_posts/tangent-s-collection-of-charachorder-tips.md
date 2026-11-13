@@ -2,7 +2,7 @@
 title: Tangent's Collection of CharaChorder Tips
 description: Tangent collect some tips from himself, CharaChorder Discord server and other related website in this note.
 date: 2025-11-26T12:42:54.546Z
-updated: 2026-06-25T00:42:16.713Z
+updated: 2026-11-13T12:45:47.062Z
 categories: [Note, Resource]
 alias:
   - /2025/11/24/tangent-s-collection-of-charachorder-tips/
@@ -53,27 +53,7 @@ Depending on the action you put on the same location of the layers, the key will
 
 #### Layer shift
 
-```mermaid
----
-displayMode: compact
----
-gantt
-    dateFormat X
-    axisFormat %s
-    tickInterval 1day
-    title Layer shift ( A1: ② | A2: ② )
-    section ㅤ
-    Press: milestone, done, 1, 1
-    Release: milestone, done, 2, 2
-    Press: milestone, done, 3, 3
-    Release: milestone, done, 4, 4
-    section ㅤㅤ
-    A1: 0, 1s
-    A2: active, 1, 1s
-    A1: 2, 1s
-    A2: active, 3, 1s
-    A1: 4, 1s
-```
+![layer-shift](/blog/images/ByMX8FE0Gx.png)
 
 The first type is the layer shift. For example, the key has A2 layer action, ②, on both A1 and A2 layers.
 
@@ -81,24 +61,7 @@ The ones on the default layout are in this type. They act like the Shift keys on
 
 #### One-way layer lock
 
-```mermaid
----
-displayMode: compact
----
-gantt
-    dateFormat X
-    axisFormat %s
-    title One-way layer lock ( A1: ② | A2: any actions except layer actions )
-    section ㅤ
-    Press: milestone, done, 1, 1
-    Release: milestone, done, 2, 2
-    Press: milestone, done, 3, 3
-    Release: milestone, done, 4, 4
-    tickInterval 1day
-    section ㅤㅤ
-    A1: 0, 1
-    A2: active, 1, 5
-```
+![one-way-layer-lock](/blog/images/H1kHLFNAGl.png)
 
 The second kind is the one-way layer lock key. For example, the key has ② on A1, but any actions other than layer actions on A2.
 
@@ -106,25 +69,7 @@ This kind of key acts like the Caps Lock key on standard keyboards, but only one
 
 #### Two-way layer lock
 
-```mermaid
----
-displayMode: compact
----
-gantt
-    dateFormat X
-    axisFormat %s
-    title Two-way layer lock ( A1: ② | A2: ① )
-    section ㅤ
-    Press: milestone, done, 1, 1
-    Release: milestone, done, 2, 2
-    Press: milestone, done, 3, 3
-    Release: milestone, done, 4, 4
-    tickInterval 1day
-    section ㅤㅤ
-    A1: 0, 1s
-    A2: active, 1, 2s
-    A1: 3, 2s
-```
+![two-way-layer-lock](/blog/images/rylCULKECGx.png)
 
 The third kind is the two-way layer lock. For example, the key has ② on A1, and ① on A2.
 
@@ -132,28 +77,7 @@ This kind of key acts like the Caps Lock key on standard keyboards. The device s
 
 #### Layer rotator
 
-```mermaid
----
-displayMode: compact
----
-gantt
-    dateFormat X
-    axisFormat %s
-    title Layer rotator ( A1: ② | A2: ③ | A3: ① )
-    section ㅤ
-    Press: milestone, done, 1, 1
-    Release: milestone, done, 2, 2
-    Press: milestone, done, 3, 3
-    Release: milestone, done, 4, 4
-    Press: milestone, done, 5, 5
-    Release: milestone, done, 6, 6
-    tickInterval 1day
-    section ㅤㅤ
-    A1: 0, 1s
-    A2: active, 1, 2s
-    A3: crit, 3, 2s
-    A1: 5, 2s
-```
+![layer-rotator](/blog/images/HyvuLF4Rfe.png)
 
 The fourth type is the layer rotator: a key that moves the device to the next or previous layer. For instance, a key has ② on A1, ③ on A2, and ① on A3. With this setup, you can cycle through all the layers using just one key.
 
