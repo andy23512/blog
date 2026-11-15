@@ -2,7 +2,7 @@
 title: Tangent's Collection of CharaChorder and Forge Resource Links
 description: Tangent collects some links to useful resources related to CharaChorder / Forge in this note.
 date: 2023-03-29T13:16:09.346Z
-updated: 2026-10-19T10:39:39.433Z
+updated: 2026-11-15T03:21:53.943Z
 categories: [Note, Resource]
 alias:
   - /2023/03/27/tangent-s-collection-of-charachorder-and-forge-resource-links/
@@ -32,6 +32,8 @@ hackMDUrl: https://hackmd.io/@andy23512/HJWXq3-Z2
 ### Home Page
 
 #### [CharaChorder - Type at the speed of thought®](https://www.charachorder.com/)
+
+- [Learn - CharaChorder](https://www.charachorder.com/pages/learn)
 
 #### [Forge Keyboard](https://forgekeyboard.com/)
 
