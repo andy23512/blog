@@ -2,7 +2,7 @@
 title: Tangent's suggestions for learning English character entry on CharaChorder 3D input devices
 description: Tangent shares his suggestions for learning English character entry on CharaChorder 3D input devices (CharaChorder One, CharaChorder Two, CCU, and Master Forge).
 date: 2025-06-30T11:38:13.283Z
-updated: 2026-11-13T14:04:29.920Z
+updated: 2026-11-17T13:39:48.113Z
 categories: [Article, Language]
 alias:
   - /2025/06/28/tangent-s-suggestions-for-learning-english-character-entry-on-charachorder-3d-input-devices/
@@ -139,3 +139,13 @@ Besides, [Keybr](https://www.keybr.com/) helps users learn touch typing. If you'
 
 For example, you can write short articles, code small programs, or do anything else that involves keyboards. You might find some key locations or settings you want to change.
 {% endcollapsecard %}
+
+## What's next
+
+After you complete the goal at the “Practice words” stage, congratulations- you have reached the average QWERTY typing speed in the training tool.
+
+What to learn or try next depends on your requirements. For example,
+
+1. You can start learning chorded entry for higher speed. I have <a href="{% post_path tangent-s-suggestion-for-learning-english-chorded-entry-on-charachorder-devices %}">another article about my suggestion for learning English chorded entry</a> for your reference.
+2. You can take more time to get used to it and optimize the device for your use cases (writing, programming, etc.) For me, I configured the layout for my use cases, including Chinese typing, programming, and mouse replacement. You can check out <a href="{% post_path tangent-s-latest-layout-on-charachorder-one-charachorder-two-and-master-forge %}">my latest layout in this article</a> if you are interested.
+3. If you need to type in other languages, you may need to learn them individually or modify the device layout and settings. In my case, I designed several layout versions to support my Chinese typing and practiced until I reached an acceptable speed.
