@@ -2,7 +2,7 @@
 title: Tangent's suggestion for learning English chorded entry on CharaChorder devices
 description: Tangent shares his suggestions for learning chorded entry on CharaChorder device.
 date: 2026-01-25T00:40:11.664Z
-updated: 2026-11-13T12:49:36.254Z
+updated: 2026-11-18T12:59:53.235Z
 categories: [Article, Chord]
 alias:
   - /2026/01/23/tangent-s-suggestion-for-learning-english-chorded-entry-on-charachorder-devices/
@@ -108,7 +108,7 @@ CHARA stands for 4 phases, CHoose CHords, Adapt, Realize, and Accumulate.
 
 Next, I would break down each phase.
 
-#### CH - choose CHords
+#### CH - CHoose CHords
 
 The first phase in the cycle is to choose 3-5 chords to enter the learning cycle. I would suggest starting with the most frequent words in your chord library. You can get the [top 20k English words list from Google](https://github.com/first20hours/google-10000-english/blob/master/20k.txt) or [the top 1k English words list from Monkeytype](https://github.com/monkeytypegame/monkeytype/blob/master/frontend/static/languages/english_1k.json) for comparing the word frequency.
 
