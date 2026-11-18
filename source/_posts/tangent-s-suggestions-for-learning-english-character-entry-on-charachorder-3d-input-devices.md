@@ -2,7 +2,7 @@
 title: Tangent's suggestions for learning English character entry on CharaChorder 3D input devices
 description: Tangent shares his suggestions for learning English character entry on CharaChorder 3D input devices (CharaChorder One, CharaChorder Two, CCU, and Master Forge).
 date: 2025-06-30T11:38:13.283Z
-updated: 2026-11-17T13:39:48.113Z
+updated: 2026-11-18T11:45:36.392Z
 categories: [Article, Language]
 alias:
   - /2025/06/28/tangent-s-suggestions-for-learning-english-character-entry-on-charachorder-3d-input-devices/
@@ -43,7 +43,7 @@ Additionally, there is [an AI-generated layout song at Alnitak](https://andy2351
 - Recommended tool:
   - [Capella](https://andy23512.github.io/capella/)
 - Recommended goal:
-  - Complete all chapters and all practices in Capella
+  - Complete all chapters and all exercises in Capella
   
 {% collapsecard "Show Detail" %}[Capella](https://andy23512.github.io/capella/) is an unofficial tutorial site for CharaChorder 3D input devices. It walks you through how the hardware works and how to actually use it, including the standard keys, CharaChorder special keys, and basic chording. 
 {% endcollapsecard %}
